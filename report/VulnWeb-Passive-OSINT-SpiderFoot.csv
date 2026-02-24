@@ -1,0 +1,1538 @@
+Scan Name,Updated,Type,Module,Source,F/P,Data
+VulnWeb-Passive-OSINT,2026-02-24 07:33:34,AFFILIATE_DOMAIN_WHOIS,sfp_whois,awsdns-16.co.uk,0,"
+    Domain name:
+        awsdns-16.co.uk
+
+    Data validation:
+        Nominet was able to match the registrant's name and address against a 3rd party data source on 10-Dec-2012
+
+    Registrar:
+        Markmonitor Inc. [Tag = MARKMONITOR]
+        URL: https://www.markmonitor.com
+
+    Relevant dates:
+        Registered on: 21-Oct-2010
+        Expiry date:  21-Oct-2026
+        Last updated:  31-Jul-2025
+
+    Registration status:
+        Registered until expiry date.
+
+    Name servers:
+        g-ns-1491.awsdns-16.co.uk  205.251.197.211  2600:9000:5305:d300::1
+        g-ns-1812.awsdns-16.co.uk  205.251.199.20  2600:9000:5307:1400::1
+        g-ns-336.awsdns-16.co.uk  205.251.193.80  2600:9000:5301:5000::1
+        g-ns-912.awsdns-16.co.uk  205.251.195.144  2600:9000:5303:9000::1
+
+    WHOIS lookup made at 12:33:33 24-Feb-2026
+
+-- 
+This WHOIS information is provided for free by Nominet UK the central registry
+for .uk domain names. This information and the .uk WHOIS are:
+
+    Copyright "
+VulnWeb-Passive-OSINT,2026-02-24 07:33:40,AFFILIATE_DOMAIN_WHOIS,sfp_whois,1e100.net,0,"   Domain Name: 1E100.NET
+   Registry Domain ID: 1570253561_DOMAIN_NET-VRSN
+   Registrar WHOIS Server: whois.markmonitor.com
+   Registrar URL: http://www.markmonitor.com
+   Updated Date: 2025-08-24T10:14:44Z
+   Creation Date: 2009-09-25T05:40:03Z
+   Registry Expiry Date: 2026-09-25T05:40:03Z
+   Registrar: MarkMonitor Inc.
+   Registrar IANA ID: 292
+   Registrar Abuse Contact Email: abusecomplaints@markmonitor.com
+   Registrar Abuse Contact Phone: +1.2086851750
+   Domain Status: clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited
+   Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+   Domain Status: clientUpdateProhibited https://icann.org/epp#clientUpdateProhibited
+   Domain Status: serverDeleteProhibited https://icann.org/epp#serverDeleteProhibited
+   Domain Status: serverTransferProhibited https://icann.org/epp#serverTransferProhibited
+   Domain Status: serverUpdateProhibited https://icann.org/epp#serverUpdateProhibited
+   Name Server: NS1"
+VulnWeb-Passive-OSINT,2026-02-24 07:33:02,AFFILIATE_DOMAIN_WHOIS,sfp_whois,amazon.com,0,"   Domain Name: AMAZON.COM
+   Registry Domain ID: 281209_DOMAIN_COM-VRSN
+   Registrar WHOIS Server: whois.markmonitor.com
+   Registrar URL: http://www.markmonitor.com
+   Updated Date: 2025-07-31T17:49:55Z
+   Creation Date: 1994-11-01T05:00:00Z
+   Registry Expiry Date: 2026-10-31T04:00:00Z
+   Registrar: MarkMonitor Inc.
+   Registrar IANA ID: 292
+   Registrar Abuse Contact Email: abusecomplaints@markmonitor.com
+   Registrar Abuse Contact Phone: +1.2086851750
+   Domain Status: clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited
+   Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+   Domain Status: clientUpdateProhibited https://icann.org/epp#clientUpdateProhibited
+   Domain Status: serverDeleteProhibited https://icann.org/epp#serverDeleteProhibited
+   Domain Status: serverTransferProhibited https://icann.org/epp#serverTransferProhibited
+   Domain Status: serverUpdateProhibited https://icann.org/epp#serverUpdateProhibited
+   Name Server: NS1.AM"
+VulnWeb-Passive-OSINT,2026-02-24 07:27:09,DOMAIN_WHOIS,sfp_whois,amazonaws.com,0,"   Domain Name: AMAZONAWS.COM
+   Registry Domain ID: 197784869_DOMAIN_COM-VRSN
+   Registrar WHOIS Server: whois.markmonitor.com
+   Registrar URL: http://www.markmonitor.com
+   Updated Date: 2024-01-29T18:09:26Z
+   Creation Date: 2005-08-18T02:10:45Z
+   Registry Expiry Date: 2027-01-16T04:59:59Z
+   Registrar: MarkMonitor Inc.
+   Registrar IANA ID: 292
+   Registrar Abuse Contact Email: abusecomplaints@markmonitor.com
+   Registrar Abuse Contact Phone: +1.2086851750
+   Domain Status: clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited
+   Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+   Domain Status: clientUpdateProhibited https://icann.org/epp#clientUpdateProhibited
+   Domain Status: serverDeleteProhibited https://icann.org/epp#serverDeleteProhibited
+   Domain Status: serverTransferProhibited https://icann.org/epp#serverTransferProhibited
+   Domain Status: serverUpdateProhibited https://icann.org/epp#serverUpdateProhibited
+   Name Server: "
+VulnWeb-Passive-OSINT,2026-02-24 07:33:24,AFFILIATE_DOMAIN_WHOIS,sfp_whois,awsdns-03.com,0,"   Domain Name: AWSDNS-03.COM
+   Registry Domain ID: 1621572989_DOMAIN_COM-VRSN
+   Registrar WHOIS Server: whois.markmonitor.com
+   Registrar URL: http://www.markmonitor.com
+   Updated Date: 2025-07-31T17:31:13Z
+   Creation Date: 2010-10-21T21:02:44Z
+   Registry Expiry Date: 2026-10-21T21:02:44Z
+   Registrar: MarkMonitor Inc.
+   Registrar IANA ID: 292
+   Registrar Abuse Contact Email: abusecomplaints@markmonitor.com
+   Registrar Abuse Contact Phone: +1.2086851750
+   Domain Status: clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited
+   Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+   Domain Status: clientUpdateProhibited https://icann.org/epp#clientUpdateProhibited
+   Domain Status: serverDeleteProhibited https://icann.org/epp#serverDeleteProhibited
+   Domain Status: serverTransferProhibited https://icann.org/epp#serverTransferProhibited
+   Domain Status: serverUpdateProhibited https://icann.org/epp#serverUpdateProhibited
+   Name Server:"
+VulnWeb-Passive-OSINT,2026-02-24 07:32:49,AFFILIATE_DOMAIN_WHOIS,sfp_whois,awsdns-56.net,0,"   Domain Name: AWSDNS-56.NET
+   Registry Domain ID: 1621573084_DOMAIN_NET-VRSN
+   Registrar WHOIS Server: whois.markmonitor.com
+   Registrar URL: http://www.markmonitor.com
+   Updated Date: 2025-07-31T17:48:26Z
+   Creation Date: 2010-10-21T21:02:57Z
+   Registry Expiry Date: 2026-10-21T21:02:57Z
+   Registrar: MarkMonitor Inc.
+   Registrar IANA ID: 292
+   Registrar Abuse Contact Email: abusecomplaints@markmonitor.com
+   Registrar Abuse Contact Phone: +1.2086851750
+   Domain Status: clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited
+   Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+   Domain Status: clientUpdateProhibited https://icann.org/epp#clientUpdateProhibited
+   Domain Status: serverDeleteProhibited https://icann.org/epp#serverDeleteProhibited
+   Domain Status: serverTransferProhibited https://icann.org/epp#serverTransferProhibited
+   Domain Status: serverUpdateProhibited https://icann.org/epp#serverUpdateProhibited
+   Name Server:"
+VulnWeb-Passive-OSINT,2026-02-24 07:30:09,AFFILIATE_DOMAIN_WHOIS,sfp_whois,gandi.net,0,"   Domain Name: GANDI.NET
+   Registry Domain ID: 6683836_DOMAIN_NET-VRSN
+   Registrar WHOIS Server: whois.gandi.net
+   Registrar URL: http://www.gandi.net
+   Updated Date: 2025-03-22T13:14:46Z
+   Creation Date: 1999-05-21T14:09:21Z
+   Registry Expiry Date: 2026-05-21T14:09:56Z
+   Registrar: Gandi SAS
+   Registrar IANA ID: 81
+   Registrar Abuse Contact Email: abuse@support.gandi.net
+   Registrar Abuse Contact Phone: +33.170377661
+   Domain Status: clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited
+   Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+   Domain Status: clientUpdateProhibited https://icann.org/epp#clientUpdateProhibited
+   Domain Status: serverDeleteProhibited https://icann.org/epp#serverDeleteProhibited
+   Domain Status: serverTransferProhibited https://icann.org/epp#serverTransferProhibited
+   Domain Status: serverUpdateProhibited https://icann.org/epp#serverUpdateProhibited
+   Name Server: DNS0.GANDI.NET
+   Name Server: DN"
+VulnWeb-Passive-OSINT,2026-02-24 07:27:47,AFFILIATE_DOMAIN_WHOIS,sfp_whois,google.com,0,"   Domain Name: GOOGLE.COM
+   Registry Domain ID: 2138514_DOMAIN_COM-VRSN
+   Registrar WHOIS Server: whois.markmonitor.com
+   Registrar URL: http://www.markmonitor.com
+   Updated Date: 2019-09-09T15:39:04Z
+   Creation Date: 1997-09-15T04:00:00Z
+   Registry Expiry Date: 2028-09-14T04:00:00Z
+   Registrar: MarkMonitor Inc.
+   Registrar IANA ID: 292
+   Registrar Abuse Contact Email: abusecomplaints@markmonitor.com
+   Registrar Abuse Contact Phone: +1.2086851750
+   Domain Status: clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited
+   Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+   Domain Status: clientUpdateProhibited https://icann.org/epp#clientUpdateProhibited
+   Domain Status: serverDeleteProhibited https://icann.org/epp#serverDeleteProhibited
+   Domain Status: serverTransferProhibited https://icann.org/epp#serverTransferProhibited
+   Domain Status: serverUpdateProhibited https://icann.org/epp#serverUpdateProhibited
+   Name Server: NS1.G"
+VulnWeb-Passive-OSINT,2026-02-24 07:27:03,DOMAIN_WHOIS,sfp_whois,vulnweb.com,0,"   Domain Name: VULNWEB.COM
+   Registry Domain ID: 1602006391_DOMAIN_COM-VRSN
+   Registrar WHOIS Server: whois.gandi.net
+   Registrar URL: http://www.gandi.net
+   Updated Date: 2025-11-17T09:34:20Z
+   Creation Date: 2010-06-14T07:50:29Z
+   Registry Expiry Date: 2027-06-14T07:50:29Z
+   Registrar: Gandi SAS
+   Registrar IANA ID: 81
+   Registrar Abuse Contact Email: abuse@support.gandi.net
+   Registrar Abuse Contact Phone: +33.170377661
+   Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+   Name Server: NS-105-A.GANDI.NET
+   Name Server: NS-11-B.GANDI.NET
+   Name Server: NS-140-C.GANDI.NET
+   DNSSEC: unsigned
+   URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of whois database: 2026-02-24T12:26:49Z <<<
+
+For more information on Whois status codes, please visit https://icann.org/epp
+
+NOTICE: The expiration date displayed in this record is the date the
+registrar's sponsorship of the domain name registration in "
+VulnWeb-Passive-OSINT,2026-02-24 07:30:09,PHONE_NUMBER,sfp_phone,"   Domain Name: AMAZONAWS.COM
+   Registry Domain ID: 197784869_DOMAIN_COM-VRSN
+   Registrar WHOIS Server: whois.markmonitor.com
+   Registrar URL: http://www.markmonitor.com
+   Updated Date: 2024-01-29T18:09:26Z
+   Creation Date: 2005-08-18T02:10:45Z
+   Registry Expiry Date: 2027-01-16T04:59:59Z
+   Registrar: MarkMonitor Inc.
+   Registrar IANA ID: 292
+   Registrar Abuse Contact Email: abusecomplaints@markmonitor.com
+   Registrar Abuse Contact Phone: +1.2086851750
+   Domain Status: clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited
+   Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+   Domain Status: clientUpdateProhibited https://icann.org/epp#clientUpdateProhibited
+   Domain Status: serverDeleteProhibited https://icann.org/epp#serverDeleteProhibited
+   Domain Status: serverTransferProhibited https://icann.org/epp#serverTransferProhibited
+   Domain Status: serverUpdateProhibited https://icann.org/epp#serverUpdateProhibited
+   Name Server: ",0,+12062664064
+VulnWeb-Passive-OSINT,2026-02-24 07:30:09,PHONE_NUMBER,sfp_phone,"   Domain Name: AMAZONAWS.COM
+   Registry Domain ID: 197784869_DOMAIN_COM-VRSN
+   Registrar WHOIS Server: whois.markmonitor.com
+   Registrar URL: http://www.markmonitor.com
+   Updated Date: 2024-01-29T18:09:26Z
+   Creation Date: 2005-08-18T02:10:45Z
+   Registry Expiry Date: 2027-01-16T04:59:59Z
+   Registrar: MarkMonitor Inc.
+   Registrar IANA ID: 292
+   Registrar Abuse Contact Email: abusecomplaints@markmonitor.com
+   Registrar Abuse Contact Phone: +1.2086851750
+   Domain Status: clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited
+   Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+   Domain Status: clientUpdateProhibited https://icann.org/epp#clientUpdateProhibited
+   Domain Status: serverDeleteProhibited https://icann.org/epp#serverDeleteProhibited
+   Domain Status: serverTransferProhibited https://icann.org/epp#serverTransferProhibited
+   Domain Status: serverUpdateProhibited https://icann.org/epp#serverUpdateProhibited
+   Name Server: ",0,+12062667010
+VulnWeb-Passive-OSINT,2026-02-24 07:30:09,PHONE_NUMBER,sfp_phone,"   Domain Name: AMAZONAWS.COM
+   Registry Domain ID: 197784869_DOMAIN_COM-VRSN
+   Registrar WHOIS Server: whois.markmonitor.com
+   Registrar URL: http://www.markmonitor.com
+   Updated Date: 2024-01-29T18:09:26Z
+   Creation Date: 2005-08-18T02:10:45Z
+   Registry Expiry Date: 2027-01-16T04:59:59Z
+   Registrar: MarkMonitor Inc.
+   Registrar IANA ID: 292
+   Registrar Abuse Contact Email: abusecomplaints@markmonitor.com
+   Registrar Abuse Contact Phone: +1.2086851750
+   Domain Status: clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited
+   Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+   Domain Status: clientUpdateProhibited https://icann.org/epp#clientUpdateProhibited
+   Domain Status: serverDeleteProhibited https://icann.org/epp#serverDeleteProhibited
+   Domain Status: serverTransferProhibited https://icann.org/epp#serverTransferProhibited
+   Domain Status: serverUpdateProhibited https://icann.org/epp#serverUpdateProhibited
+   Name Server: ",0,+12086851750
+VulnWeb-Passive-OSINT,2026-02-24 07:30:09,PHONE_NUMBER,sfp_phone,"   Domain Name: AMAZONAWS.COM
+   Registry Domain ID: 197784869_DOMAIN_COM-VRSN
+   Registrar WHOIS Server: whois.markmonitor.com
+   Registrar URL: http://www.markmonitor.com
+   Updated Date: 2024-01-29T18:09:26Z
+   Creation Date: 2005-08-18T02:10:45Z
+   Registry Expiry Date: 2027-01-16T04:59:59Z
+   Registrar: MarkMonitor Inc.
+   Registrar IANA ID: 292
+   Registrar Abuse Contact Email: abusecomplaints@markmonitor.com
+   Registrar Abuse Contact Phone: +1.2086851750
+   Domain Status: clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited
+   Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+   Domain Status: clientUpdateProhibited https://icann.org/epp#clientUpdateProhibited
+   Domain Status: serverDeleteProhibited https://icann.org/epp#serverDeleteProhibited
+   Domain Status: serverTransferProhibited https://icann.org/epp#serverTransferProhibited
+   Domain Status: serverUpdateProhibited https://icann.org/epp#serverUpdateProhibited
+   Name Server: ",0,+12086851750
+VulnWeb-Passive-OSINT,2026-02-24 07:30:09,PHONE_NUMBER,sfp_phone,"   Domain Name: AMAZONAWS.COM
+   Registry Domain ID: 197784869_DOMAIN_COM-VRSN
+   Registrar WHOIS Server: whois.markmonitor.com
+   Registrar URL: http://www.markmonitor.com
+   Updated Date: 2024-01-29T18:09:26Z
+   Creation Date: 2005-08-18T02:10:45Z
+   Registry Expiry Date: 2027-01-16T04:59:59Z
+   Registrar: MarkMonitor Inc.
+   Registrar IANA ID: 292
+   Registrar Abuse Contact Email: abusecomplaints@markmonitor.com
+   Registrar Abuse Contact Phone: +1.2086851750
+   Domain Status: clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited
+   Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+   Domain Status: clientUpdateProhibited https://icann.org/epp#clientUpdateProhibited
+   Domain Status: serverDeleteProhibited https://icann.org/epp#serverDeleteProhibited
+   Domain Status: serverTransferProhibited https://icann.org/epp#serverTransferProhibited
+   Domain Status: serverUpdateProhibited https://icann.org/epp#serverUpdateProhibited
+   Name Server: ",0,+18007459229
+VulnWeb-Passive-OSINT,2026-02-24 07:29:34,PHONE_NUMBER,sfp_phone,"   Domain Name: VULNWEB.COM
+   Registry Domain ID: 1602006391_DOMAIN_COM-VRSN
+   Registrar WHOIS Server: whois.gandi.net
+   Registrar URL: http://www.gandi.net
+   Updated Date: 2025-11-17T09:34:20Z
+   Creation Date: 2010-06-14T07:50:29Z
+   Registry Expiry Date: 2027-06-14T07:50:29Z
+   Registrar: Gandi SAS
+   Registrar IANA ID: 81
+   Registrar Abuse Contact Email: abuse@support.gandi.net
+   Registrar Abuse Contact Phone: +33.170377661
+   Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+   Name Server: NS-105-A.GANDI.NET
+   Name Server: NS-11-B.GANDI.NET
+   Name Server: NS-140-C.GANDI.NET
+   DNSSEC: unsigned
+   URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of whois database: 2026-02-24T12:26:49Z <<<
+
+For more information on Whois status codes, please visit https://icann.org/epp
+
+NOTICE: The expiration date displayed in this record is the date the
+registrar's sponsorship of the domain name registration in ",0,+33170377661
+VulnWeb-Passive-OSINT,2026-02-24 07:29:34,PHONE_NUMBER,sfp_phone,"   Domain Name: VULNWEB.COM
+   Registry Domain ID: 1602006391_DOMAIN_COM-VRSN
+   Registrar WHOIS Server: whois.gandi.net
+   Registrar URL: http://www.gandi.net
+   Updated Date: 2025-11-17T09:34:20Z
+   Creation Date: 2010-06-14T07:50:29Z
+   Registry Expiry Date: 2027-06-14T07:50:29Z
+   Registrar: Gandi SAS
+   Registrar IANA ID: 81
+   Registrar Abuse Contact Email: abuse@support.gandi.net
+   Registrar Abuse Contact Phone: +33.170377661
+   Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+   Name Server: NS-105-A.GANDI.NET
+   Name Server: NS-11-B.GANDI.NET
+   Name Server: NS-140-C.GANDI.NET
+   DNSSEC: unsigned
+   URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of whois database: 2026-02-24T12:26:49Z <<<
+
+For more information on Whois status codes, please visit https://icann.org/epp
+
+NOTICE: The expiration date displayed in this record is the date the
+registrar's sponsorship of the domain name registration in ",0,+33170377661
+VulnWeb-Passive-OSINT,2026-02-24 07:30:09,PHONE_NUMBER,sfp_phone,"   Domain Name: AMAZONAWS.COM
+   Registry Domain ID: 197784869_DOMAIN_COM-VRSN
+   Registrar WHOIS Server: whois.markmonitor.com
+   Registrar URL: http://www.markmonitor.com
+   Updated Date: 2024-01-29T18:09:26Z
+   Creation Date: 2005-08-18T02:10:45Z
+   Registry Expiry Date: 2027-01-16T04:59:59Z
+   Registrar: MarkMonitor Inc.
+   Registrar IANA ID: 292
+   Registrar Abuse Contact Email: abusecomplaints@markmonitor.com
+   Registrar Abuse Contact Phone: +1.2086851750
+   Domain Status: clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited
+   Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+   Domain Status: clientUpdateProhibited https://icann.org/epp#clientUpdateProhibited
+   Domain Status: serverDeleteProhibited https://icann.org/epp#serverDeleteProhibited
+   Domain Status: serverTransferProhibited https://icann.org/epp#serverTransferProhibited
+   Domain Status: serverUpdateProhibited https://icann.org/epp#serverUpdateProhibited
+   Name Server: ",0,+442032062220
+VulnWeb-Passive-OSINT,2026-02-24 07:26:31,AFFILIATE_IPADDR,sfp_dnsresolve,alt2.aspmx.l.google.com,0,108.177.123.26
+VulnWeb-Passive-OSINT,2026-02-24 07:26:31,AFFILIATE_IPADDR,sfp_dnsresolve,aspmx.l.google.com,0,142.250.98.27
+VulnWeb-Passive-OSINT,2026-02-24 07:26:19,BGP_AS_MEMBER,sfp_urlscan,ec2-44-228-249-3.us-west-2.compute.amazonaws.com,0,16509
+VulnWeb-Passive-OSINT,2026-02-24 07:26:15,BGP_AS_MEMBER,sfp_urlscan,testphp.vulnweb.com,0,16509
+VulnWeb-Passive-OSINT,2026-02-24 07:26:36,BGP_AS_MEMBER,sfp_urlscan,vulnweb.com,0,16509
+VulnWeb-Passive-OSINT,2026-02-24 07:30:06,BGP_AS_MEMBER,sfp_ripe,44.224.0.0/11,0,16509
+VulnWeb-Passive-OSINT,2026-02-24 07:26:24,AFFILIATE_IPADDR,sfp_dnsresolve,alt3.aspmx.l.google.com,0,172.253.116.27
+VulnWeb-Passive-OSINT,2026-02-24 07:26:32,AFFILIATE_IPADDR,sfp_dnsresolve,ns-105-a.gandi.net,0,173.246.100.106
+VulnWeb-Passive-OSINT,2026-02-24 07:26:31,AFFILIATE_IPADDR,sfp_dnsresolve,alt4.aspmx.l.google.com,0,192.178.223.27
+VulnWeb-Passive-OSINT,2026-02-24 07:33:23,AFFILIATE_EMAILADDR,sfp_email,"   Domain Name: GANDI.NET
+   Registry Domain ID: 6683836_DOMAIN_NET-VRSN
+   Registrar WHOIS Server: whois.gandi.net
+   Registrar URL: http://www.gandi.net
+   Updated Date: 2025-03-22T13:14:46Z
+   Creation Date: 1999-05-21T14:09:21Z
+   Registry Expiry Date: 2026-05-21T14:09:56Z
+   Registrar: Gandi SAS
+   Registrar IANA ID: 81
+   Registrar Abuse Contact Email: abuse@support.gandi.net
+   Registrar Abuse Contact Phone: +33.170377661
+   Domain Status: clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited
+   Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+   Domain Status: clientUpdateProhibited https://icann.org/epp#clientUpdateProhibited
+   Domain Status: serverDeleteProhibited https://icann.org/epp#serverDeleteProhibited
+   Domain Status: serverTransferProhibited https://icann.org/epp#serverTransferProhibited
+   Domain Status: serverUpdateProhibited https://icann.org/epp#serverUpdateProhibited
+   Name Server: DNS0.GANDI.NET
+   Name Server: DN",0,1d9d694288ff0a90a4e72a6601e21ebc-248842@contact.gandi.net
+VulnWeb-Passive-OSINT,2026-02-24 07:32:20,AFFILIATE_DOMAIN_NAME,sfp_dnsresolve,dj-in-f26.1e100.net,0,1e100.net
+VulnWeb-Passive-OSINT,2026-02-24 07:26:32,AFFILIATE_IPV6_ADDRESS,sfp_dnsresolve,ns-105-a.gandi.net,0,2001:4b98:aaaa::6a
+VulnWeb-Passive-OSINT,2026-02-24 07:26:30,AFFILIATE_IPV6_ADDRESS,sfp_dnsresolve,ns-11-b.gandi.net,0,2001:4b98:aaab::c
+VulnWeb-Passive-OSINT,2026-02-24 07:29:40,AFFILIATE_IPADDR,sfp_dnsresolve,ns-27.awsdns-03.com,0,205.251.192.27
+VulnWeb-Passive-OSINT,2026-02-24 07:27:12,AFFILIATE_IPADDR,sfp_dnsresolve,ns-967.awsdns-56.net,0,205.251.195.199
+VulnWeb-Passive-OSINT,2026-02-24 07:28:17,AFFILIATE_IPADDR,sfp_dnsresolve,ns-1321.awsdns-37.org,0,205.251.197.41
+VulnWeb-Passive-OSINT,2026-02-24 07:30:13,AFFILIATE_IPADDR,sfp_dnsresolve,ns-1670.awsdns-16.co.uk,0,205.251.198.134
+VulnWeb-Passive-OSINT,2026-02-24 07:26:30,AFFILIATE_IPADDR,sfp_dnsresolve,ns-11-b.gandi.net,0,213.167.230.12
+VulnWeb-Passive-OSINT,2026-02-24 07:26:31,AFFILIATE_IPADDR,sfp_dnsresolve,ns-140-c.gandi.net,0,217.70.187.141
+VulnWeb-Passive-OSINT,2026-02-24 07:31:33,LEI,sfp_gleif,"Amazon.com, Inc.",0,2549004N3WGRA3QL4H27
+VulnWeb-Passive-OSINT,2026-02-24 07:29:40,AFFILIATE_IPV6_ADDRESS,sfp_dnsresolve,ns-27.awsdns-03.com,0,2600:9000:5300:1b00::1
+VulnWeb-Passive-OSINT,2026-02-24 07:27:12,AFFILIATE_IPV6_ADDRESS,sfp_dnsresolve,ns-967.awsdns-56.net,0,2600:9000:5303:c700::1
+VulnWeb-Passive-OSINT,2026-02-24 07:28:17,AFFILIATE_IPV6_ADDRESS,sfp_dnsresolve,ns-1321.awsdns-37.org,0,2600:9000:5305:2900::1
+VulnWeb-Passive-OSINT,2026-02-24 07:30:13,AFFILIATE_IPV6_ADDRESS,sfp_dnsresolve,ns-1670.awsdns-16.co.uk,0,2600:9000:5306:8600::1
+VulnWeb-Passive-OSINT,2026-02-24 07:26:31,AFFILIATE_IPV6_ADDRESS,sfp_dnsresolve,ns-140-c.gandi.net,0,2604:3400:aaac::8d
+VulnWeb-Passive-OSINT,2026-02-24 07:26:31,AFFILIATE_IPV6_ADDRESS,sfp_dnsresolve,aspmx.l.google.com,0,2607:f8b0:400c:c13::1b
+VulnWeb-Passive-OSINT,2026-02-24 07:26:30,AFFILIATE_IPV6_ADDRESS,sfp_dnsresolve,alt1.aspmx.l.google.com,0,2607:f8b0:4020:c07::1b
+VulnWeb-Passive-OSINT,2026-02-24 07:26:31,AFFILIATE_IPV6_ADDRESS,sfp_dnsresolve,alt2.aspmx.l.google.com,0,2800:3f0:4003:c0f::1a
+VulnWeb-Passive-OSINT,2026-02-24 07:26:31,AFFILIATE_IPV6_ADDRESS,sfp_dnsresolve,alt4.aspmx.l.google.com,0,2a00:1450:4009:c0f::1b
+VulnWeb-Passive-OSINT,2026-02-24 07:26:24,AFFILIATE_IPV6_ADDRESS,sfp_dnsresolve,alt3.aspmx.l.google.com,0,2a00:1450:400b:c02::1a
+VulnWeb-Passive-OSINT,2026-02-24 07:28:16,AFFILIATE_IPADDR,sfp_dnsresolve,amazon-smtp.amazon.com,0,3.222.250.144
+VulnWeb-Passive-OSINT,2026-02-24 07:31:33,PHYSICAL_ADDRESS,sfp_gleif,"Amazon.com, Inc.",0,"410 TERRY AVENUE NORTH, SEATTLE, US-WA, US, 98109"
+VulnWeb-Passive-OSINT,2026-02-24 07:31:34,PHYSICAL_ADDRESS,sfp_gleif,"Amazon.com, Inc.",0,"410 Terry Ave North, Seattle, US-WA, US, 98109"
+VulnWeb-Passive-OSINT,2026-02-24 07:27:01,NETBLOCK_MEMBER,sfp_ripe,44.228.249.3,0,44.224.0.0/11
+VulnWeb-Passive-OSINT,2026-02-24 07:26:11,IP_ADDRESS,sfp_dnsresolve,testphp.vulnweb.com,0,44.228.249.3
+VulnWeb-Passive-OSINT,2026-02-24 07:31:34,IP_ADDRESS,sfp_dnsresolve,vulnweb.com,0,44.228.249.3
+VulnWeb-Passive-OSINT,2026-02-24 07:31:57,PHYSICAL_COORDINATES,sfp_openstreetmap,"410 TERRY AVENUE NORTH, SEATTLE, US-WA, US, 98109",0,"47.6222540,-122.3370283"
+VulnWeb-Passive-OSINT,2026-02-24 07:32:32,PHYSICAL_COORDINATES,sfp_openstreetmap,"410 Terry Ave North, Seattle, US-WA, US, 98109",0,"47.6222540,-122.3370283"
+VulnWeb-Passive-OSINT,2026-02-24 07:31:57,PHYSICAL_COORDINATES,sfp_openstreetmap,"410 TERRY AVENUE NORTH, SEATTLE, US-WA, US, 98109",0,"47.6222980,-122.3365001"
+VulnWeb-Passive-OSINT,2026-02-24 07:32:32,PHYSICAL_COORDINATES,sfp_openstreetmap,"410 Terry Ave North, Seattle, US-WA, US, 98109",0,"47.6222980,-122.3365001"
+VulnWeb-Passive-OSINT,2026-02-24 07:26:30,AFFILIATE_IPADDR,sfp_dnsresolve,alt1.aspmx.l.google.com,0,64.233.178.26
+VulnWeb-Passive-OSINT,2026-02-24 07:33:23,AFFILIATE_EMAILADDR,sfp_email,"   Domain Name: GANDI.NET
+   Registry Domain ID: 6683836_DOMAIN_NET-VRSN
+   Registrar WHOIS Server: whois.gandi.net
+   Registrar URL: http://www.gandi.net
+   Updated Date: 2025-03-22T13:14:46Z
+   Creation Date: 1999-05-21T14:09:21Z
+   Registry Expiry Date: 2026-05-21T14:09:56Z
+   Registrar: Gandi SAS
+   Registrar IANA ID: 81
+   Registrar Abuse Contact Email: abuse@support.gandi.net
+   Registrar Abuse Contact Phone: +33.170377661
+   Domain Status: clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited
+   Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+   Domain Status: clientUpdateProhibited https://icann.org/epp#clientUpdateProhibited
+   Domain Status: serverDeleteProhibited https://icann.org/epp#serverDeleteProhibited
+   Domain Status: serverTransferProhibited https://icann.org/epp#serverTransferProhibited
+   Domain Status: serverUpdateProhibited https://icann.org/epp#serverUpdateProhibited
+   Name Server: DNS0.GANDI.NET
+   Name Server: DN",0,6fb93a207f1595ce2dc0c687d35807b1-523678@contact.gandi.net
+VulnWeb-Passive-OSINT,2026-02-24 07:29:39,AFFILIATE_IPADDR,sfp_dnsresolve,amazon.com,0,98.82.161.185
+VulnWeb-Passive-OSINT,2026-02-24 07:29:39,AFFILIATE_IPADDR,sfp_dnsresolve,amazon.com,0,98.87.170.71
+VulnWeb-Passive-OSINT,2026-02-24 07:29:39,AFFILIATE_IPADDR,sfp_dnsresolve,amazon.com,0,98.87.170.74
+VulnWeb-Passive-OSINT,2026-02-24 07:27:51,RAW_RIR_DATA,sfp_stackoverflow,vulnweb.com,0,"https://stackoverflow.com/questions/52752177
+{'tags': ['ajax', 'html', 'scrapy', 'web-crawler', 'splash-screen'], 'question_score': 0, 'is_accepted': False, 'has_accepted_answer': False, 'answer_count': 1, 'is_answered': False, 'question_id': 52752177, 'item_type': 'question', 'score': 0, 'last_activity_date': 1539237955, 'creation_date': 1539231764, 'body': 'I use scrapy and splash to crawl all url in website. In some website with static html, It works very good! But when I crawled some website has AJAX page, and html5 I cannot get any url (Example: http://testphp.vulnweb.com/AJAX/, http://testhtml5.vulnweb.com). Anyone has solution for this problem? \nThanks so much!\n', 'excerpt': 'But when I crawled some website has AJAX page, and html5 I cannot get any url (Example: http://testphp.vulnweb.com/AJAX/, http://testhtml5.<span class=""highlight"">vulnweb.com</span>). Anyone has solution for this problem? &hellip; ', 'title': 'How to crawl all url in AJAX pages?'}"
+VulnWeb-Passive-OSINT,2026-02-24 07:26:15,AFFILIATE_DESCRIPTION_CATEGORY,sfp_duckduckgo,alt3.aspmx.l.google.com,0,Alphabet Inc.
+VulnWeb-Passive-OSINT,2026-02-24 07:32:55,AFFILIATE_COMPANY_NAME,sfp_company,"   Domain Name: AWSDNS-56.NET
+   Registry Domain ID: 1621573084_DOMAIN_NET-VRSN
+   Registrar WHOIS Server: whois.markmonitor.com
+   Registrar URL: http://www.markmonitor.com
+   Updated Date: 2025-07-31T17:48:26Z
+   Creation Date: 2010-10-21T21:02:57Z
+   Registry Expiry Date: 2026-10-21T21:02:57Z
+   Registrar: MarkMonitor Inc.
+   Registrar IANA ID: 292
+   Registrar Abuse Contact Email: abusecomplaints@markmonitor.com
+   Registrar Abuse Contact Phone: +1.2086851750
+   Domain Status: clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited
+   Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+   Domain Status: clientUpdateProhibited https://icann.org/epp#clientUpdateProhibited
+   Domain Status: serverDeleteProhibited https://icann.org/epp#serverDeleteProhibited
+   Domain Status: serverTransferProhibited https://icann.org/epp#serverTransferProhibited
+   Domain Status: serverUpdateProhibited https://icann.org/epp#serverUpdateProhibited
+   Name Server:",0,"Amazon Technologies, Inc."
+VulnWeb-Passive-OSINT,2026-02-24 07:33:05,AFFILIATE_COMPANY_NAME,sfp_company,"   Domain Name: AMAZON.COM
+   Registry Domain ID: 281209_DOMAIN_COM-VRSN
+   Registrar WHOIS Server: whois.markmonitor.com
+   Registrar URL: http://www.markmonitor.com
+   Updated Date: 2025-07-31T17:49:55Z
+   Creation Date: 1994-11-01T05:00:00Z
+   Registry Expiry Date: 2026-10-31T04:00:00Z
+   Registrar: MarkMonitor Inc.
+   Registrar IANA ID: 292
+   Registrar Abuse Contact Email: abusecomplaints@markmonitor.com
+   Registrar Abuse Contact Phone: +1.2086851750
+   Domain Status: clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited
+   Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+   Domain Status: clientUpdateProhibited https://icann.org/epp#clientUpdateProhibited
+   Domain Status: serverDeleteProhibited https://icann.org/epp#serverDeleteProhibited
+   Domain Status: serverTransferProhibited https://icann.org/epp#serverTransferProhibited
+   Domain Status: serverUpdateProhibited https://icann.org/epp#serverUpdateProhibited
+   Name Server: NS1.AM",0,"Amazon Technologies, Inc."
+VulnWeb-Passive-OSINT,2026-02-24 07:33:28,AFFILIATE_COMPANY_NAME,sfp_company,"   Domain Name: AWSDNS-03.COM
+   Registry Domain ID: 1621572989_DOMAIN_COM-VRSN
+   Registrar WHOIS Server: whois.markmonitor.com
+   Registrar URL: http://www.markmonitor.com
+   Updated Date: 2025-07-31T17:31:13Z
+   Creation Date: 2010-10-21T21:02:44Z
+   Registry Expiry Date: 2026-10-21T21:02:44Z
+   Registrar: MarkMonitor Inc.
+   Registrar IANA ID: 292
+   Registrar Abuse Contact Email: abusecomplaints@markmonitor.com
+   Registrar Abuse Contact Phone: +1.2086851750
+   Domain Status: clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited
+   Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+   Domain Status: clientUpdateProhibited https://icann.org/epp#clientUpdateProhibited
+   Domain Status: serverDeleteProhibited https://icann.org/epp#serverDeleteProhibited
+   Domain Status: serverTransferProhibited https://icann.org/epp#serverTransferProhibited
+   Domain Status: serverUpdateProhibited https://icann.org/epp#serverUpdateProhibited
+   Name Server:",0,"Amazon Technologies, Inc."
+VulnWeb-Passive-OSINT,2026-02-24 07:26:32,DESCRIPTION_CATEGORY,sfp_duckduckgo,amazonaws.com,0,Amazon Web Services Category
+VulnWeb-Passive-OSINT,2026-02-24 07:26:32,DESCRIPTION_ABSTRACT,sfp_duckduckgo,amazonaws.com,0,"Amazon Web Services, Inc. is a subsidiary of Amazon that provides on-demand cloud computing platforms and APIs to individuals, companies, and governments, on a metered, pay-as-you-go basis. Clients often use this in combination with autoscaling. These cloud computing web services provide various services related to networking, compute, storage, middleware, IoT and other processing capacity, as well as software tools via AWS server farms. This frees clients from managing, scaling, and patching hardware and operating systems. One of the foundational services is Amazon Elastic Compute Cloud, which allows users to have at their disposal a virtual cluster of computers, with extremely high availability, which can be interacted with over the internet via REST APIs, a CLI or the AWS console."
+VulnWeb-Passive-OSINT,2026-02-24 07:30:09,COMPANY_NAME,sfp_company,"   Domain Name: AMAZONAWS.COM
+   Registry Domain ID: 197784869_DOMAIN_COM-VRSN
+   Registrar WHOIS Server: whois.markmonitor.com
+   Registrar URL: http://www.markmonitor.com
+   Updated Date: 2024-01-29T18:09:26Z
+   Creation Date: 2005-08-18T02:10:45Z
+   Registry Expiry Date: 2027-01-16T04:59:59Z
+   Registrar: MarkMonitor Inc.
+   Registrar IANA ID: 292
+   Registrar Abuse Contact Email: abusecomplaints@markmonitor.com
+   Registrar Abuse Contact Phone: +1.2086851750
+   Domain Status: clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited
+   Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+   Domain Status: clientUpdateProhibited https://icann.org/epp#clientUpdateProhibited
+   Domain Status: serverDeleteProhibited https://icann.org/epp#serverDeleteProhibited
+   Domain Status: serverTransferProhibited https://icann.org/epp#serverTransferProhibited
+   Domain Status: serverUpdateProhibited https://icann.org/epp#serverUpdateProhibited
+   Name Server: ",0,"Amazon.com, Inc."
+VulnWeb-Passive-OSINT,2026-02-24 07:30:48,WEB_ANALYTICS_ID,sfp_webanalytics,atlassian-domain-verification=ZT4AapXgobCpXIWoNcd7gtMjZyOUdr4EDFMnFUWrqqqgdaQVbDvoGpRaIwj/tgPH,0,Atlassian Domain Verification: ZT4AapXgobCpXIWoNcd7gtMjZyOUdr4EDFMnFUWrqqqgdaQVbDvoGpRaIwj/tgPH
+VulnWeb-Passive-OSINT,2026-02-24 07:26:18,AFFILIATE_DESCRIPTION_CATEGORY,sfp_duckduckgo,ns-11-b.gandi.net,0,Blog hosting services
+VulnWeb-Passive-OSINT,2026-02-24 07:31:33,PHYSICAL_ADDRESS,sfp_gleif,"Amazon.com, Inc.",0,"C/O CORPORATION SERVICE COMPANY, 251 LITTLE FALLS DRIVE, WILMINGTON, US-DE, US, 19808"
+VulnWeb-Passive-OSINT,2026-02-24 07:31:34,PHYSICAL_ADDRESS,sfp_gleif,"Amazon.com, Inc.",0,"C/O CORPORATION SERVICE COMPANY, 251 LITTLE FALLS DRIVE, WILMINGTON, US-DE, US, 19808"
+VulnWeb-Passive-OSINT,2026-02-24 07:33:54,BLACKLISTED_AFFILIATE_INTERNET_NAME,sfp_cleanbrowsing,vw-in-x1b.1e100.net,0,CleanBrowsing DNS - Security [vw-in-x1b.1e100.net]
+VulnWeb-Passive-OSINT,2026-02-24 07:33:54,MALICIOUS_AFFILIATE_INTERNET_NAME,sfp_cleanbrowsing,vw-in-x1b.1e100.net,0,CleanBrowsing DNS - Security [vw-in-x1b.1e100.net]
+VulnWeb-Passive-OSINT,2026-02-24 07:31:36,BLACKLISTED_SUBNET,sfp_cleantalk,44.224.0.0/11,0,"CleanTalk Spam List [44.224.0.0/11]
+https://iplists.firehol.org/files/cleantalk_7d.ipset"
+VulnWeb-Passive-OSINT,2026-02-24 07:31:36,MALICIOUS_SUBNET,sfp_cleantalk,44.224.0.0/11,0,"CleanTalk Spam List [44.224.0.0/11]
+https://iplists.firehol.org/files/cleantalk_7d.ipset"
+VulnWeb-Passive-OSINT,2026-02-24 07:26:32,DESCRIPTION_CATEGORY,sfp_duckduckgo,amazonaws.com,0,Cloud computing providers
+VulnWeb-Passive-OSINT,2026-02-24 07:26:32,DESCRIPTION_CATEGORY,sfp_duckduckgo,amazonaws.com,0,Cloud infrastructure
+VulnWeb-Passive-OSINT,2026-02-24 07:26:32,DESCRIPTION_CATEGORY,sfp_duckduckgo,amazonaws.com,0,Cloud platforms
+VulnWeb-Passive-OSINT,2026-02-24 07:26:32,DESCRIPTION_CATEGORY,sfp_duckduckgo,amazonaws.com,0,Cloud-computing comparison - The following is a comparison of cloud-computing software and providers.
+VulnWeb-Passive-OSINT,2026-02-24 07:27:22,BLACKLISTED_AFFILIATE_INTERNET_NAME,sfp_comodo,alt1.aspmx.l.google.com,0,Comodo Secure DNS [alt1.aspmx.l.google.com]
+VulnWeb-Passive-OSINT,2026-02-24 07:27:22,MALICIOUS_AFFILIATE_INTERNET_NAME,sfp_comodo,alt1.aspmx.l.google.com,0,Comodo Secure DNS [alt1.aspmx.l.google.com]
+VulnWeb-Passive-OSINT,2026-02-24 07:33:33,BLACKLISTED_AFFILIATE_INTERNET_NAME,sfp_comodo,dj-in-f26.1e100.net,0,Comodo Secure DNS [dj-in-f26.1e100.net]
+VulnWeb-Passive-OSINT,2026-02-24 07:33:33,MALICIOUS_AFFILIATE_INTERNET_NAME,sfp_comodo,dj-in-f26.1e100.net,0,Comodo Secure DNS [dj-in-f26.1e100.net]
+VulnWeb-Passive-OSINT,2026-02-24 07:34:35,BLACKLISTED_AFFILIATE_INTERNET_NAME,sfp_comodo,ec2-98-82-161-185.compute-1.amazonaws.com,0,Comodo Secure DNS [ec2-98-82-161-185.compute-1.amazonaws.com]
+VulnWeb-Passive-OSINT,2026-02-24 07:34:35,MALICIOUS_AFFILIATE_INTERNET_NAME,sfp_comodo,ec2-98-82-161-185.compute-1.amazonaws.com,0,Comodo Secure DNS [ec2-98-82-161-185.compute-1.amazonaws.com]
+VulnWeb-Passive-OSINT,2026-02-24 07:34:41,BLACKLISTED_AFFILIATE_INTERNET_NAME,sfp_comodo,ec2-98-87-170-71.compute-1.amazonaws.com,0,Comodo Secure DNS [ec2-98-87-170-71.compute-1.amazonaws.com]
+VulnWeb-Passive-OSINT,2026-02-24 07:34:41,MALICIOUS_AFFILIATE_INTERNET_NAME,sfp_comodo,ec2-98-87-170-71.compute-1.amazonaws.com,0,Comodo Secure DNS [ec2-98-87-170-71.compute-1.amazonaws.com]
+VulnWeb-Passive-OSINT,2026-02-24 07:34:46,BLACKLISTED_AFFILIATE_INTERNET_NAME,sfp_comodo,ec2-98-87-170-74.compute-1.amazonaws.com,0,Comodo Secure DNS [ec2-98-87-170-74.compute-1.amazonaws.com]
+VulnWeb-Passive-OSINT,2026-02-24 07:34:46,MALICIOUS_AFFILIATE_INTERNET_NAME,sfp_comodo,ec2-98-87-170-74.compute-1.amazonaws.com,0,Comodo Secure DNS [ec2-98-87-170-74.compute-1.amazonaws.com]
+VulnWeb-Passive-OSINT,2026-02-24 07:34:16,BLACKLISTED_AFFILIATE_INTERNET_NAME,sfp_comodo,lcscld-in-f26.1e100.net,0,Comodo Secure DNS [lcscld-in-f26.1e100.net]
+VulnWeb-Passive-OSINT,2026-02-24 07:34:16,MALICIOUS_AFFILIATE_INTERNET_NAME,sfp_comodo,lcscld-in-f26.1e100.net,0,Comodo Secure DNS [lcscld-in-f26.1e100.net]
+VulnWeb-Passive-OSINT,2026-02-24 07:33:48,BLACKLISTED_AFFILIATE_INTERNET_NAME,sfp_comodo,lcyulk-in-f27.1e100.net,0,Comodo Secure DNS [lcyulk-in-f27.1e100.net]
+VulnWeb-Passive-OSINT,2026-02-24 07:33:48,MALICIOUS_AFFILIATE_INTERNET_NAME,sfp_comodo,lcyulk-in-f27.1e100.net,0,Comodo Secure DNS [lcyulk-in-f27.1e100.net]
+VulnWeb-Passive-OSINT,2026-02-24 07:34:29,BLACKLISTED_AFFILIATE_INTERNET_NAME,sfp_comodo,smtp03.us-east-1.mail-perimeter.amazon.com,0,Comodo Secure DNS [smtp03.us-east-1.mail-perimeter.amazon.com]
+VulnWeb-Passive-OSINT,2026-02-24 07:34:29,MALICIOUS_AFFILIATE_INTERNET_NAME,sfp_comodo,smtp03.us-east-1.mail-perimeter.amazon.com,0,Comodo Secure DNS [smtp03.us-east-1.mail-perimeter.amazon.com]
+VulnWeb-Passive-OSINT,2026-02-24 07:34:10,BLACKLISTED_AFFILIATE_INTERNET_NAME,sfp_comodo,uh-in-f27.1e100.net,0,Comodo Secure DNS [uh-in-f27.1e100.net]
+VulnWeb-Passive-OSINT,2026-02-24 07:34:10,MALICIOUS_AFFILIATE_INTERNET_NAME,sfp_comodo,uh-in-f27.1e100.net,0,Comodo Secure DNS [uh-in-f27.1e100.net]
+VulnWeb-Passive-OSINT,2026-02-24 07:34:10,BLACKLISTED_AFFILIATE_INTERNET_NAME,sfp_comodo,vw-in-x1b.1e100.net,0,Comodo Secure DNS [vw-in-x1b.1e100.net]
+VulnWeb-Passive-OSINT,2026-02-24 07:34:10,MALICIOUS_AFFILIATE_INTERNET_NAME,sfp_comodo,vw-in-x1b.1e100.net,0,Comodo Secure DNS [vw-in-x1b.1e100.net]
+VulnWeb-Passive-OSINT,2026-02-24 07:34:04,BLACKLISTED_AFFILIATE_INTERNET_NAME,sfp_comodo,yulhrs-in-f27.1e100.net,0,Comodo Secure DNS [yulhrs-in-f27.1e100.net]
+VulnWeb-Passive-OSINT,2026-02-24 07:34:04,MALICIOUS_AFFILIATE_INTERNET_NAME,sfp_comodo,yulhrs-in-f27.1e100.net,0,Comodo Secure DNS [yulhrs-in-f27.1e100.net]
+VulnWeb-Passive-OSINT,2026-02-24 07:26:18,AFFILIATE_DESCRIPTION_CATEGORY,sfp_duckduckgo,ns-11-b.gandi.net,0,Companies based in Paris
+VulnWeb-Passive-OSINT,2026-02-24 07:26:32,DESCRIPTION_CATEGORY,sfp_duckduckgo,amazonaws.com,0,Defense companies of the United States
+VulnWeb-Passive-OSINT,2026-02-24 07:31:37,MALICIOUS_SUBNET,sfp_emergingthreats,44.224.0.0/11,0,"EmergingThreats.net [44.224.0.0/11]
+https://rules.emergingthreats.net/blockrules/compromised-ips.txt"
+VulnWeb-Passive-OSINT,2026-02-24 07:31:37,BLACKLISTED_SUBNET,sfp_emergingthreats,44.224.0.0/11,0,"EmergingThreats.net [44.224.0.0/11]
+https://rules.emergingthreats.net/blockrules/compromised-ips.txt"
+VulnWeb-Passive-OSINT,2026-02-24 07:33:40,COUNTRY_NAME,sfp_countryname,+33170377661,0,France
+VulnWeb-Passive-OSINT,2026-02-24 07:27:03,DOMAIN_REGISTRAR,sfp_whois,vulnweb.com,0,GANDI SAS
+VulnWeb-Passive-OSINT,2026-02-24 07:26:18,AFFILIATE_DESCRIPTION_ABSTRACT,sfp_duckduckgo,ns-11-b.gandi.net,0,"Gandi SAS is a French company providing domain name registration, web hosting, and related services. The company's main office is in Paris."
+VulnWeb-Passive-OSINT,2026-02-24 07:30:34,AFFILIATE_COMPANY_NAME,sfp_company,"   Domain Name: GOOGLE.COM
+   Registry Domain ID: 2138514_DOMAIN_COM-VRSN
+   Registrar WHOIS Server: whois.markmonitor.com
+   Registrar URL: http://www.markmonitor.com
+   Updated Date: 2019-09-09T15:39:04Z
+   Creation Date: 1997-09-15T04:00:00Z
+   Registry Expiry Date: 2028-09-14T04:00:00Z
+   Registrar: MarkMonitor Inc.
+   Registrar IANA ID: 292
+   Registrar Abuse Contact Email: abusecomplaints@markmonitor.com
+   Registrar Abuse Contact Phone: +1.2086851750
+   Domain Status: clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited
+   Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+   Domain Status: clientUpdateProhibited https://icann.org/epp#clientUpdateProhibited
+   Domain Status: serverDeleteProhibited https://icann.org/epp#serverDeleteProhibited
+   Domain Status: serverTransferProhibited https://icann.org/epp#serverTransferProhibited
+   Domain Status: serverUpdateProhibited https://icann.org/epp#serverUpdateProhibited
+   Name Server: NS1.G",0,Google LLC
+VulnWeb-Passive-OSINT,2026-02-24 07:33:41,AFFILIATE_COMPANY_NAME,sfp_company,"   Domain Name: 1E100.NET
+   Registry Domain ID: 1570253561_DOMAIN_NET-VRSN
+   Registrar WHOIS Server: whois.markmonitor.com
+   Registrar URL: http://www.markmonitor.com
+   Updated Date: 2025-08-24T10:14:44Z
+   Creation Date: 2009-09-25T05:40:03Z
+   Registry Expiry Date: 2026-09-25T05:40:03Z
+   Registrar: MarkMonitor Inc.
+   Registrar IANA ID: 292
+   Registrar Abuse Contact Email: abusecomplaints@markmonitor.com
+   Registrar Abuse Contact Phone: +1.2086851750
+   Domain Status: clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited
+   Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+   Domain Status: clientUpdateProhibited https://icann.org/epp#clientUpdateProhibited
+   Domain Status: serverDeleteProhibited https://icann.org/epp#serverDeleteProhibited
+   Domain Status: serverTransferProhibited https://icann.org/epp#serverTransferProhibited
+   Domain Status: serverUpdateProhibited https://icann.org/epp#serverUpdateProhibited
+   Name Server: NS1",0,Google LLC
+VulnWeb-Passive-OSINT,2026-02-24 07:26:15,AFFILIATE_DESCRIPTION_CATEGORY,sfp_duckduckgo,alt3.aspmx.l.google.com,0,Google Search Category
+VulnWeb-Passive-OSINT,2026-02-24 07:26:15,AFFILIATE_DESCRIPTION_ABSTRACT,sfp_duckduckgo,alt3.aspmx.l.google.com,0,"Google Search is a search engine operated by Google. It allows users to search for information on the Web by entering keywords or phrases. Google Search uses algorithms to analyze and rank websites based on their relevance to the search query. Google Search is the most-visited website in the world. As of 2025, Google Search has a 90% share of the global search engine market. Approximately 24.1% of Google's monthly global traffic comes from the United States, 5.6% from India, 5.5% from Japan, 4.8% from Brazil, and 3.7% from the United Kingdom according to data provided by Similarweb. The same source reports that 58% of users are male and 42% are female. The order of search results returned by Google is based, in part, on a priority rank system called ""PageRank""."
+VulnWeb-Passive-OSINT,2026-02-24 07:26:45,WEB_ANALYTICS_ID,sfp_webanalytics,google-site-verification=4LQORV-lTi-d4GPxtBEQWmFnwff7UAazQc9gZvHukbw,0,Google Site Verification: 4LQORV-lTi-d4GPxtBEQWmFnwff7UAazQc9gZvHukbw
+VulnWeb-Passive-OSINT,2026-02-24 07:27:26,WEB_ANALYTICS_ID,sfp_webanalytics,google-site-verification=EEVHeL7fVZb5ix5bR0draHWtJ5MfS0538OwXAfY8HCY,0,Google Site Verification: EEVHeL7fVZb5ix5bR0draHWtJ5MfS0538OwXAfY8HCY
+VulnWeb-Passive-OSINT,2026-02-24 07:26:15,AFFILIATE_DESCRIPTION_CATEGORY,sfp_duckduckgo,alt3.aspmx.l.google.com,0,Google services
+VulnWeb-Passive-OSINT,2026-02-24 07:26:18,AFFILIATE_DESCRIPTION_CATEGORY,sfp_duckduckgo,ns-11-b.gandi.net,0,Information technology companies of France
+VulnWeb-Passive-OSINT,2026-02-24 07:32:23,ACCOUNT_EXTERNAL_OWNED,sfp_accounts,vulnweb,0,"Instagram (Category: social)
+https://www.instagram.com/vulnweb/"
+VulnWeb-Passive-OSINT,2026-02-24 07:26:15,AFFILIATE_DESCRIPTION_CATEGORY,sfp_duckduckgo,alt3.aspmx.l.google.com,0,Internet search engines
+VulnWeb-Passive-OSINT,2026-02-24 07:29:34,COMPANY_NAME,sfp_company,"   Domain Name: VULNWEB.COM
+   Registry Domain ID: 1602006391_DOMAIN_COM-VRSN
+   Registrar WHOIS Server: whois.gandi.net
+   Registrar URL: http://www.gandi.net
+   Updated Date: 2025-11-17T09:34:20Z
+   Creation Date: 2010-06-14T07:50:29Z
+   Registry Expiry Date: 2027-06-14T07:50:29Z
+   Registrar: Gandi SAS
+   Registrar IANA ID: 81
+   Registrar Abuse Contact Email: abuse@support.gandi.net
+   Registrar Abuse Contact Phone: +33.170377661
+   Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+   Name Server: NS-105-A.GANDI.NET
+   Name Server: NS-11-B.GANDI.NET
+   Name Server: NS-140-C.GANDI.NET
+   DNSSEC: unsigned
+   URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of whois database: 2026-02-24T12:26:49Z <<<
+
+For more information on Whois status codes, please visit https://icann.org/epp
+
+NOTICE: The expiration date displayed in this record is the date the
+registrar's sponsorship of the domain name registration in ",0,Invicti Security Limited
+VulnWeb-Passive-OSINT,2026-02-24 07:27:09,MALICIOUS_AFFILIATE_IPADDR,sfp_maltiverse,172.253.116.27,0,"Maltiverse [172.253.116.27]
+"
+VulnWeb-Passive-OSINT,2026-02-24 07:33:13,MALICIOUS_AFFILIATE_IPADDR,sfp_maltiverse,205.251.192.27,0,"Maltiverse [205.251.192.27]
+"
+VulnWeb-Passive-OSINT,2026-02-24 07:32:28,MALICIOUS_AFFILIATE_IPADDR,sfp_maltiverse,205.251.195.199,0,"Maltiverse [205.251.195.199]
+"
+VulnWeb-Passive-OSINT,2026-02-24 07:32:47,MALICIOUS_AFFILIATE_IPADDR,sfp_maltiverse,205.251.197.41,0,"Maltiverse [205.251.197.41]
+"
+VulnWeb-Passive-OSINT,2026-02-24 07:33:17,MALICIOUS_AFFILIATE_IPADDR,sfp_maltiverse,205.251.198.134,0,"Maltiverse [205.251.198.134]
+"
+VulnWeb-Passive-OSINT,2026-02-24 07:32:43,MALICIOUS_AFFILIATE_IPADDR,sfp_maltiverse,3.222.250.144,0,"Maltiverse [3.222.250.144]
+"
+VulnWeb-Passive-OSINT,2026-02-24 07:26:57,MALICIOUS_IPADDR,sfp_maltiverse,44.228.249.3,0,"Maltiverse [44.228.249.3]
+"
+VulnWeb-Passive-OSINT,2026-02-24 07:30:34,AFFILIATE_COMPANY_NAME,sfp_company,"   Domain Name: GOOGLE.COM
+   Registry Domain ID: 2138514_DOMAIN_COM-VRSN
+   Registrar WHOIS Server: whois.markmonitor.com
+   Registrar URL: http://www.markmonitor.com
+   Updated Date: 2019-09-09T15:39:04Z
+   Creation Date: 1997-09-15T04:00:00Z
+   Registry Expiry Date: 2028-09-14T04:00:00Z
+   Registrar: MarkMonitor Inc.
+   Registrar IANA ID: 292
+   Registrar Abuse Contact Email: abusecomplaints@markmonitor.com
+   Registrar Abuse Contact Phone: +1.2086851750
+   Domain Status: clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited
+   Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+   Domain Status: clientUpdateProhibited https://icann.org/epp#clientUpdateProhibited
+   Domain Status: serverDeleteProhibited https://icann.org/epp#serverDeleteProhibited
+   Domain Status: serverTransferProhibited https://icann.org/epp#serverTransferProhibited
+   Domain Status: serverUpdateProhibited https://icann.org/epp#serverUpdateProhibited
+   Name Server: NS1.G",0,MarkMonitor Inc.
+VulnWeb-Passive-OSINT,2026-02-24 07:33:41,AFFILIATE_COMPANY_NAME,sfp_company,"   Domain Name: 1E100.NET
+   Registry Domain ID: 1570253561_DOMAIN_NET-VRSN
+   Registrar WHOIS Server: whois.markmonitor.com
+   Registrar URL: http://www.markmonitor.com
+   Updated Date: 2025-08-24T10:14:44Z
+   Creation Date: 2009-09-25T05:40:03Z
+   Registry Expiry Date: 2026-09-25T05:40:03Z
+   Registrar: MarkMonitor Inc.
+   Registrar IANA ID: 292
+   Registrar Abuse Contact Email: abusecomplaints@markmonitor.com
+   Registrar Abuse Contact Phone: +1.2086851750
+   Domain Status: clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited
+   Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+   Domain Status: clientUpdateProhibited https://icann.org/epp#clientUpdateProhibited
+   Domain Status: serverDeleteProhibited https://icann.org/epp#serverDeleteProhibited
+   Domain Status: serverTransferProhibited https://icann.org/epp#serverTransferProhibited
+   Domain Status: serverUpdateProhibited https://icann.org/epp#serverUpdateProhibited
+   Name Server: NS1",0,MarkMonitor Inc.
+VulnWeb-Passive-OSINT,2026-02-24 07:32:55,AFFILIATE_COMPANY_NAME,sfp_company,"   Domain Name: AWSDNS-56.NET
+   Registry Domain ID: 1621573084_DOMAIN_NET-VRSN
+   Registrar WHOIS Server: whois.markmonitor.com
+   Registrar URL: http://www.markmonitor.com
+   Updated Date: 2025-07-31T17:48:26Z
+   Creation Date: 2010-10-21T21:02:57Z
+   Registry Expiry Date: 2026-10-21T21:02:57Z
+   Registrar: MarkMonitor Inc.
+   Registrar IANA ID: 292
+   Registrar Abuse Contact Email: abusecomplaints@markmonitor.com
+   Registrar Abuse Contact Phone: +1.2086851750
+   Domain Status: clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited
+   Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+   Domain Status: clientUpdateProhibited https://icann.org/epp#clientUpdateProhibited
+   Domain Status: serverDeleteProhibited https://icann.org/epp#serverDeleteProhibited
+   Domain Status: serverTransferProhibited https://icann.org/epp#serverTransferProhibited
+   Domain Status: serverUpdateProhibited https://icann.org/epp#serverUpdateProhibited
+   Name Server:",0,MarkMonitor Inc.
+VulnWeb-Passive-OSINT,2026-02-24 07:33:05,AFFILIATE_COMPANY_NAME,sfp_company,"   Domain Name: AMAZON.COM
+   Registry Domain ID: 281209_DOMAIN_COM-VRSN
+   Registrar WHOIS Server: whois.markmonitor.com
+   Registrar URL: http://www.markmonitor.com
+   Updated Date: 2025-07-31T17:49:55Z
+   Creation Date: 1994-11-01T05:00:00Z
+   Registry Expiry Date: 2026-10-31T04:00:00Z
+   Registrar: MarkMonitor Inc.
+   Registrar IANA ID: 292
+   Registrar Abuse Contact Email: abusecomplaints@markmonitor.com
+   Registrar Abuse Contact Phone: +1.2086851750
+   Domain Status: clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited
+   Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+   Domain Status: clientUpdateProhibited https://icann.org/epp#clientUpdateProhibited
+   Domain Status: serverDeleteProhibited https://icann.org/epp#serverDeleteProhibited
+   Domain Status: serverTransferProhibited https://icann.org/epp#serverTransferProhibited
+   Domain Status: serverUpdateProhibited https://icann.org/epp#serverUpdateProhibited
+   Name Server: NS1.AM",0,MarkMonitor Inc.
+VulnWeb-Passive-OSINT,2026-02-24 07:30:09,COMPANY_NAME,sfp_company,"   Domain Name: AMAZONAWS.COM
+   Registry Domain ID: 197784869_DOMAIN_COM-VRSN
+   Registrar WHOIS Server: whois.markmonitor.com
+   Registrar URL: http://www.markmonitor.com
+   Updated Date: 2024-01-29T18:09:26Z
+   Creation Date: 2005-08-18T02:10:45Z
+   Registry Expiry Date: 2027-01-16T04:59:59Z
+   Registrar: MarkMonitor Inc.
+   Registrar IANA ID: 292
+   Registrar Abuse Contact Email: abusecomplaints@markmonitor.com
+   Registrar Abuse Contact Phone: +1.2086851750
+   Domain Status: clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited
+   Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+   Domain Status: clientUpdateProhibited https://icann.org/epp#clientUpdateProhibited
+   Domain Status: serverDeleteProhibited https://icann.org/epp#serverDeleteProhibited
+   Domain Status: serverTransferProhibited https://icann.org/epp#serverTransferProhibited
+   Domain Status: serverUpdateProhibited https://icann.org/epp#serverUpdateProhibited
+   Name Server: ",0,MarkMonitor Inc.
+VulnWeb-Passive-OSINT,2026-02-24 07:33:28,AFFILIATE_COMPANY_NAME,sfp_company,"   Domain Name: AWSDNS-03.COM
+   Registry Domain ID: 1621572989_DOMAIN_COM-VRSN
+   Registrar WHOIS Server: whois.markmonitor.com
+   Registrar URL: http://www.markmonitor.com
+   Updated Date: 2025-07-31T17:31:13Z
+   Creation Date: 2010-10-21T21:02:44Z
+   Registry Expiry Date: 2026-10-21T21:02:44Z
+   Registrar: MarkMonitor Inc.
+   Registrar IANA ID: 292
+   Registrar Abuse Contact Email: abusecomplaints@markmonitor.com
+   Registrar Abuse Contact Phone: +1.2086851750
+   Domain Status: clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited
+   Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+   Domain Status: clientUpdateProhibited https://icann.org/epp#clientUpdateProhibited
+   Domain Status: serverDeleteProhibited https://icann.org/epp#serverDeleteProhibited
+   Domain Status: serverTransferProhibited https://icann.org/epp#serverTransferProhibited
+   Domain Status: serverUpdateProhibited https://icann.org/epp#serverUpdateProhibited
+   Name Server:",0,MarkMonitor Inc.
+VulnWeb-Passive-OSINT,2026-02-24 07:33:20,AFFILIATE_COMPANY_NAME,sfp_company,"This domain is protected by the Registry Lock service. If you are the registrant and wish to take action on this lock, please contact your registrar.
+
+Domain Name: awsdns-37.org
+Registry Domain ID: REDACTED
+Registrar WHOIS Server: http://whois.markmonitor.com
+Registrar URL: http://www.markmonitor.com
+Updated Date: 2025-08-05T17:23:40Z
+Creation Date: 2010-10-21T21:03:28Z
+Registry Expiry Date: 2026-10-21T21:03:28Z
+Registrar: MarkMonitor Inc.
+Registrar IANA ID: 292
+Registrar Abuse Contact Email: abusecomplaints@markmonitor.com
+Registrar Abuse Contact Phone: +1.2083895740
+Domain Status: clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited
+Domain Status: serverDeleteProhibited https://icann.org/epp#serverDeleteProhibited
+Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+Domain Status: serverTransferProhibited https://icann.org/epp#serverTransferProhibited
+Domain Status: clientUpdateProhibited https://icann.org/epp#clientUpdateProhibited
+Domain S",0,MarkMonitor Inc.
+VulnWeb-Passive-OSINT,2026-02-24 07:30:34,AFFILIATE_COMPANY_NAME,sfp_company,"   Domain Name: GOOGLE.COM
+   Registry Domain ID: 2138514_DOMAIN_COM-VRSN
+   Registrar WHOIS Server: whois.markmonitor.com
+   Registrar URL: http://www.markmonitor.com
+   Updated Date: 2019-09-09T15:39:04Z
+   Creation Date: 1997-09-15T04:00:00Z
+   Registry Expiry Date: 2028-09-14T04:00:00Z
+   Registrar: MarkMonitor Inc.
+   Registrar IANA ID: 292
+   Registrar Abuse Contact Email: abusecomplaints@markmonitor.com
+   Registrar Abuse Contact Phone: +1.2086851750
+   Domain Status: clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited
+   Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+   Domain Status: clientUpdateProhibited https://icann.org/epp#clientUpdateProhibited
+   Domain Status: serverDeleteProhibited https://icann.org/epp#serverDeleteProhibited
+   Domain Status: serverTransferProhibited https://icann.org/epp#serverTransferProhibited
+   Domain Status: serverUpdateProhibited https://icann.org/epp#serverUpdateProhibited
+   Name Server: NS1.G",0,"MarkMonitor, Inc."
+VulnWeb-Passive-OSINT,2026-02-24 07:33:41,AFFILIATE_COMPANY_NAME,sfp_company,"   Domain Name: 1E100.NET
+   Registry Domain ID: 1570253561_DOMAIN_NET-VRSN
+   Registrar WHOIS Server: whois.markmonitor.com
+   Registrar URL: http://www.markmonitor.com
+   Updated Date: 2025-08-24T10:14:44Z
+   Creation Date: 2009-09-25T05:40:03Z
+   Registry Expiry Date: 2026-09-25T05:40:03Z
+   Registrar: MarkMonitor Inc.
+   Registrar IANA ID: 292
+   Registrar Abuse Contact Email: abusecomplaints@markmonitor.com
+   Registrar Abuse Contact Phone: +1.2086851750
+   Domain Status: clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited
+   Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+   Domain Status: clientUpdateProhibited https://icann.org/epp#clientUpdateProhibited
+   Domain Status: serverDeleteProhibited https://icann.org/epp#serverDeleteProhibited
+   Domain Status: serverTransferProhibited https://icann.org/epp#serverTransferProhibited
+   Domain Status: serverUpdateProhibited https://icann.org/epp#serverUpdateProhibited
+   Name Server: NS1",0,"MarkMonitor, Inc."
+VulnWeb-Passive-OSINT,2026-02-24 07:32:55,AFFILIATE_COMPANY_NAME,sfp_company,"   Domain Name: AWSDNS-56.NET
+   Registry Domain ID: 1621573084_DOMAIN_NET-VRSN
+   Registrar WHOIS Server: whois.markmonitor.com
+   Registrar URL: http://www.markmonitor.com
+   Updated Date: 2025-07-31T17:48:26Z
+   Creation Date: 2010-10-21T21:02:57Z
+   Registry Expiry Date: 2026-10-21T21:02:57Z
+   Registrar: MarkMonitor Inc.
+   Registrar IANA ID: 292
+   Registrar Abuse Contact Email: abusecomplaints@markmonitor.com
+   Registrar Abuse Contact Phone: +1.2086851750
+   Domain Status: clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited
+   Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+   Domain Status: clientUpdateProhibited https://icann.org/epp#clientUpdateProhibited
+   Domain Status: serverDeleteProhibited https://icann.org/epp#serverDeleteProhibited
+   Domain Status: serverTransferProhibited https://icann.org/epp#serverTransferProhibited
+   Domain Status: serverUpdateProhibited https://icann.org/epp#serverUpdateProhibited
+   Name Server:",0,"MarkMonitor, Inc."
+VulnWeb-Passive-OSINT,2026-02-24 07:33:05,AFFILIATE_COMPANY_NAME,sfp_company,"   Domain Name: AMAZON.COM
+   Registry Domain ID: 281209_DOMAIN_COM-VRSN
+   Registrar WHOIS Server: whois.markmonitor.com
+   Registrar URL: http://www.markmonitor.com
+   Updated Date: 2025-07-31T17:49:55Z
+   Creation Date: 1994-11-01T05:00:00Z
+   Registry Expiry Date: 2026-10-31T04:00:00Z
+   Registrar: MarkMonitor Inc.
+   Registrar IANA ID: 292
+   Registrar Abuse Contact Email: abusecomplaints@markmonitor.com
+   Registrar Abuse Contact Phone: +1.2086851750
+   Domain Status: clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited
+   Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+   Domain Status: clientUpdateProhibited https://icann.org/epp#clientUpdateProhibited
+   Domain Status: serverDeleteProhibited https://icann.org/epp#serverDeleteProhibited
+   Domain Status: serverTransferProhibited https://icann.org/epp#serverTransferProhibited
+   Domain Status: serverUpdateProhibited https://icann.org/epp#serverUpdateProhibited
+   Name Server: NS1.AM",0,"MarkMonitor, Inc."
+VulnWeb-Passive-OSINT,2026-02-24 07:30:09,COMPANY_NAME,sfp_company,"   Domain Name: AMAZONAWS.COM
+   Registry Domain ID: 197784869_DOMAIN_COM-VRSN
+   Registrar WHOIS Server: whois.markmonitor.com
+   Registrar URL: http://www.markmonitor.com
+   Updated Date: 2024-01-29T18:09:26Z
+   Creation Date: 2005-08-18T02:10:45Z
+   Registry Expiry Date: 2027-01-16T04:59:59Z
+   Registrar: MarkMonitor Inc.
+   Registrar IANA ID: 292
+   Registrar Abuse Contact Email: abusecomplaints@markmonitor.com
+   Registrar Abuse Contact Phone: +1.2086851750
+   Domain Status: clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited
+   Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+   Domain Status: clientUpdateProhibited https://icann.org/epp#clientUpdateProhibited
+   Domain Status: serverDeleteProhibited https://icann.org/epp#serverDeleteProhibited
+   Domain Status: serverTransferProhibited https://icann.org/epp#serverTransferProhibited
+   Domain Status: serverUpdateProhibited https://icann.org/epp#serverUpdateProhibited
+   Name Server: ",0,"MarkMonitor, Inc."
+VulnWeb-Passive-OSINT,2026-02-24 07:27:09,DOMAIN_REGISTRAR,sfp_whois,amazonaws.com,0,"MarkMonitor, Inc."
+VulnWeb-Passive-OSINT,2026-02-24 07:33:28,AFFILIATE_COMPANY_NAME,sfp_company,"   Domain Name: AWSDNS-03.COM
+   Registry Domain ID: 1621572989_DOMAIN_COM-VRSN
+   Registrar WHOIS Server: whois.markmonitor.com
+   Registrar URL: http://www.markmonitor.com
+   Updated Date: 2025-07-31T17:31:13Z
+   Creation Date: 2010-10-21T21:02:44Z
+   Registry Expiry Date: 2026-10-21T21:02:44Z
+   Registrar: MarkMonitor Inc.
+   Registrar IANA ID: 292
+   Registrar Abuse Contact Email: abusecomplaints@markmonitor.com
+   Registrar Abuse Contact Phone: +1.2086851750
+   Domain Status: clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited
+   Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+   Domain Status: clientUpdateProhibited https://icann.org/epp#clientUpdateProhibited
+   Domain Status: serverDeleteProhibited https://icann.org/epp#serverDeleteProhibited
+   Domain Status: serverTransferProhibited https://icann.org/epp#serverTransferProhibited
+   Domain Status: serverUpdateProhibited https://icann.org/epp#serverUpdateProhibited
+   Name Server:",0,"MarkMonitor, Inc."
+VulnWeb-Passive-OSINT,2026-02-24 07:33:37,AFFILIATE_COMPANY_NAME,sfp_company,"
+    Domain name:
+        awsdns-16.co.uk
+
+    Data validation:
+        Nominet was able to match the registrant's name and address against a 3rd party data source on 10-Dec-2012
+
+    Registrar:
+        Markmonitor Inc. [Tag = MARKMONITOR]
+        URL: https://www.markmonitor.com
+
+    Relevant dates:
+        Registered on: 21-Oct-2010
+        Expiry date:  21-Oct-2026
+        Last updated:  31-Jul-2025
+
+    Registration status:
+        Registered until expiry date.
+
+    Name servers:
+        g-ns-1491.awsdns-16.co.uk  205.251.197.211  2600:9000:5305:d300::1
+        g-ns-1812.awsdns-16.co.uk  205.251.199.20  2600:9000:5307:1400::1
+        g-ns-336.awsdns-16.co.uk  205.251.193.80  2600:9000:5301:5000::1
+        g-ns-912.awsdns-16.co.uk  205.251.195.144  2600:9000:5303:9000::1
+
+    WHOIS lookup made at 12:33:33 24-Feb-2026
+
+-- 
+This WHOIS information is provided for free by Nominet UK the central registry
+for .uk domain names. This information and the .uk WHOIS are:
+
+    Copyright ",0,Markmonitor Inc.
+VulnWeb-Passive-OSINT,2026-02-24 07:26:15,AFFILIATE_DESCRIPTION_CATEGORY,sfp_duckduckgo,alt3.aspmx.l.google.com,0,Multilingual websites
+VulnWeb-Passive-OSINT,2026-02-24 07:26:15,AFFILIATE_DESCRIPTION_CATEGORY,sfp_duckduckgo,alt3.aspmx.l.google.com,0,Music search engines
+VulnWeb-Passive-OSINT,2026-02-24 07:27:48,PUBLIC_CODE_REPO,sfp_github,vulnweb.com,0,"Name: vulnweb
+URL: https://github.com/jannis-z/vulnweb
+Description: Vulnweb is a vulnerable web application intended as a beginner capture the flag security challenge. The goal is to get access to the admin user and obtain the flag."
+VulnWeb-Passive-OSINT,2026-02-24 07:28:39,PUBLIC_CODE_REPO,sfp_github,vulnweb,0,"Name: vulnweb
+URL: https://github.com/jannis-z/vulnweb
+Description: Vulnweb is a vulnerable web application intended as a beginner capture the flag security challenge. The goal is to get access to the admin user and obtain the flag."
+VulnWeb-Passive-OSINT,2026-02-24 07:27:48,PUBLIC_CODE_REPO,sfp_github,vulnweb.com,0,"Name: vulnweb
+URL: https://github.com/nirinagilbertin/vulnweb
+Description: Site web vulnerable php au injection SQL"
+VulnWeb-Passive-OSINT,2026-02-24 07:28:39,PUBLIC_CODE_REPO,sfp_github,vulnweb,0,"Name: vulnweb
+URL: https://github.com/nirinagilbertin/vulnweb
+Description: Site web vulnerable php au injection SQL"
+VulnWeb-Passive-OSINT,2026-02-24 07:27:48,PUBLIC_CODE_REPO,sfp_github,vulnweb.com,0,"Name: vulnweb
+URL: https://github.com/rootbakar/vulnweb
+Description: This is vulnweb only for education purpose"
+VulnWeb-Passive-OSINT,2026-02-24 07:28:39,PUBLIC_CODE_REPO,sfp_github,vulnweb,0,"Name: vulnweb
+URL: https://github.com/rootbakar/vulnweb
+Description: This is vulnweb only for education purpose"
+VulnWeb-Passive-OSINT,2026-02-24 07:27:52,RAW_RIR_DATA,sfp_stackoverflow,vulnweb.com,0,Possible full name: Dai Ngo
+VulnWeb-Passive-OSINT,2026-02-24 07:33:57,BLACKLISTED_AFFILIATE_INTERNET_NAME,sfp_quad9,vw-in-x1b.1e100.net,0,"Quad9 [vw-in-x1b.1e100.net]
+https://quad9.net/result/?url=vw-in-x1b.1e100.net"
+VulnWeb-Passive-OSINT,2026-02-24 07:33:57,MALICIOUS_AFFILIATE_INTERNET_NAME,sfp_quad9,vw-in-x1b.1e100.net,0,"Quad9 [vw-in-x1b.1e100.net]
+https://quad9.net/result/?url=vw-in-x1b.1e100.net"
+VulnWeb-Passive-OSINT,2026-02-24 07:32:23,ACCOUNT_EXTERNAL_OWNED,sfp_accounts,vulnweb,0,"Scribd (Document) (Category: hobby)
+https://www.scribd.com/search?query=vulnweb&verbatim=true"
+VulnWeb-Passive-OSINT,2026-02-24 07:32:23,ACCOUNT_EXTERNAL_OWNED,sfp_accounts,vulnweb,0,"Telegram (Category: social)
+https://t.me/vulnweb"
+VulnWeb-Passive-OSINT,2026-02-24 07:33:15,AFFILIATE_DOMAIN_WHOIS,sfp_whois,awsdns-37.org,0,"This domain is protected by the Registry Lock service. If you are the registrant and wish to take action on this lock, please contact your registrar.
+
+Domain Name: awsdns-37.org
+Registry Domain ID: REDACTED
+Registrar WHOIS Server: http://whois.markmonitor.com
+Registrar URL: http://www.markmonitor.com
+Updated Date: 2025-08-05T17:23:40Z
+Creation Date: 2010-10-21T21:03:28Z
+Registry Expiry Date: 2026-10-21T21:03:28Z
+Registrar: MarkMonitor Inc.
+Registrar IANA ID: 292
+Registrar Abuse Contact Email: abusecomplaints@markmonitor.com
+Registrar Abuse Contact Phone: +1.2083895740
+Domain Status: clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited
+Domain Status: serverDeleteProhibited https://icann.org/epp#serverDeleteProhibited
+Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+Domain Status: serverTransferProhibited https://icann.org/epp#serverTransferProhibited
+Domain Status: clientUpdateProhibited https://icann.org/epp#clientUpdateProhibited
+Domain S"
+VulnWeb-Passive-OSINT,2026-02-24 07:26:19,GEOINFO,sfp_urlscan,ec2-44-228-249-3.us-west-2.compute.amazonaws.com,0,US
+VulnWeb-Passive-OSINT,2026-02-24 07:26:15,GEOINFO,sfp_urlscan,testphp.vulnweb.com,0,US
+VulnWeb-Passive-OSINT,2026-02-24 07:26:36,GEOINFO,sfp_urlscan,vulnweb.com,0,US
+VulnWeb-Passive-OSINT,2026-02-24 07:34:17,COUNTRY_NAME,sfp_countryname,+442032062220,0,United Kingdom
+VulnWeb-Passive-OSINT,2026-02-24 07:34:18,COUNTRY_NAME,sfp_countryname,awsdns-16.co.uk,0,United Kingdom
+VulnWeb-Passive-OSINT,2026-02-24 07:34:16,COUNTRY_NAME,sfp_countryname,+18007459229,0,United States
+VulnWeb-Passive-OSINT,2026-02-24 07:27:47,COUNTRY_NAME,sfp_countryname,vulnweb.com,0,United States
+VulnWeb-Passive-OSINT,2026-02-24 07:34:42,COUNTRY_NAME,sfp_countryname,amazonaws.com,0,United States
+VulnWeb-Passive-OSINT,2026-02-24 07:28:38,COUNTRY_NAME,sfp_countryname,google.com,0,United States
+VulnWeb-Passive-OSINT,2026-02-24 07:33:34,COUNTRY_NAME,sfp_countryname,awsdns-37.org,0,United States
+VulnWeb-Passive-OSINT,2026-02-24 07:34:10,COUNTRY_NAME,sfp_countryname,+12062664064,0,United States
+VulnWeb-Passive-OSINT,2026-02-24 07:30:34,COUNTRY_NAME,sfp_countryname,gandi.net,0,United States
+VulnWeb-Passive-OSINT,2026-02-24 07:33:24,COUNTRY_NAME,sfp_countryname,amazon.com,0,United States
+VulnWeb-Passive-OSINT,2026-02-24 07:34:10,COUNTRY_NAME,sfp_countryname,+12062667010,0,United States
+VulnWeb-Passive-OSINT,2026-02-24 07:33:15,COUNTRY_NAME,sfp_countryname,awsdns-56.net,0,United States
+VulnWeb-Passive-OSINT,2026-02-24 07:34:04,COUNTRY_NAME,sfp_countryname,+12086851750,0,United States
+VulnWeb-Passive-OSINT,2026-02-24 07:34:30,COUNTRY_NAME,sfp_countryname,1e100.net,0,United States
+VulnWeb-Passive-OSINT,2026-02-24 07:33:49,COUNTRY_NAME,sfp_countryname,awsdns-03.com,0,United States
+VulnWeb-Passive-OSINT,2026-02-24 07:31:36,MALICIOUS_SUBNET,sfp_voipbl,44.224.0.0/11,0,"VoIP Blacklist (VoIPBL) [44.224.0.0/11]
+https://voipbl.org/check/?ip=44.224.0.0/11"
+VulnWeb-Passive-OSINT,2026-02-24 07:31:36,BLACKLISTED_SUBNET,sfp_voipbl,44.224.0.0/11,0,"VoIP Blacklist (VoIPBL) [44.224.0.0/11]
+https://voipbl.org/check/?ip=44.224.0.0/11"
+VulnWeb-Passive-OSINT,2026-02-24 07:26:18,AFFILIATE_DESCRIPTION_CATEGORY,sfp_duckduckgo,ns-11-b.gandi.net,0,Web hosting
+VulnWeb-Passive-OSINT,2026-02-24 07:26:32,DESCRIPTION_CATEGORY,sfp_duckduckgo,amazonaws.com,0,Web hosting
+VulnWeb-Passive-OSINT,2026-02-24 07:26:15,AFFILIATE_DESCRIPTION_CATEGORY,sfp_duckduckgo,alt3.aspmx.l.google.com,0,Websites which mirror Wikipedia
+VulnWeb-Passive-OSINT,2026-02-24 07:31:33,LEI,sfp_gleif,"Amazon.com, Inc.",0,ZXTILKJKG63JELOEG630
+VulnWeb-Passive-OSINT,2026-02-24 07:26:19,RAW_RIR_DATA,sfp_urlscan,ec2-44-228-249-3.us-west-2.compute.amazonaws.com,0,"[{'submitter': {}, 'task': {'visibility': 'public', 'method': 'api', 'domain': 'testphp.vulnweb.com', 'apexDomain': 'vulnweb.com', 'time': '2025-05-27T02:30:20.459Z', 'uuid': '01970f93-7a76-7299-b787-602e4a2288f2', 'url': 'http://testphp.vulnweb.com/'}, 'stats': {'uniqIPs': 1, 'uniqCountries': 1, 'dataLength': 17994, 'encodedDataLength': 16315, 'requests': 4}, 'page': {'country': 'US', 'server': 'nginx/1.19.0', 'ip': '44.228.249.3', 'domain': 'testphp.vulnweb.com', 'apexDomain': 'vulnweb.com', 'mimeType': 'text/html', 'asnname': 'AMAZON-02, US', 'title': 'Home of Acunetix Art', 'asn': 'AS16509', 'url': 'http://testphp.vulnweb.com/', 'ptr': 'ec2-44-228-249-3.us-west-2.compute.amazonaws.com', 'status': '200'}, '_id': '01970f93-7a76-7299-b787-602e4a2288f2', '_score': None, 'sort': [1748313020459, '01970f93-7a76-7299-b787-602e4a2288f2'], 'result': 'https://urlscan.io/api/v1/result/01970f93-7a76-7299-b787-602e4a2288f2/', 'screenshot': 'https://urlscan.io/screenshots/01970f93-7a76-7299-b787-602e4a2288f2.png'}, {'su"
+VulnWeb-Passive-OSINT,2026-02-24 07:26:15,RAW_RIR_DATA,sfp_urlscan,testphp.vulnweb.com,0,"[{'submitter': {}, 'task': {'visibility': 'public', 'method': 'api', 'domain': 'testphp.vulnweb.com', 'apexDomain': 'vulnweb.com', 'time': '2026-02-24T05:25:06.442Z', 'uuid': '019c8e1b-3fa9-7799-8ee4-93d372002c58', 'url': 'https://testphp.vulnweb.com/'}, 'stats': {'uniqIPs': 1, 'uniqCountries': 0, 'dataLength': 0, 'encodedDataLength': 0, 'requests': 1}, 'page': {'domainAgeDays': 3269, 'domain': 'testphp.vulnweb.com', 'apexDomainAgeDays': 3036, 'apexDomain': 'vulnweb.com', 'url': 'https://testphp.vulnweb.com/'}, '_id': '019c8e1b-3fa9-7799-8ee4-93d372002c58', '_score': None, 'sort': [1771910706442, '019c8e1b-3fa9-7799-8ee4-93d372002c58'], 'result': 'https://urlscan.io/api/v1/result/019c8e1b-3fa9-7799-8ee4-93d372002c58/', 'screenshot': 'https://urlscan.io/screenshots/019c8e1b-3fa9-7799-8ee4-93d372002c58.png'}, {'submitter': {}, 'task': {'visibility': 'public', 'method': 'api', 'domain': 'testphp.vulnweb.com', 'apexDomain': 'vulnweb.com', 'time': '2026-02-24T05:24:58.079Z', 'uuid': '019c8e1b-1efc-749a-a6c1-2ff4aa"
+VulnWeb-Passive-OSINT,2026-02-24 07:26:36,RAW_RIR_DATA,sfp_urlscan,vulnweb.com,0,"[{'submitter': {}, 'task': {'visibility': 'public', 'method': 'api', 'domain': 'testphp.vulnweb.com', 'apexDomain': 'vulnweb.com', 'time': '2026-02-24T05:25:06.442Z', 'uuid': '019c8e1b-3fa9-7799-8ee4-93d372002c58', 'url': 'https://testphp.vulnweb.com/'}, 'stats': {'uniqIPs': 1, 'uniqCountries': 0, 'dataLength': 0, 'encodedDataLength': 0, 'requests': 1}, 'page': {'domainAgeDays': 3269, 'domain': 'testphp.vulnweb.com', 'apexDomainAgeDays': 3036, 'apexDomain': 'vulnweb.com', 'url': 'https://testphp.vulnweb.com/'}, '_id': '019c8e1b-3fa9-7799-8ee4-93d372002c58', '_score': None, 'sort': [1771910706442, '019c8e1b-3fa9-7799-8ee4-93d372002c58'], 'result': 'https://urlscan.io/api/v1/result/019c8e1b-3fa9-7799-8ee4-93d372002c58/', 'screenshot': 'https://urlscan.io/screenshots/019c8e1b-3fa9-7799-8ee4-93d372002c58.png'}, {'submitter': {}, 'task': {'visibility': 'public', 'method': 'api', 'domain': 'testphp.vulnweb.com', 'apexDomain': 'vulnweb.com', 'time': '2026-02-24T05:24:58.079Z', 'uuid': '019c8e1b-1efc-749a-a6c1-2ff4aa"
+VulnWeb-Passive-OSINT,2026-02-24 07:31:33,RAW_RIR_DATA,sfp_gleif,"Amazon.com, Inc.",0,"[{'type': 'autocompletions', 'attributes': {'value': 'AMAZON.COM, INC.', 'highlighting': '<b>AMAZON.COM</b>, <b>INC</b>.'}, 'relationships': {'lei-records': {'data': {'type': 'lei-records', 'id': 'ZXTILKJKG63JELOEG630'}, 'links': {'related': 'https://api.gleif.org/api/v1/lei-records/ZXTILKJKG63JELOEG630'}}}}, {'type': 'autocompletions', 'attributes': {'value': 'AMAZON.COM SALES, INC.', 'highlighting': '<b>AMAZON.COM</b> SALES, <b>INC</b>.'}, 'relationships': {'lei-records': {'data': {'type': 'lei-records', 'id': '2549004N3WGRA3QL4H27'}, 'links': {'related': 'https://api.gleif.org/api/v1/lei-records/2549004N3WGRA3QL4H27'}}}}]"
+VulnWeb-Passive-OSINT,2026-02-24 07:31:11,RAW_RIR_DATA,sfp_gleif,"MarkMonitor, Inc.",0,"[{'type': 'autocompletions', 'attributes': {'value': 'MARKMONITOR INC.', 'highlighting': '<b>MARKMONITOR</b> <b>INC</b>.'}}]"
+VulnWeb-Passive-OSINT,2026-02-24 07:30:36,RAW_RIR_DATA,sfp_gleif,MarkMonitor Inc.,0,"[{'type': 'autocompletions', 'attributes': {'value': 'MARKMONITOR INC.', 'highlighting': '<b>MARKMONITOR</b> <b>INC</b>.'}}]"
+VulnWeb-Passive-OSINT,2026-02-24 07:33:41,AFFILIATE_EMAILADDR,sfp_email,"{'address': '410 Terry Ave N.', 'as_name': 'AS14618 Amazon Data Services Nova', 'as_number': '14618', 'asn_cidr': '3.208.0.0/12', 'asn_country_code': 'US', 'asn_date': '2018-06-25 00:00:00', 'asn_registry': 'arin', 'blacklist': [{'count': 1, 'description': 'Mail Spammer', 'first_seen': '2024-03-12 03:33:04', 'last_seen': '2024-03-12 03:33:04', 'source': 'Abuseat.org'}], 'cidr': ['3.128.0.0/9'], 'city': 'Ashburn', 'classification': 'suspicious', 'country_code': 'US', 'creation_time': '2024-03-12 03:33:02', 'email': ['abuse@amazonaws.com', 'aws-rpki-routing-poc@amazon.com', 'amzn-noc-contact@amazon.com', 'aws-routing-poc@amazon.com'], 'ip_addr': '3.222.250.144', 'ip_version': 4, 'is_cdn': False, 'is_cnc': False, 'is_distributing_malware': False, 'is_hosting': False, 'is_iot_threat': False, 'is_known_attacker': False, 'is_known_scanner': False, 'is_mining_pool': False, 'is_open_proxy': False, 'is_sinkhole': False, 'is_tor_node': False, 'is_vpn_node': False, 'last_updated': '2018-09-13 00:00:00', 'location': {'la",0,abuse@amazonaws.com
+VulnWeb-Passive-OSINT,2026-02-24 07:32:51,AFFILIATE_EMAILADDR,sfp_email,"   Domain Name: VULNWEB.COM
+   Registry Domain ID: 1602006391_DOMAIN_COM-VRSN
+   Registrar WHOIS Server: whois.gandi.net
+   Registrar URL: http://www.gandi.net
+   Updated Date: 2025-11-17T09:34:20Z
+   Creation Date: 2010-06-14T07:50:29Z
+   Registry Expiry Date: 2027-06-14T07:50:29Z
+   Registrar: Gandi SAS
+   Registrar IANA ID: 81
+   Registrar Abuse Contact Email: abuse@support.gandi.net
+   Registrar Abuse Contact Phone: +33.170377661
+   Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+   Name Server: NS-105-A.GANDI.NET
+   Name Server: NS-11-B.GANDI.NET
+   Name Server: NS-140-C.GANDI.NET
+   DNSSEC: unsigned
+   URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of whois database: 2026-02-24T12:26:49Z <<<
+
+For more information on Whois status codes, please visit https://icann.org/epp
+
+NOTICE: The expiration date displayed in this record is the date the
+registrar's sponsorship of the domain name registration in ",0,abuse@support.gandi.net
+VulnWeb-Passive-OSINT,2026-02-24 07:33:23,AFFILIATE_EMAILADDR,sfp_email,"   Domain Name: GANDI.NET
+   Registry Domain ID: 6683836_DOMAIN_NET-VRSN
+   Registrar WHOIS Server: whois.gandi.net
+   Registrar URL: http://www.gandi.net
+   Updated Date: 2025-03-22T13:14:46Z
+   Creation Date: 1999-05-21T14:09:21Z
+   Registry Expiry Date: 2026-05-21T14:09:56Z
+   Registrar: Gandi SAS
+   Registrar IANA ID: 81
+   Registrar Abuse Contact Email: abuse@support.gandi.net
+   Registrar Abuse Contact Phone: +33.170377661
+   Domain Status: clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited
+   Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+   Domain Status: clientUpdateProhibited https://icann.org/epp#clientUpdateProhibited
+   Domain Status: serverDeleteProhibited https://icann.org/epp#serverDeleteProhibited
+   Domain Status: serverTransferProhibited https://icann.org/epp#serverTransferProhibited
+   Domain Status: serverUpdateProhibited https://icann.org/epp#serverUpdateProhibited
+   Name Server: DNS0.GANDI.NET
+   Name Server: DN",0,abuse@support.gandi.net
+VulnWeb-Passive-OSINT,2026-02-24 07:33:08,AFFILIATE_EMAILADDR,sfp_email,"   Domain Name: GOOGLE.COM
+   Registry Domain ID: 2138514_DOMAIN_COM-VRSN
+   Registrar WHOIS Server: whois.markmonitor.com
+   Registrar URL: http://www.markmonitor.com
+   Updated Date: 2019-09-09T15:39:04Z
+   Creation Date: 1997-09-15T04:00:00Z
+   Registry Expiry Date: 2028-09-14T04:00:00Z
+   Registrar: MarkMonitor Inc.
+   Registrar IANA ID: 292
+   Registrar Abuse Contact Email: abusecomplaints@markmonitor.com
+   Registrar Abuse Contact Phone: +1.2086851750
+   Domain Status: clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited
+   Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+   Domain Status: clientUpdateProhibited https://icann.org/epp#clientUpdateProhibited
+   Domain Status: serverDeleteProhibited https://icann.org/epp#serverDeleteProhibited
+   Domain Status: serverTransferProhibited https://icann.org/epp#serverTransferProhibited
+   Domain Status: serverUpdateProhibited https://icann.org/epp#serverUpdateProhibited
+   Name Server: NS1.G",0,abusecomplaints@markmonitor.com
+VulnWeb-Passive-OSINT,2026-02-24 07:34:16,AFFILIATE_EMAILADDR,sfp_email,"   Domain Name: 1E100.NET
+   Registry Domain ID: 1570253561_DOMAIN_NET-VRSN
+   Registrar WHOIS Server: whois.markmonitor.com
+   Registrar URL: http://www.markmonitor.com
+   Updated Date: 2025-08-24T10:14:44Z
+   Creation Date: 2009-09-25T05:40:03Z
+   Registry Expiry Date: 2026-09-25T05:40:03Z
+   Registrar: MarkMonitor Inc.
+   Registrar IANA ID: 292
+   Registrar Abuse Contact Email: abusecomplaints@markmonitor.com
+   Registrar Abuse Contact Phone: +1.2086851750
+   Domain Status: clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited
+   Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+   Domain Status: clientUpdateProhibited https://icann.org/epp#clientUpdateProhibited
+   Domain Status: serverDeleteProhibited https://icann.org/epp#serverDeleteProhibited
+   Domain Status: serverTransferProhibited https://icann.org/epp#serverTransferProhibited
+   Domain Status: serverUpdateProhibited https://icann.org/epp#serverUpdateProhibited
+   Name Server: NS1",0,abusecomplaints@markmonitor.com
+VulnWeb-Passive-OSINT,2026-02-24 07:33:48,AFFILIATE_EMAILADDR,sfp_email,"   Domain Name: AWSDNS-56.NET
+   Registry Domain ID: 1621573084_DOMAIN_NET-VRSN
+   Registrar WHOIS Server: whois.markmonitor.com
+   Registrar URL: http://www.markmonitor.com
+   Updated Date: 2025-07-31T17:48:26Z
+   Creation Date: 2010-10-21T21:02:57Z
+   Registry Expiry Date: 2026-10-21T21:02:57Z
+   Registrar: MarkMonitor Inc.
+   Registrar IANA ID: 292
+   Registrar Abuse Contact Email: abusecomplaints@markmonitor.com
+   Registrar Abuse Contact Phone: +1.2086851750
+   Domain Status: clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited
+   Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+   Domain Status: clientUpdateProhibited https://icann.org/epp#clientUpdateProhibited
+   Domain Status: serverDeleteProhibited https://icann.org/epp#serverDeleteProhibited
+   Domain Status: serverTransferProhibited https://icann.org/epp#serverTransferProhibited
+   Domain Status: serverUpdateProhibited https://icann.org/epp#serverUpdateProhibited
+   Name Server:",0,abusecomplaints@markmonitor.com
+VulnWeb-Passive-OSINT,2026-02-24 07:33:54,AFFILIATE_EMAILADDR,sfp_email,"   Domain Name: AMAZON.COM
+   Registry Domain ID: 281209_DOMAIN_COM-VRSN
+   Registrar WHOIS Server: whois.markmonitor.com
+   Registrar URL: http://www.markmonitor.com
+   Updated Date: 2025-07-31T17:49:55Z
+   Creation Date: 1994-11-01T05:00:00Z
+   Registry Expiry Date: 2026-10-31T04:00:00Z
+   Registrar: MarkMonitor Inc.
+   Registrar IANA ID: 292
+   Registrar Abuse Contact Email: abusecomplaints@markmonitor.com
+   Registrar Abuse Contact Phone: +1.2086851750
+   Domain Status: clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited
+   Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+   Domain Status: clientUpdateProhibited https://icann.org/epp#clientUpdateProhibited
+   Domain Status: serverDeleteProhibited https://icann.org/epp#serverDeleteProhibited
+   Domain Status: serverTransferProhibited https://icann.org/epp#serverTransferProhibited
+   Domain Status: serverUpdateProhibited https://icann.org/epp#serverUpdateProhibited
+   Name Server: NS1.AM",0,abusecomplaints@markmonitor.com
+VulnWeb-Passive-OSINT,2026-02-24 07:33:03,AFFILIATE_EMAILADDR,sfp_email,"   Domain Name: AMAZONAWS.COM
+   Registry Domain ID: 197784869_DOMAIN_COM-VRSN
+   Registrar WHOIS Server: whois.markmonitor.com
+   Registrar URL: http://www.markmonitor.com
+   Updated Date: 2024-01-29T18:09:26Z
+   Creation Date: 2005-08-18T02:10:45Z
+   Registry Expiry Date: 2027-01-16T04:59:59Z
+   Registrar: MarkMonitor Inc.
+   Registrar IANA ID: 292
+   Registrar Abuse Contact Email: abusecomplaints@markmonitor.com
+   Registrar Abuse Contact Phone: +1.2086851750
+   Domain Status: clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited
+   Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+   Domain Status: clientUpdateProhibited https://icann.org/epp#clientUpdateProhibited
+   Domain Status: serverDeleteProhibited https://icann.org/epp#serverDeleteProhibited
+   Domain Status: serverTransferProhibited https://icann.org/epp#serverTransferProhibited
+   Domain Status: serverUpdateProhibited https://icann.org/epp#serverUpdateProhibited
+   Name Server: ",0,abusecomplaints@markmonitor.com
+VulnWeb-Passive-OSINT,2026-02-24 07:34:10,AFFILIATE_EMAILADDR,sfp_email,"   Domain Name: AWSDNS-03.COM
+   Registry Domain ID: 1621572989_DOMAIN_COM-VRSN
+   Registrar WHOIS Server: whois.markmonitor.com
+   Registrar URL: http://www.markmonitor.com
+   Updated Date: 2025-07-31T17:31:13Z
+   Creation Date: 2010-10-21T21:02:44Z
+   Registry Expiry Date: 2026-10-21T21:02:44Z
+   Registrar: MarkMonitor Inc.
+   Registrar IANA ID: 292
+   Registrar Abuse Contact Email: abusecomplaints@markmonitor.com
+   Registrar Abuse Contact Phone: +1.2086851750
+   Domain Status: clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited
+   Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+   Domain Status: clientUpdateProhibited https://icann.org/epp#clientUpdateProhibited
+   Domain Status: serverDeleteProhibited https://icann.org/epp#serverDeleteProhibited
+   Domain Status: serverTransferProhibited https://icann.org/epp#serverTransferProhibited
+   Domain Status: serverUpdateProhibited https://icann.org/epp#serverUpdateProhibited
+   Name Server:",0,abusecomplaints@markmonitor.com
+VulnWeb-Passive-OSINT,2026-02-24 07:34:04,AFFILIATE_EMAILADDR,sfp_email,"This domain is protected by the Registry Lock service. If you are the registrant and wish to take action on this lock, please contact your registrar.
+
+Domain Name: awsdns-37.org
+Registry Domain ID: REDACTED
+Registrar WHOIS Server: http://whois.markmonitor.com
+Registrar URL: http://www.markmonitor.com
+Updated Date: 2025-08-05T17:23:40Z
+Creation Date: 2010-10-21T21:03:28Z
+Registry Expiry Date: 2026-10-21T21:03:28Z
+Registrar: MarkMonitor Inc.
+Registrar IANA ID: 292
+Registrar Abuse Contact Email: abusecomplaints@markmonitor.com
+Registrar Abuse Contact Phone: +1.2083895740
+Domain Status: clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited
+Domain Status: serverDeleteProhibited https://icann.org/epp#serverDeleteProhibited
+Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+Domain Status: serverTransferProhibited https://icann.org/epp#serverTransferProhibited
+Domain Status: clientUpdateProhibited https://icann.org/epp#clientUpdateProhibited
+Domain S",0,abusecomplaints@markmonitor.com
+VulnWeb-Passive-OSINT,2026-02-24 07:26:12,PROVIDER_MAIL,sfp_dnsraw,vulnweb.com,0,alt1.aspmx.l.google.com
+VulnWeb-Passive-OSINT,2026-02-24 07:26:13,AFFILIATE_INTERNET_NAME,sfp_dnsraw,vulnweb.com,0,alt1.aspmx.l.google.com
+VulnWeb-Passive-OSINT,2026-02-24 07:26:12,PROVIDER_MAIL,sfp_dnsraw,vulnweb.com,0,alt2.aspmx.l.google.com
+VulnWeb-Passive-OSINT,2026-02-24 07:26:13,AFFILIATE_INTERNET_NAME,sfp_dnsraw,vulnweb.com,0,alt2.aspmx.l.google.com
+VulnWeb-Passive-OSINT,2026-02-24 07:26:12,PROVIDER_MAIL,sfp_dnsraw,vulnweb.com,0,alt3.aspmx.l.google.com
+VulnWeb-Passive-OSINT,2026-02-24 07:26:13,AFFILIATE_INTERNET_NAME,sfp_dnsraw,vulnweb.com,0,alt3.aspmx.l.google.com
+VulnWeb-Passive-OSINT,2026-02-24 07:26:12,PROVIDER_MAIL,sfp_dnsraw,vulnweb.com,0,alt4.aspmx.l.google.com
+VulnWeb-Passive-OSINT,2026-02-24 07:26:13,AFFILIATE_INTERNET_NAME,sfp_dnsraw,vulnweb.com,0,alt4.aspmx.l.google.com
+VulnWeb-Passive-OSINT,2026-02-24 07:26:18,PROVIDER_MAIL,sfp_dnsraw,amazonaws.com,0,amazon-smtp.amazon.com
+VulnWeb-Passive-OSINT,2026-02-24 07:26:19,AFFILIATE_INTERNET_NAME,sfp_dnsraw,amazonaws.com,0,amazon-smtp.amazon.com
+VulnWeb-Passive-OSINT,2026-02-24 07:28:15,AFFILIATE_DOMAIN_NAME,sfp_dnsresolve,amazon-smtp.amazon.com,0,amazon.com
+VulnWeb-Passive-OSINT,2026-02-24 07:28:16,AFFILIATE_DOMAIN_NAME,sfp_dnsresolve,amazon-smtp.amazon.com,0,amazon.com
+VulnWeb-Passive-OSINT,2026-02-24 07:29:34,AFFILIATE_DOMAIN_NAME,sfp_dnsresolve,amazon.com,0,amazon.com
+VulnWeb-Passive-OSINT,2026-02-24 07:26:19,AFFILIATE_INTERNET_NAME,sfp_dnsraw,amazonaws.com,0,amazon.com
+VulnWeb-Passive-OSINT,2026-02-24 07:26:14,DOMAIN_NAME_PARENT,sfp_dnsresolve,ec2-44-228-249-3.us-west-2.compute.amazonaws.com,0,amazonaws.com
+VulnWeb-Passive-OSINT,2026-02-24 07:33:34,CO_HOSTED_SITE_DOMAIN,sfp_dnsresolve,ec2-44-228-249-3.us-west-2.compute.amazonaws.com,0,amazonaws.com
+VulnWeb-Passive-OSINT,2026-02-24 07:26:18,RAW_DNS_RECORDS,sfp_dnsraw,amazonaws.com,0,"amazonaws.com. 3600 IN NS ns-967.awsdns-56.net.
+amazonaws.com. 3600 IN NS ns-1321.awsdns-37.org.
+amazonaws.com. 3600 IN NS ns-1670.awsdns-16.co.uk.
+amazonaws.com. 3600 IN NS ns-27.awsdns-03.com."
+VulnWeb-Passive-OSINT,2026-02-24 07:26:18,RAW_DNS_RECORDS,sfp_dnsraw,amazonaws.com,0,amazonaws.com. 900 IN MX 10 amazon-smtp.amazon.com.
+VulnWeb-Passive-OSINT,2026-02-24 07:26:18,RAW_DNS_RECORDS,sfp_dnsraw,amazonaws.com,0,"amazonaws.com. 900 IN TXT ""google-site-verification=EEVHeL7fVZb5ix5bR0draHWtJ5MfS0538OwXAfY8HCY""
+amazonaws.com. 900 IN TXT ""pf2vv39dfkf9tszsg5lggfs6tp6bkjn4""
+amazonaws.com. 900 IN TXT ""spf2.0/pra include:amazon.com ~all""
+amazonaws.com. 900 IN TXT ""v=spf1 include:amazon.com ~all""
+amazonaws.com. 900 IN TXT ""atlassian-domain-verification=ZT4AapXgobCpXIWoNcd7gtMjZyOUdr4EDFMnFUWrqqqgdaQVbDvoGpRaIwj/tgPH"""
+VulnWeb-Passive-OSINT,2026-02-24 07:34:04,AFFILIATE_EMAILADDR,sfp_email,"{'address': '1918 8th Ave', 'as_name': 'AS16509 Amazon Data Services Nova', 'as_number': '16509', 'asn_cidr': '205.251.198.0/24', 'asn_country_code': 'US', 'asn_date': '2010-08-27 00:00:00', 'asn_registry': 'arin', 'blacklist': [{'count': 1, 'description': 'Mail Spammer', 'first_seen': '2023-06-20 18:03:11', 'last_seen': '2023-06-20 18:03:11', 'source': 'Abuseat.org'}], 'cidr': ['205.251.192.0/18'], 'city': 'Ashburn', 'classification': 'whitelist', 'country_code': 'US', 'creation_time': '2023-06-20 18:03:11', 'email': ['amzn-noc-contact@amazon.com', 'aws-rpki-routing-poc@amazon.com', 'aws-routing-poc@amazon.com', 'trustandsafety@support.aws.com', 'ipmanagement@amazon.com'], 'ip_addr': '205.251.198.134', 'ip_version': 4, 'is_cdn': False, 'is_cnc': False, 'is_distributing_malware': False, 'is_hosting': True, 'is_iot_threat': False, 'is_known_attacker': False, 'is_known_scanner': False, 'is_mining_pool': False, 'is_open_proxy': False, 'is_sinkhole': False, 'is_tor_node': False, 'is_vpn_node': False, 'last_update",0,amzn-noc-contact@amazon.com
+VulnWeb-Passive-OSINT,2026-02-24 07:33:42,AFFILIATE_EMAILADDR,sfp_email,"{'address': '1918 8th Ave', 'as_name': 'AS16509 Amazon Data Services Nova', 'as_number': '16509', 'asn_cidr': '205.251.197.0/24', 'asn_country_code': 'US', 'asn_date': '2010-08-27 00:00:00', 'asn_registry': 'arin', 'blacklist': [{'count': 1, 'description': 'Mail Spammer', 'first_seen': '2023-06-20 18:03:16', 'last_seen': '2023-06-20 18:03:16', 'source': 'Abuseat.org'}], 'cidr': ['205.251.192.0/18'], 'city': 'Seattle', 'classification': 'whitelist', 'country_code': 'US', 'creation_time': '2023-06-20 18:03:15', 'email': ['amzn-noc-contact@amazon.com', 'trustandsafety@support.aws.com', 'aws-routing-poc@amazon.com', 'aws-rpki-routing-poc@amazon.com', 'ipmanagement@amazon.com'], 'ip_addr': '205.251.197.41', 'ip_version': 4, 'is_cdn': False, 'is_cnc': False, 'is_distributing_malware': False, 'is_hosting': True, 'is_iot_threat': False, 'is_known_attacker': False, 'is_known_scanner': False, 'is_mining_pool': False, 'is_open_proxy': False, 'is_sinkhole': False, 'is_tor_node': False, 'is_vpn_node': False, 'last_updated",0,amzn-noc-contact@amazon.com
+VulnWeb-Passive-OSINT,2026-02-24 07:33:39,AFFILIATE_EMAILADDR,sfp_email,"{'address': '1918 8th Ave', 'as_name': 'AS16509 Amazon Data Services Nova', 'as_number': '16509', 'asn_cidr': '205.251.195.0/24', 'asn_country_code': 'US', 'asn_date': '2010-08-27 00:00:00', 'asn_registry': 'arin', 'blacklist': [{'count': 1, 'description': 'Mail Spammer', 'first_seen': '2023-06-20 18:03:04', 'last_seen': '2023-06-20 18:03:04', 'source': 'Abuseat.org'}], 'cidr': ['205.251.192.0/18'], 'city': 'Ashburn', 'classification': 'whitelist', 'country_code': 'US', 'creation_time': '2023-06-20 18:03:04', 'email': ['aws-routing-poc@amazon.com', 'amzn-noc-contact@amazon.com', 'trustandsafety@support.aws.com', 'aws-rpki-routing-poc@amazon.com', 'ipmanagement@amazon.com'], 'ip_addr': '205.251.195.199', 'ip_version': 4, 'is_cdn': False, 'is_cnc': False, 'is_distributing_malware': False, 'is_hosting': True, 'is_iot_threat': False, 'is_known_attacker': False, 'is_known_scanner': False, 'is_mining_pool': False, 'is_open_proxy': False, 'is_sinkhole': False, 'is_tor_node': False, 'is_vpn_node': False, 'last_update",0,amzn-noc-contact@amazon.com
+VulnWeb-Passive-OSINT,2026-02-24 07:33:57,AFFILIATE_EMAILADDR,sfp_email,"{'address': '1918 8th Ave', 'as_name': 'AS16509 Amazon Data Services Nova', 'as_number': '16509', 'asn_cidr': '205.251.192.0/24', 'asn_country_code': 'US', 'asn_date': '2010-08-27 00:00:00', 'asn_registry': 'arin', 'blacklist': [{'count': 1, 'description': 'Mail Spammer', 'first_seen': '2023-06-20 18:02:33', 'last_seen': '2023-06-20 18:02:33', 'source': 'Abuseat.org'}], 'cidr': ['205.251.192.0/18'], 'city': 'Ashburn', 'classification': 'whitelist', 'country_code': 'US', 'creation_time': '2023-06-20 18:02:33', 'email': ['trustandsafety@support.aws.com', 'aws-rpki-routing-poc@amazon.com', 'amzn-noc-contact@amazon.com', 'aws-routing-poc@amazon.com', 'ipmanagement@amazon.com'], 'ip_addr': '205.251.192.27', 'ip_version': 4, 'is_cdn': False, 'is_cnc': False, 'is_distributing_malware': False, 'is_hosting': True, 'is_iot_threat': False, 'is_known_attacker': False, 'is_known_scanner': False, 'is_mining_pool': False, 'is_open_proxy': False, 'is_sinkhole': False, 'is_tor_node': False, 'is_vpn_node': False, 'last_updated",0,amzn-noc-contact@amazon.com
+VulnWeb-Passive-OSINT,2026-02-24 07:33:41,AFFILIATE_EMAILADDR,sfp_email,"{'address': '410 Terry Ave N.', 'as_name': 'AS14618 Amazon Data Services Nova', 'as_number': '14618', 'asn_cidr': '3.208.0.0/12', 'asn_country_code': 'US', 'asn_date': '2018-06-25 00:00:00', 'asn_registry': 'arin', 'blacklist': [{'count': 1, 'description': 'Mail Spammer', 'first_seen': '2024-03-12 03:33:04', 'last_seen': '2024-03-12 03:33:04', 'source': 'Abuseat.org'}], 'cidr': ['3.128.0.0/9'], 'city': 'Ashburn', 'classification': 'suspicious', 'country_code': 'US', 'creation_time': '2024-03-12 03:33:02', 'email': ['abuse@amazonaws.com', 'aws-rpki-routing-poc@amazon.com', 'amzn-noc-contact@amazon.com', 'aws-routing-poc@amazon.com'], 'ip_addr': '3.222.250.144', 'ip_version': 4, 'is_cdn': False, 'is_cnc': False, 'is_distributing_malware': False, 'is_hosting': False, 'is_iot_threat': False, 'is_known_attacker': False, 'is_known_scanner': False, 'is_mining_pool': False, 'is_open_proxy': False, 'is_sinkhole': False, 'is_tor_node': False, 'is_vpn_node': False, 'last_updated': '2018-09-13 00:00:00', 'location': {'la",0,amzn-noc-contact@amazon.com
+VulnWeb-Passive-OSINT,2026-02-24 07:32:47,AFFILIATE_EMAILADDR,sfp_email,"{'address': 'Amazon Web Services, Inc. P.O. Box 81226', 'as_name': 'AS16509 Amazon.com, Inc.', 'as_number': '16509', 'asn_cidr': '44.224.0.0/11', 'asn_country_code': 'US', 'asn_date': '2019-07-18 00:00:00', 'asn_registry': 'arin', 'blacklist': [{'count': 1, 'description': 'Mail Spammer', 'first_seen': '2023-06-20 15:13:56', 'last_seen': '2023-06-20 15:13:56', 'source': 'Abuseat.org'}], 'cidr': ['44.192.0.0/10'], 'city': 'Boardman', 'classification': 'whitelist', 'country_code': 'US', 'creation_time': '2023-06-20 15:13:56', 'email': ['aws-routing-poc@amazon.com', 'aws-rpki-routing-poc@amazon.com', 'trustandsafety@support.aws.com', 'amzn-noc-contact@amazon.com'], 'ip_addr': '44.228.249.3', 'ip_version': 4, 'is_cdn': False, 'is_cnc': False, 'is_distributing_malware': False, 'is_hosting': True, 'is_iot_threat': False, 'is_known_attacker': False, 'is_known_scanner': False, 'is_mining_pool': False, 'is_open_proxy': False, 'is_sinkhole': False, 'is_tor_node': False, 'is_vpn_node': False, 'last_updated': '2019-07-18 ",0,amzn-noc-contact@amazon.com
+VulnWeb-Passive-OSINT,2026-02-24 07:32:59,AFFILIATE_EMAILADDR,sfp_email,"{'address': '1600 Amphitheatre Parkway', 'as_name': 'AS15169 Google LLC', 'as_number': '15169', 'asn_cidr': '172.253.116.0/24', 'asn_country_code': 'US', 'asn_date': '2013-04-04 00:00:00', 'asn_registry': 'arin', 'blacklist': [{'count': 1, 'description': 'Generic.Malware', 'first_seen': '2019-10-15 15:30:12', 'last_seen': '2019-10-15 15:30:12', 'source': 'Hybrid-Analysis'}, {'count': 1, 'description': 'Anonymizer', 'first_seen': '2021-01-01 15:42:55', 'last_seen': '2021-03-06 17:48:07', 'source': 'Maltiverse'}, {'count': 1, 'description': 'Anonymizer', 'first_seen': '2021-01-02 16:49:38', 'labels': ['anonymizer'], 'last_seen': '2021-05-19 12:24:30', 'source': 'Maltiverse Research Team'}, {'count': 56, 'description': 'Proxy', 'first_seen': '2023-01-02 07:49:08', 'labels': ['anonymization'], 'last_seen': '2025-10-06 20:10:06', 'ref': [1, 21745], 'source': 'FireHOL'}, {'count': 4, 'description': 'Proxy', 'first_seen': '2025-05-02 23:31:31', 'labels': ['anonymization'], 'last_seen': '2025-10-08 17:18:17', 'source",0,arin-contact@google.com
+VulnWeb-Passive-OSINT,2026-02-24 07:26:12,PROVIDER_MAIL,sfp_dnsraw,vulnweb.com,0,aspmx.l.google.com
+VulnWeb-Passive-OSINT,2026-02-24 07:26:13,AFFILIATE_INTERNET_NAME,sfp_dnsraw,vulnweb.com,0,aspmx.l.google.com
+VulnWeb-Passive-OSINT,2026-02-24 07:26:18,DNS_TEXT,sfp_dnsraw,amazonaws.com,0,atlassian-domain-verification=ZT4AapXgobCpXIWoNcd7gtMjZyOUdr4EDFMnFUWrqqqgdaQVbDvoGpRaIwj/tgPH
+VulnWeb-Passive-OSINT,2026-02-24 07:34:04,AFFILIATE_EMAILADDR,sfp_email,"{'address': '1918 8th Ave', 'as_name': 'AS16509 Amazon Data Services Nova', 'as_number': '16509', 'asn_cidr': '205.251.198.0/24', 'asn_country_code': 'US', 'asn_date': '2010-08-27 00:00:00', 'asn_registry': 'arin', 'blacklist': [{'count': 1, 'description': 'Mail Spammer', 'first_seen': '2023-06-20 18:03:11', 'last_seen': '2023-06-20 18:03:11', 'source': 'Abuseat.org'}], 'cidr': ['205.251.192.0/18'], 'city': 'Ashburn', 'classification': 'whitelist', 'country_code': 'US', 'creation_time': '2023-06-20 18:03:11', 'email': ['amzn-noc-contact@amazon.com', 'aws-rpki-routing-poc@amazon.com', 'aws-routing-poc@amazon.com', 'trustandsafety@support.aws.com', 'ipmanagement@amazon.com'], 'ip_addr': '205.251.198.134', 'ip_version': 4, 'is_cdn': False, 'is_cnc': False, 'is_distributing_malware': False, 'is_hosting': True, 'is_iot_threat': False, 'is_known_attacker': False, 'is_known_scanner': False, 'is_mining_pool': False, 'is_open_proxy': False, 'is_sinkhole': False, 'is_tor_node': False, 'is_vpn_node': False, 'last_update",0,aws-routing-poc@amazon.com
+VulnWeb-Passive-OSINT,2026-02-24 07:33:42,AFFILIATE_EMAILADDR,sfp_email,"{'address': '1918 8th Ave', 'as_name': 'AS16509 Amazon Data Services Nova', 'as_number': '16509', 'asn_cidr': '205.251.197.0/24', 'asn_country_code': 'US', 'asn_date': '2010-08-27 00:00:00', 'asn_registry': 'arin', 'blacklist': [{'count': 1, 'description': 'Mail Spammer', 'first_seen': '2023-06-20 18:03:16', 'last_seen': '2023-06-20 18:03:16', 'source': 'Abuseat.org'}], 'cidr': ['205.251.192.0/18'], 'city': 'Seattle', 'classification': 'whitelist', 'country_code': 'US', 'creation_time': '2023-06-20 18:03:15', 'email': ['amzn-noc-contact@amazon.com', 'trustandsafety@support.aws.com', 'aws-routing-poc@amazon.com', 'aws-rpki-routing-poc@amazon.com', 'ipmanagement@amazon.com'], 'ip_addr': '205.251.197.41', 'ip_version': 4, 'is_cdn': False, 'is_cnc': False, 'is_distributing_malware': False, 'is_hosting': True, 'is_iot_threat': False, 'is_known_attacker': False, 'is_known_scanner': False, 'is_mining_pool': False, 'is_open_proxy': False, 'is_sinkhole': False, 'is_tor_node': False, 'is_vpn_node': False, 'last_updated",0,aws-routing-poc@amazon.com
+VulnWeb-Passive-OSINT,2026-02-24 07:33:39,AFFILIATE_EMAILADDR,sfp_email,"{'address': '1918 8th Ave', 'as_name': 'AS16509 Amazon Data Services Nova', 'as_number': '16509', 'asn_cidr': '205.251.195.0/24', 'asn_country_code': 'US', 'asn_date': '2010-08-27 00:00:00', 'asn_registry': 'arin', 'blacklist': [{'count': 1, 'description': 'Mail Spammer', 'first_seen': '2023-06-20 18:03:04', 'last_seen': '2023-06-20 18:03:04', 'source': 'Abuseat.org'}], 'cidr': ['205.251.192.0/18'], 'city': 'Ashburn', 'classification': 'whitelist', 'country_code': 'US', 'creation_time': '2023-06-20 18:03:04', 'email': ['aws-routing-poc@amazon.com', 'amzn-noc-contact@amazon.com', 'trustandsafety@support.aws.com', 'aws-rpki-routing-poc@amazon.com', 'ipmanagement@amazon.com'], 'ip_addr': '205.251.195.199', 'ip_version': 4, 'is_cdn': False, 'is_cnc': False, 'is_distributing_malware': False, 'is_hosting': True, 'is_iot_threat': False, 'is_known_attacker': False, 'is_known_scanner': False, 'is_mining_pool': False, 'is_open_proxy': False, 'is_sinkhole': False, 'is_tor_node': False, 'is_vpn_node': False, 'last_update",0,aws-routing-poc@amazon.com
+VulnWeb-Passive-OSINT,2026-02-24 07:33:57,AFFILIATE_EMAILADDR,sfp_email,"{'address': '1918 8th Ave', 'as_name': 'AS16509 Amazon Data Services Nova', 'as_number': '16509', 'asn_cidr': '205.251.192.0/24', 'asn_country_code': 'US', 'asn_date': '2010-08-27 00:00:00', 'asn_registry': 'arin', 'blacklist': [{'count': 1, 'description': 'Mail Spammer', 'first_seen': '2023-06-20 18:02:33', 'last_seen': '2023-06-20 18:02:33', 'source': 'Abuseat.org'}], 'cidr': ['205.251.192.0/18'], 'city': 'Ashburn', 'classification': 'whitelist', 'country_code': 'US', 'creation_time': '2023-06-20 18:02:33', 'email': ['trustandsafety@support.aws.com', 'aws-rpki-routing-poc@amazon.com', 'amzn-noc-contact@amazon.com', 'aws-routing-poc@amazon.com', 'ipmanagement@amazon.com'], 'ip_addr': '205.251.192.27', 'ip_version': 4, 'is_cdn': False, 'is_cnc': False, 'is_distributing_malware': False, 'is_hosting': True, 'is_iot_threat': False, 'is_known_attacker': False, 'is_known_scanner': False, 'is_mining_pool': False, 'is_open_proxy': False, 'is_sinkhole': False, 'is_tor_node': False, 'is_vpn_node': False, 'last_updated",0,aws-routing-poc@amazon.com
+VulnWeb-Passive-OSINT,2026-02-24 07:33:41,AFFILIATE_EMAILADDR,sfp_email,"{'address': '410 Terry Ave N.', 'as_name': 'AS14618 Amazon Data Services Nova', 'as_number': '14618', 'asn_cidr': '3.208.0.0/12', 'asn_country_code': 'US', 'asn_date': '2018-06-25 00:00:00', 'asn_registry': 'arin', 'blacklist': [{'count': 1, 'description': 'Mail Spammer', 'first_seen': '2024-03-12 03:33:04', 'last_seen': '2024-03-12 03:33:04', 'source': 'Abuseat.org'}], 'cidr': ['3.128.0.0/9'], 'city': 'Ashburn', 'classification': 'suspicious', 'country_code': 'US', 'creation_time': '2024-03-12 03:33:02', 'email': ['abuse@amazonaws.com', 'aws-rpki-routing-poc@amazon.com', 'amzn-noc-contact@amazon.com', 'aws-routing-poc@amazon.com'], 'ip_addr': '3.222.250.144', 'ip_version': 4, 'is_cdn': False, 'is_cnc': False, 'is_distributing_malware': False, 'is_hosting': False, 'is_iot_threat': False, 'is_known_attacker': False, 'is_known_scanner': False, 'is_mining_pool': False, 'is_open_proxy': False, 'is_sinkhole': False, 'is_tor_node': False, 'is_vpn_node': False, 'last_updated': '2018-09-13 00:00:00', 'location': {'la",0,aws-routing-poc@amazon.com
+VulnWeb-Passive-OSINT,2026-02-24 07:32:47,AFFILIATE_EMAILADDR,sfp_email,"{'address': 'Amazon Web Services, Inc. P.O. Box 81226', 'as_name': 'AS16509 Amazon.com, Inc.', 'as_number': '16509', 'asn_cidr': '44.224.0.0/11', 'asn_country_code': 'US', 'asn_date': '2019-07-18 00:00:00', 'asn_registry': 'arin', 'blacklist': [{'count': 1, 'description': 'Mail Spammer', 'first_seen': '2023-06-20 15:13:56', 'last_seen': '2023-06-20 15:13:56', 'source': 'Abuseat.org'}], 'cidr': ['44.192.0.0/10'], 'city': 'Boardman', 'classification': 'whitelist', 'country_code': 'US', 'creation_time': '2023-06-20 15:13:56', 'email': ['aws-routing-poc@amazon.com', 'aws-rpki-routing-poc@amazon.com', 'trustandsafety@support.aws.com', 'amzn-noc-contact@amazon.com'], 'ip_addr': '44.228.249.3', 'ip_version': 4, 'is_cdn': False, 'is_cnc': False, 'is_distributing_malware': False, 'is_hosting': True, 'is_iot_threat': False, 'is_known_attacker': False, 'is_known_scanner': False, 'is_mining_pool': False, 'is_open_proxy': False, 'is_sinkhole': False, 'is_tor_node': False, 'is_vpn_node': False, 'last_updated': '2019-07-18 ",0,aws-routing-poc@amazon.com
+VulnWeb-Passive-OSINT,2026-02-24 07:34:04,AFFILIATE_EMAILADDR,sfp_email,"{'address': '1918 8th Ave', 'as_name': 'AS16509 Amazon Data Services Nova', 'as_number': '16509', 'asn_cidr': '205.251.198.0/24', 'asn_country_code': 'US', 'asn_date': '2010-08-27 00:00:00', 'asn_registry': 'arin', 'blacklist': [{'count': 1, 'description': 'Mail Spammer', 'first_seen': '2023-06-20 18:03:11', 'last_seen': '2023-06-20 18:03:11', 'source': 'Abuseat.org'}], 'cidr': ['205.251.192.0/18'], 'city': 'Ashburn', 'classification': 'whitelist', 'country_code': 'US', 'creation_time': '2023-06-20 18:03:11', 'email': ['amzn-noc-contact@amazon.com', 'aws-rpki-routing-poc@amazon.com', 'aws-routing-poc@amazon.com', 'trustandsafety@support.aws.com', 'ipmanagement@amazon.com'], 'ip_addr': '205.251.198.134', 'ip_version': 4, 'is_cdn': False, 'is_cnc': False, 'is_distributing_malware': False, 'is_hosting': True, 'is_iot_threat': False, 'is_known_attacker': False, 'is_known_scanner': False, 'is_mining_pool': False, 'is_open_proxy': False, 'is_sinkhole': False, 'is_tor_node': False, 'is_vpn_node': False, 'last_update",0,aws-rpki-routing-poc@amazon.com
+VulnWeb-Passive-OSINT,2026-02-24 07:33:42,AFFILIATE_EMAILADDR,sfp_email,"{'address': '1918 8th Ave', 'as_name': 'AS16509 Amazon Data Services Nova', 'as_number': '16509', 'asn_cidr': '205.251.197.0/24', 'asn_country_code': 'US', 'asn_date': '2010-08-27 00:00:00', 'asn_registry': 'arin', 'blacklist': [{'count': 1, 'description': 'Mail Spammer', 'first_seen': '2023-06-20 18:03:16', 'last_seen': '2023-06-20 18:03:16', 'source': 'Abuseat.org'}], 'cidr': ['205.251.192.0/18'], 'city': 'Seattle', 'classification': 'whitelist', 'country_code': 'US', 'creation_time': '2023-06-20 18:03:15', 'email': ['amzn-noc-contact@amazon.com', 'trustandsafety@support.aws.com', 'aws-routing-poc@amazon.com', 'aws-rpki-routing-poc@amazon.com', 'ipmanagement@amazon.com'], 'ip_addr': '205.251.197.41', 'ip_version': 4, 'is_cdn': False, 'is_cnc': False, 'is_distributing_malware': False, 'is_hosting': True, 'is_iot_threat': False, 'is_known_attacker': False, 'is_known_scanner': False, 'is_mining_pool': False, 'is_open_proxy': False, 'is_sinkhole': False, 'is_tor_node': False, 'is_vpn_node': False, 'last_updated",0,aws-rpki-routing-poc@amazon.com
+VulnWeb-Passive-OSINT,2026-02-24 07:33:39,AFFILIATE_EMAILADDR,sfp_email,"{'address': '1918 8th Ave', 'as_name': 'AS16509 Amazon Data Services Nova', 'as_number': '16509', 'asn_cidr': '205.251.195.0/24', 'asn_country_code': 'US', 'asn_date': '2010-08-27 00:00:00', 'asn_registry': 'arin', 'blacklist': [{'count': 1, 'description': 'Mail Spammer', 'first_seen': '2023-06-20 18:03:04', 'last_seen': '2023-06-20 18:03:04', 'source': 'Abuseat.org'}], 'cidr': ['205.251.192.0/18'], 'city': 'Ashburn', 'classification': 'whitelist', 'country_code': 'US', 'creation_time': '2023-06-20 18:03:04', 'email': ['aws-routing-poc@amazon.com', 'amzn-noc-contact@amazon.com', 'trustandsafety@support.aws.com', 'aws-rpki-routing-poc@amazon.com', 'ipmanagement@amazon.com'], 'ip_addr': '205.251.195.199', 'ip_version': 4, 'is_cdn': False, 'is_cnc': False, 'is_distributing_malware': False, 'is_hosting': True, 'is_iot_threat': False, 'is_known_attacker': False, 'is_known_scanner': False, 'is_mining_pool': False, 'is_open_proxy': False, 'is_sinkhole': False, 'is_tor_node': False, 'is_vpn_node': False, 'last_update",0,aws-rpki-routing-poc@amazon.com
+VulnWeb-Passive-OSINT,2026-02-24 07:33:57,AFFILIATE_EMAILADDR,sfp_email,"{'address': '1918 8th Ave', 'as_name': 'AS16509 Amazon Data Services Nova', 'as_number': '16509', 'asn_cidr': '205.251.192.0/24', 'asn_country_code': 'US', 'asn_date': '2010-08-27 00:00:00', 'asn_registry': 'arin', 'blacklist': [{'count': 1, 'description': 'Mail Spammer', 'first_seen': '2023-06-20 18:02:33', 'last_seen': '2023-06-20 18:02:33', 'source': 'Abuseat.org'}], 'cidr': ['205.251.192.0/18'], 'city': 'Ashburn', 'classification': 'whitelist', 'country_code': 'US', 'creation_time': '2023-06-20 18:02:33', 'email': ['trustandsafety@support.aws.com', 'aws-rpki-routing-poc@amazon.com', 'amzn-noc-contact@amazon.com', 'aws-routing-poc@amazon.com', 'ipmanagement@amazon.com'], 'ip_addr': '205.251.192.27', 'ip_version': 4, 'is_cdn': False, 'is_cnc': False, 'is_distributing_malware': False, 'is_hosting': True, 'is_iot_threat': False, 'is_known_attacker': False, 'is_known_scanner': False, 'is_mining_pool': False, 'is_open_proxy': False, 'is_sinkhole': False, 'is_tor_node': False, 'is_vpn_node': False, 'last_updated",0,aws-rpki-routing-poc@amazon.com
+VulnWeb-Passive-OSINT,2026-02-24 07:33:41,AFFILIATE_EMAILADDR,sfp_email,"{'address': '410 Terry Ave N.', 'as_name': 'AS14618 Amazon Data Services Nova', 'as_number': '14618', 'asn_cidr': '3.208.0.0/12', 'asn_country_code': 'US', 'asn_date': '2018-06-25 00:00:00', 'asn_registry': 'arin', 'blacklist': [{'count': 1, 'description': 'Mail Spammer', 'first_seen': '2024-03-12 03:33:04', 'last_seen': '2024-03-12 03:33:04', 'source': 'Abuseat.org'}], 'cidr': ['3.128.0.0/9'], 'city': 'Ashburn', 'classification': 'suspicious', 'country_code': 'US', 'creation_time': '2024-03-12 03:33:02', 'email': ['abuse@amazonaws.com', 'aws-rpki-routing-poc@amazon.com', 'amzn-noc-contact@amazon.com', 'aws-routing-poc@amazon.com'], 'ip_addr': '3.222.250.144', 'ip_version': 4, 'is_cdn': False, 'is_cnc': False, 'is_distributing_malware': False, 'is_hosting': False, 'is_iot_threat': False, 'is_known_attacker': False, 'is_known_scanner': False, 'is_mining_pool': False, 'is_open_proxy': False, 'is_sinkhole': False, 'is_tor_node': False, 'is_vpn_node': False, 'last_updated': '2018-09-13 00:00:00', 'location': {'la",0,aws-rpki-routing-poc@amazon.com
+VulnWeb-Passive-OSINT,2026-02-24 07:32:47,AFFILIATE_EMAILADDR,sfp_email,"{'address': 'Amazon Web Services, Inc. P.O. Box 81226', 'as_name': 'AS16509 Amazon.com, Inc.', 'as_number': '16509', 'asn_cidr': '44.224.0.0/11', 'asn_country_code': 'US', 'asn_date': '2019-07-18 00:00:00', 'asn_registry': 'arin', 'blacklist': [{'count': 1, 'description': 'Mail Spammer', 'first_seen': '2023-06-20 15:13:56', 'last_seen': '2023-06-20 15:13:56', 'source': 'Abuseat.org'}], 'cidr': ['44.192.0.0/10'], 'city': 'Boardman', 'classification': 'whitelist', 'country_code': 'US', 'creation_time': '2023-06-20 15:13:56', 'email': ['aws-routing-poc@amazon.com', 'aws-rpki-routing-poc@amazon.com', 'trustandsafety@support.aws.com', 'amzn-noc-contact@amazon.com'], 'ip_addr': '44.228.249.3', 'ip_version': 4, 'is_cdn': False, 'is_cnc': False, 'is_distributing_malware': False, 'is_hosting': True, 'is_iot_threat': False, 'is_known_attacker': False, 'is_known_scanner': False, 'is_mining_pool': False, 'is_open_proxy': False, 'is_sinkhole': False, 'is_tor_node': False, 'is_vpn_node': False, 'last_updated': '2019-07-18 ",0,aws-rpki-routing-poc@amazon.com
+VulnWeb-Passive-OSINT,2026-02-24 07:29:39,AFFILIATE_DOMAIN_NAME,sfp_dnsresolve,ns-27.awsdns-03.com,0,awsdns-03.com
+VulnWeb-Passive-OSINT,2026-02-24 07:29:40,AFFILIATE_DOMAIN_NAME,sfp_dnsresolve,ns-27.awsdns-03.com,0,awsdns-03.com
+VulnWeb-Passive-OSINT,2026-02-24 07:30:13,AFFILIATE_DOMAIN_NAME,sfp_dnsresolve,ns-1670.awsdns-16.co.uk,0,awsdns-16.co.uk
+VulnWeb-Passive-OSINT,2026-02-24 07:30:13,AFFILIATE_DOMAIN_NAME,sfp_dnsresolve,ns-1670.awsdns-16.co.uk,0,awsdns-16.co.uk
+VulnWeb-Passive-OSINT,2026-02-24 07:28:16,AFFILIATE_DOMAIN_NAME,sfp_dnsresolve,ns-1321.awsdns-37.org,0,awsdns-37.org
+VulnWeb-Passive-OSINT,2026-02-24 07:28:17,AFFILIATE_DOMAIN_NAME,sfp_dnsresolve,ns-1321.awsdns-37.org,0,awsdns-37.org
+VulnWeb-Passive-OSINT,2026-02-24 07:27:11,AFFILIATE_DOMAIN_NAME,sfp_dnsresolve,ns-967.awsdns-56.net,0,awsdns-56.net
+VulnWeb-Passive-OSINT,2026-02-24 07:27:12,AFFILIATE_DOMAIN_NAME,sfp_dnsresolve,ns-967.awsdns-56.net,0,awsdns-56.net
+VulnWeb-Passive-OSINT,2026-02-24 07:33:08,MALICIOUS_SUBNET,sfp_blocklistde,44.224.0.0/11,0,"blocklist.de [44.224.0.0/11]
+https://lists.blocklist.de/lists/all.txt"
+VulnWeb-Passive-OSINT,2026-02-24 07:33:08,BLACKLISTED_SUBNET,sfp_blocklistde,44.224.0.0/11,0,"blocklist.de [44.224.0.0/11]
+https://lists.blocklist.de/lists/all.txt"
+VulnWeb-Passive-OSINT,2026-02-24 07:32:20,AFFILIATE_INTERNET_NAME,sfp_dnsresolve,2a00:1450:400b:c02::1a,0,dj-in-f26.1e100.net
+VulnWeb-Passive-OSINT,2026-02-24 07:32:24,AFFILIATE_INTERNET_NAME,sfp_dnsresolve,172.253.116.27,0,dj-in-f27.1e100.net
+VulnWeb-Passive-OSINT,2026-02-24 07:32:51,AFFILIATE_EMAILADDR,sfp_email,"   Domain Name: VULNWEB.COM
+   Registry Domain ID: 1602006391_DOMAIN_COM-VRSN
+   Registrar WHOIS Server: whois.gandi.net
+   Registrar URL: http://www.gandi.net
+   Updated Date: 2025-11-17T09:34:20Z
+   Creation Date: 2010-06-14T07:50:29Z
+   Registry Expiry Date: 2027-06-14T07:50:29Z
+   Registrar: Gandi SAS
+   Registrar IANA ID: 81
+   Registrar Abuse Contact Email: abuse@support.gandi.net
+   Registrar Abuse Contact Phone: +33.170377661
+   Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+   Name Server: NS-105-A.GANDI.NET
+   Name Server: NS-11-B.GANDI.NET
+   Name Server: NS-140-C.GANDI.NET
+   DNSSEC: unsigned
+   URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of whois database: 2026-02-24T12:26:49Z <<<
+
+For more information on Whois status codes, please visit https://icann.org/epp
+
+NOTICE: The expiration date displayed in this record is the date the
+registrar's sponsorship of the domain name registration in ",0,e7c92ba29faca2e997bfc9ce58d5c661-57148476@contact.gandi.net
+VulnWeb-Passive-OSINT,2026-02-24 07:26:14,INTERNET_NAME,sfp_dnsresolve,44.228.249.3,0,ec2-44-228-249-3.us-west-2.compute.amazonaws.com
+VulnWeb-Passive-OSINT,2026-02-24 07:26:57,CO_HOSTED_SITE,sfp_robtex,44.228.249.3,0,ec2-44-228-249-3.us-west-2.compute.amazonaws.com
+VulnWeb-Passive-OSINT,2026-02-24 07:34:17,AFFILIATE_INTERNET_NAME,sfp_dnsresolve,98.82.161.185,0,ec2-98-82-161-185.compute-1.amazonaws.com
+VulnWeb-Passive-OSINT,2026-02-24 07:34:18,AFFILIATE_INTERNET_NAME,sfp_dnsresolve,98.87.170.71,0,ec2-98-87-170-71.compute-1.amazonaws.com
+VulnWeb-Passive-OSINT,2026-02-24 07:34:20,AFFILIATE_INTERNET_NAME,sfp_dnsresolve,98.87.170.74,0,ec2-98-87-170-74.compute-1.amazonaws.com
+VulnWeb-Passive-OSINT,2026-02-24 07:26:32,AFFILIATE_DOMAIN_NAME,sfp_dnsresolve,ns-105-a.gandi.net,0,gandi.net
+VulnWeb-Passive-OSINT,2026-02-24 07:26:24,AFFILIATE_DOMAIN_NAME,sfp_dnsresolve,ns-11-b.gandi.net,0,gandi.net
+VulnWeb-Passive-OSINT,2026-02-24 07:26:30,AFFILIATE_DOMAIN_NAME,sfp_dnsresolve,ns-11-b.gandi.net,0,gandi.net
+VulnWeb-Passive-OSINT,2026-02-24 07:26:31,AFFILIATE_DOMAIN_NAME,sfp_dnsresolve,ns-140-c.gandi.net,0,gandi.net
+VulnWeb-Passive-OSINT,2026-02-24 07:26:11,DNS_TEXT,sfp_dnsraw,testphp.vulnweb.com,0,google-site-verification:toEctYsulNIxgraKk7H3z58PCyz2IOCc36pIupEPmYQ
+VulnWeb-Passive-OSINT,2026-02-24 07:26:13,DNS_TEXT,sfp_dnsraw,vulnweb.com,0,google-site-verification=4LQORV-lTi-d4GPxtBEQWmFnwff7UAazQc9gZvHukbw
+VulnWeb-Passive-OSINT,2026-02-24 07:26:18,DNS_TEXT,sfp_dnsraw,amazonaws.com,0,google-site-verification=EEVHeL7fVZb5ix5bR0draHWtJ5MfS0538OwXAfY8HCY
+VulnWeb-Passive-OSINT,2026-02-24 07:26:30,AFFILIATE_DOMAIN_NAME,sfp_dnsresolve,alt4.aspmx.l.google.com,0,google.com
+VulnWeb-Passive-OSINT,2026-02-24 07:26:31,AFFILIATE_DOMAIN_NAME,sfp_dnsresolve,aspmx.l.google.com,0,google.com
+VulnWeb-Passive-OSINT,2026-02-24 07:26:30,AFFILIATE_DOMAIN_NAME,sfp_dnsresolve,alt1.aspmx.l.google.com,0,google.com
+VulnWeb-Passive-OSINT,2026-02-24 07:26:24,AFFILIATE_DOMAIN_NAME,sfp_dnsresolve,alt3.aspmx.l.google.com,0,google.com
+VulnWeb-Passive-OSINT,2026-02-24 07:26:24,AFFILIATE_DOMAIN_NAME,sfp_dnsresolve,alt3.aspmx.l.google.com,0,google.com
+VulnWeb-Passive-OSINT,2026-02-24 07:26:31,AFFILIATE_DOMAIN_NAME,sfp_dnsresolve,alt2.aspmx.l.google.com,0,google.com
+VulnWeb-Passive-OSINT,2026-02-24 07:31:54,MALICIOUS_SUBNET,sfp_greensnow,44.224.0.0/11,0,"greensnow.co [44.224.0.0/11]
+https://greensnow.co/view/44.234.59.103"
+VulnWeb-Passive-OSINT,2026-02-24 07:31:54,BLACKLISTED_SUBNET,sfp_greensnow,44.224.0.0/11,0,"greensnow.co [44.224.0.0/11]
+https://greensnow.co/view/44.234.59.103"
+VulnWeb-Passive-OSINT,2026-02-24 07:33:48,AFFILIATE_EMAILADDR,sfp_email,"   Domain Name: AWSDNS-56.NET
+   Registry Domain ID: 1621573084_DOMAIN_NET-VRSN
+   Registrar WHOIS Server: whois.markmonitor.com
+   Registrar URL: http://www.markmonitor.com
+   Updated Date: 2025-07-31T17:48:26Z
+   Creation Date: 2010-10-21T21:02:57Z
+   Registry Expiry Date: 2026-10-21T21:02:57Z
+   Registrar: MarkMonitor Inc.
+   Registrar IANA ID: 292
+   Registrar Abuse Contact Email: abusecomplaints@markmonitor.com
+   Registrar Abuse Contact Phone: +1.2086851750
+   Domain Status: clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited
+   Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+   Domain Status: clientUpdateProhibited https://icann.org/epp#clientUpdateProhibited
+   Domain Status: serverDeleteProhibited https://icann.org/epp#serverDeleteProhibited
+   Domain Status: serverTransferProhibited https://icann.org/epp#serverTransferProhibited
+   Domain Status: serverUpdateProhibited https://icann.org/epp#serverUpdateProhibited
+   Name Server:",0,hostmaster@amazon.com
+VulnWeb-Passive-OSINT,2026-02-24 07:33:54,AFFILIATE_EMAILADDR,sfp_email,"   Domain Name: AMAZON.COM
+   Registry Domain ID: 281209_DOMAIN_COM-VRSN
+   Registrar WHOIS Server: whois.markmonitor.com
+   Registrar URL: http://www.markmonitor.com
+   Updated Date: 2025-07-31T17:49:55Z
+   Creation Date: 1994-11-01T05:00:00Z
+   Registry Expiry Date: 2026-10-31T04:00:00Z
+   Registrar: MarkMonitor Inc.
+   Registrar IANA ID: 292
+   Registrar Abuse Contact Email: abusecomplaints@markmonitor.com
+   Registrar Abuse Contact Phone: +1.2086851750
+   Domain Status: clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited
+   Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+   Domain Status: clientUpdateProhibited https://icann.org/epp#clientUpdateProhibited
+   Domain Status: serverDeleteProhibited https://icann.org/epp#serverDeleteProhibited
+   Domain Status: serverTransferProhibited https://icann.org/epp#serverTransferProhibited
+   Domain Status: serverUpdateProhibited https://icann.org/epp#serverUpdateProhibited
+   Name Server: NS1.AM",0,hostmaster@amazon.com
+VulnWeb-Passive-OSINT,2026-02-24 07:33:03,AFFILIATE_EMAILADDR,sfp_email,"   Domain Name: AMAZONAWS.COM
+   Registry Domain ID: 197784869_DOMAIN_COM-VRSN
+   Registrar WHOIS Server: whois.markmonitor.com
+   Registrar URL: http://www.markmonitor.com
+   Updated Date: 2024-01-29T18:09:26Z
+   Creation Date: 2005-08-18T02:10:45Z
+   Registry Expiry Date: 2027-01-16T04:59:59Z
+   Registrar: MarkMonitor Inc.
+   Registrar IANA ID: 292
+   Registrar Abuse Contact Email: abusecomplaints@markmonitor.com
+   Registrar Abuse Contact Phone: +1.2086851750
+   Domain Status: clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited
+   Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+   Domain Status: clientUpdateProhibited https://icann.org/epp#clientUpdateProhibited
+   Domain Status: serverDeleteProhibited https://icann.org/epp#serverDeleteProhibited
+   Domain Status: serverTransferProhibited https://icann.org/epp#serverTransferProhibited
+   Domain Status: serverUpdateProhibited https://icann.org/epp#serverUpdateProhibited
+   Name Server: ",0,hostmaster@amazon.com
+VulnWeb-Passive-OSINT,2026-02-24 07:34:10,AFFILIATE_EMAILADDR,sfp_email,"   Domain Name: AWSDNS-03.COM
+   Registry Domain ID: 1621572989_DOMAIN_COM-VRSN
+   Registrar WHOIS Server: whois.markmonitor.com
+   Registrar URL: http://www.markmonitor.com
+   Updated Date: 2025-07-31T17:31:13Z
+   Creation Date: 2010-10-21T21:02:44Z
+   Registry Expiry Date: 2026-10-21T21:02:44Z
+   Registrar: MarkMonitor Inc.
+   Registrar IANA ID: 292
+   Registrar Abuse Contact Email: abusecomplaints@markmonitor.com
+   Registrar Abuse Contact Phone: +1.2086851750
+   Domain Status: clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited
+   Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+   Domain Status: clientUpdateProhibited https://icann.org/epp#clientUpdateProhibited
+   Domain Status: serverDeleteProhibited https://icann.org/epp#serverDeleteProhibited
+   Domain Status: serverTransferProhibited https://icann.org/epp#serverTransferProhibited
+   Domain Status: serverUpdateProhibited https://icann.org/epp#serverUpdateProhibited
+   Name Server:",0,hostmaster@amazon.com
+VulnWeb-Passive-OSINT,2026-02-24 07:26:19,LINKED_URL_INTERNAL,sfp_urlscan,ec2-44-228-249-3.us-west-2.compute.amazonaws.com,0,http://testphp.vulnweb.com/
+VulnWeb-Passive-OSINT,2026-02-24 07:26:15,LINKED_URL_INTERNAL,sfp_urlscan,testphp.vulnweb.com,0,http://testphp.vulnweb.com/
+VulnWeb-Passive-OSINT,2026-02-24 07:26:36,LINKED_URL_INTERNAL,sfp_urlscan,vulnweb.com,0,http://testphp.vulnweb.com/
+VulnWeb-Passive-OSINT,2026-02-24 07:26:15,LINKED_URL_INTERNAL,sfp_urlscan,testphp.vulnweb.com,0,http://testphp.vulnweb.com/admin
+VulnWeb-Passive-OSINT,2026-02-24 07:26:36,LINKED_URL_INTERNAL,sfp_urlscan,vulnweb.com,0,http://testphp.vulnweb.com/admin
+VulnWeb-Passive-OSINT,2026-02-24 07:26:19,LINKED_URL_INTERNAL,sfp_urlscan,ec2-44-228-249-3.us-west-2.compute.amazonaws.com,0,http://testphp.vulnweb.com/cart.php
+VulnWeb-Passive-OSINT,2026-02-24 07:26:19,LINKED_URL_INTERNAL,sfp_urlscan,ec2-44-228-249-3.us-west-2.compute.amazonaws.com,0,http://testphp.vulnweb.com/index.php
+VulnWeb-Passive-OSINT,2026-02-24 07:26:15,LINKED_URL_INTERNAL,sfp_urlscan,testphp.vulnweb.com,0,http://testphp.vulnweb.com/index.php
+VulnWeb-Passive-OSINT,2026-02-24 07:26:36,LINKED_URL_INTERNAL,sfp_urlscan,vulnweb.com,0,http://testphp.vulnweb.com/index.php
+VulnWeb-Passive-OSINT,2026-02-24 07:26:19,LINKED_URL_INTERNAL,sfp_urlscan,ec2-44-228-249-3.us-west-2.compute.amazonaws.com,0,http://testphp.vulnweb.com/login.php
+VulnWeb-Passive-OSINT,2026-02-24 07:26:15,LINKED_URL_INTERNAL,sfp_urlscan,testphp.vulnweb.com,0,http://testphp.vulnweb.com/login.php
+VulnWeb-Passive-OSINT,2026-02-24 07:26:36,LINKED_URL_INTERNAL,sfp_urlscan,vulnweb.com,0,http://testphp.vulnweb.com/login.php
+VulnWeb-Passive-OSINT,2026-02-24 07:26:15,LINKED_URL_INTERNAL,sfp_urlscan,testphp.vulnweb.com,0,http://testphp.vulnweb.com/login.php?user=admin&password=Password123
+VulnWeb-Passive-OSINT,2026-02-24 07:26:36,LINKED_URL_INTERNAL,sfp_urlscan,vulnweb.com,0,http://testphp.vulnweb.com/login.php?user=admin&password=Password123
+VulnWeb-Passive-OSINT,2026-02-24 07:26:15,LINKED_URL_INTERNAL,sfp_urlscan,testphp.vulnweb.com,0,http://testphp.vulnweb.com/robots.txt
+VulnWeb-Passive-OSINT,2026-02-24 07:26:36,LINKED_URL_INTERNAL,sfp_urlscan,vulnweb.com,0,http://testphp.vulnweb.com/robots.txt
+VulnWeb-Passive-OSINT,2026-02-24 07:26:15,LINKED_URL_INTERNAL,sfp_urlscan,testphp.vulnweb.com,0,http://testphp.vulnweb.com/shell.php?cmd=cat%20/etc/passwd
+VulnWeb-Passive-OSINT,2026-02-24 07:26:36,LINKED_URL_INTERNAL,sfp_urlscan,vulnweb.com,0,http://testphp.vulnweb.com/shell.php?cmd=cat%20/etc/passwd
+VulnWeb-Passive-OSINT,2026-02-24 07:26:19,LINKED_URL_INTERNAL,sfp_urlscan,ec2-44-228-249-3.us-west-2.compute.amazonaws.com,0,http://vulnweb.com/
+VulnWeb-Passive-OSINT,2026-02-24 07:26:36,LINKED_URL_INTERNAL,sfp_urlscan,vulnweb.com,0,http://vulnweb.com/
+VulnWeb-Passive-OSINT,2026-02-24 07:26:15,LINKED_URL_INTERNAL,sfp_urlscan,testphp.vulnweb.com,0,https://testphp.vulnweb.com/
+VulnWeb-Passive-OSINT,2026-02-24 07:26:36,LINKED_URL_INTERNAL,sfp_urlscan,vulnweb.com,0,https://testphp.vulnweb.com/
+VulnWeb-Passive-OSINT,2026-02-24 07:26:15,LINKED_URL_INTERNAL,sfp_urlscan,testphp.vulnweb.com,0,https://testphp.vulnweb.com/login.php
+VulnWeb-Passive-OSINT,2026-02-24 07:26:36,LINKED_URL_INTERNAL,sfp_urlscan,vulnweb.com,0,https://testphp.vulnweb.com/login.php
+VulnWeb-Passive-OSINT,2026-02-24 07:26:36,LINKED_URL_INTERNAL,sfp_urlscan,vulnweb.com,0,https://vulnweb.com/
+VulnWeb-Passive-OSINT,2026-02-24 07:34:04,AFFILIATE_EMAILADDR,sfp_email,"{'address': '1918 8th Ave', 'as_name': 'AS16509 Amazon Data Services Nova', 'as_number': '16509', 'asn_cidr': '205.251.198.0/24', 'asn_country_code': 'US', 'asn_date': '2010-08-27 00:00:00', 'asn_registry': 'arin', 'blacklist': [{'count': 1, 'description': 'Mail Spammer', 'first_seen': '2023-06-20 18:03:11', 'last_seen': '2023-06-20 18:03:11', 'source': 'Abuseat.org'}], 'cidr': ['205.251.192.0/18'], 'city': 'Ashburn', 'classification': 'whitelist', 'country_code': 'US', 'creation_time': '2023-06-20 18:03:11', 'email': ['amzn-noc-contact@amazon.com', 'aws-rpki-routing-poc@amazon.com', 'aws-routing-poc@amazon.com', 'trustandsafety@support.aws.com', 'ipmanagement@amazon.com'], 'ip_addr': '205.251.198.134', 'ip_version': 4, 'is_cdn': False, 'is_cnc': False, 'is_distributing_malware': False, 'is_hosting': True, 'is_iot_threat': False, 'is_known_attacker': False, 'is_known_scanner': False, 'is_mining_pool': False, 'is_open_proxy': False, 'is_sinkhole': False, 'is_tor_node': False, 'is_vpn_node': False, 'last_update",0,ipmanagement@amazon.com
+VulnWeb-Passive-OSINT,2026-02-24 07:33:42,AFFILIATE_EMAILADDR,sfp_email,"{'address': '1918 8th Ave', 'as_name': 'AS16509 Amazon Data Services Nova', 'as_number': '16509', 'asn_cidr': '205.251.197.0/24', 'asn_country_code': 'US', 'asn_date': '2010-08-27 00:00:00', 'asn_registry': 'arin', 'blacklist': [{'count': 1, 'description': 'Mail Spammer', 'first_seen': '2023-06-20 18:03:16', 'last_seen': '2023-06-20 18:03:16', 'source': 'Abuseat.org'}], 'cidr': ['205.251.192.0/18'], 'city': 'Seattle', 'classification': 'whitelist', 'country_code': 'US', 'creation_time': '2023-06-20 18:03:15', 'email': ['amzn-noc-contact@amazon.com', 'trustandsafety@support.aws.com', 'aws-routing-poc@amazon.com', 'aws-rpki-routing-poc@amazon.com', 'ipmanagement@amazon.com'], 'ip_addr': '205.251.197.41', 'ip_version': 4, 'is_cdn': False, 'is_cnc': False, 'is_distributing_malware': False, 'is_hosting': True, 'is_iot_threat': False, 'is_known_attacker': False, 'is_known_scanner': False, 'is_mining_pool': False, 'is_open_proxy': False, 'is_sinkhole': False, 'is_tor_node': False, 'is_vpn_node': False, 'last_updated",0,ipmanagement@amazon.com
+VulnWeb-Passive-OSINT,2026-02-24 07:33:39,AFFILIATE_EMAILADDR,sfp_email,"{'address': '1918 8th Ave', 'as_name': 'AS16509 Amazon Data Services Nova', 'as_number': '16509', 'asn_cidr': '205.251.195.0/24', 'asn_country_code': 'US', 'asn_date': '2010-08-27 00:00:00', 'asn_registry': 'arin', 'blacklist': [{'count': 1, 'description': 'Mail Spammer', 'first_seen': '2023-06-20 18:03:04', 'last_seen': '2023-06-20 18:03:04', 'source': 'Abuseat.org'}], 'cidr': ['205.251.192.0/18'], 'city': 'Ashburn', 'classification': 'whitelist', 'country_code': 'US', 'creation_time': '2023-06-20 18:03:04', 'email': ['aws-routing-poc@amazon.com', 'amzn-noc-contact@amazon.com', 'trustandsafety@support.aws.com', 'aws-rpki-routing-poc@amazon.com', 'ipmanagement@amazon.com'], 'ip_addr': '205.251.195.199', 'ip_version': 4, 'is_cdn': False, 'is_cnc': False, 'is_distributing_malware': False, 'is_hosting': True, 'is_iot_threat': False, 'is_known_attacker': False, 'is_known_scanner': False, 'is_mining_pool': False, 'is_open_proxy': False, 'is_sinkhole': False, 'is_tor_node': False, 'is_vpn_node': False, 'last_update",0,ipmanagement@amazon.com
+VulnWeb-Passive-OSINT,2026-02-24 07:33:57,AFFILIATE_EMAILADDR,sfp_email,"{'address': '1918 8th Ave', 'as_name': 'AS16509 Amazon Data Services Nova', 'as_number': '16509', 'asn_cidr': '205.251.192.0/24', 'asn_country_code': 'US', 'asn_date': '2010-08-27 00:00:00', 'asn_registry': 'arin', 'blacklist': [{'count': 1, 'description': 'Mail Spammer', 'first_seen': '2023-06-20 18:02:33', 'last_seen': '2023-06-20 18:02:33', 'source': 'Abuseat.org'}], 'cidr': ['205.251.192.0/18'], 'city': 'Ashburn', 'classification': 'whitelist', 'country_code': 'US', 'creation_time': '2023-06-20 18:02:33', 'email': ['trustandsafety@support.aws.com', 'aws-rpki-routing-poc@amazon.com', 'amzn-noc-contact@amazon.com', 'aws-routing-poc@amazon.com', 'ipmanagement@amazon.com'], 'ip_addr': '205.251.192.27', 'ip_version': 4, 'is_cdn': False, 'is_cnc': False, 'is_distributing_malware': False, 'is_hosting': True, 'is_iot_threat': False, 'is_known_attacker': False, 'is_known_scanner': False, 'is_mining_pool': False, 'is_open_proxy': False, 'is_sinkhole': False, 'is_tor_node': False, 'is_vpn_node': False, 'last_updated",0,ipmanagement@amazon.com
+VulnWeb-Passive-OSINT,2026-02-24 07:32:50,AFFILIATE_INTERNET_NAME,sfp_dnsresolve,108.177.123.26,0,lcscld-in-f26.1e100.net
+VulnWeb-Passive-OSINT,2026-02-24 07:32:44,AFFILIATE_INTERNET_NAME,sfp_dnsresolve,64.233.178.26,0,lcyulk-in-f26.1e100.net
+VulnWeb-Passive-OSINT,2026-02-24 07:32:33,AFFILIATE_INTERNET_NAME,sfp_dnsresolve,2607:f8b0:4020:c07::1b,0,lcyulk-in-f27.1e100.net
+VulnWeb-Passive-OSINT,2026-02-24 07:32:59,AFFILIATE_EMAILADDR,sfp_email,"{'address': '1600 Amphitheatre Parkway', 'as_name': 'AS15169 Google LLC', 'as_number': '15169', 'asn_cidr': '172.253.116.0/24', 'asn_country_code': 'US', 'asn_date': '2013-04-04 00:00:00', 'asn_registry': 'arin', 'blacklist': [{'count': 1, 'description': 'Generic.Malware', 'first_seen': '2019-10-15 15:30:12', 'last_seen': '2019-10-15 15:30:12', 'source': 'Hybrid-Analysis'}, {'count': 1, 'description': 'Anonymizer', 'first_seen': '2021-01-01 15:42:55', 'last_seen': '2021-03-06 17:48:07', 'source': 'Maltiverse'}, {'count': 1, 'description': 'Anonymizer', 'first_seen': '2021-01-02 16:49:38', 'labels': ['anonymizer'], 'last_seen': '2021-05-19 12:24:30', 'source': 'Maltiverse Research Team'}, {'count': 56, 'description': 'Proxy', 'first_seen': '2023-01-02 07:49:08', 'labels': ['anonymization'], 'last_seen': '2025-10-06 20:10:06', 'ref': [1, 21745], 'source': 'FireHOL'}, {'count': 4, 'description': 'Proxy', 'first_seen': '2025-05-02 23:31:31', 'labels': ['anonymization'], 'last_seen': '2025-10-08 17:18:17', 'source",0,network-abuse@google.com
+VulnWeb-Passive-OSINT,2026-02-24 07:26:19,WEBSERVER_BANNER,sfp_urlscan,ec2-44-228-249-3.us-west-2.compute.amazonaws.com,0,nginx/1.19.0
+VulnWeb-Passive-OSINT,2026-02-24 07:26:15,WEBSERVER_BANNER,sfp_urlscan,testphp.vulnweb.com,0,nginx/1.19.0
+VulnWeb-Passive-OSINT,2026-02-24 07:26:36,WEBSERVER_BANNER,sfp_urlscan,vulnweb.com,0,nginx/1.19.0
+VulnWeb-Passive-OSINT,2026-02-24 07:26:13,PROVIDER_DNS,sfp_dnsraw,vulnweb.com,0,ns-105-a.gandi.net
+VulnWeb-Passive-OSINT,2026-02-24 07:26:13,AFFILIATE_INTERNET_NAME,sfp_dnsraw,vulnweb.com,0,ns-105-a.gandi.net
+VulnWeb-Passive-OSINT,2026-02-24 07:33:02,AFFILIATE_INTERNET_NAME,sfp_dnsresolve,2001:4b98:aaaa::6a,0,ns-105-a.gandi.net
+VulnWeb-Passive-OSINT,2026-02-24 07:33:05,AFFILIATE_INTERNET_NAME,sfp_dnsresolve,173.246.100.106,0,ns-105-a.gandi.net
+VulnWeb-Passive-OSINT,2026-02-24 07:32:25,AFFILIATE_INTERNET_NAME,sfp_dnsresolve,2001:4b98:aaab::c,0,ns-11-b.gandi.net
+VulnWeb-Passive-OSINT,2026-02-24 07:26:13,PROVIDER_DNS,sfp_dnsraw,vulnweb.com,0,ns-11-b.gandi.net
+VulnWeb-Passive-OSINT,2026-02-24 07:26:13,AFFILIATE_INTERNET_NAME,sfp_dnsraw,vulnweb.com,0,ns-11-b.gandi.net
+VulnWeb-Passive-OSINT,2026-02-24 07:32:24,AFFILIATE_INTERNET_NAME,sfp_dnsresolve,213.167.230.12,0,ns-11-b.gandi.net
+VulnWeb-Passive-OSINT,2026-02-24 07:34:17,AFFILIATE_INTERNET_NAME,sfp_dnsresolve,2600:9000:5305:2900::1,0,ns-1321.awsdns-37.org
+VulnWeb-Passive-OSINT,2026-02-24 07:26:18,PROVIDER_DNS,sfp_dnsraw,amazonaws.com,0,ns-1321.awsdns-37.org
+VulnWeb-Passive-OSINT,2026-02-24 07:26:19,AFFILIATE_INTERNET_NAME,sfp_dnsraw,amazonaws.com,0,ns-1321.awsdns-37.org
+VulnWeb-Passive-OSINT,2026-02-24 07:34:17,AFFILIATE_INTERNET_NAME,sfp_dnsresolve,205.251.197.41,0,ns-1321.awsdns-37.org
+VulnWeb-Passive-OSINT,2026-02-24 07:26:13,PROVIDER_DNS,sfp_dnsraw,vulnweb.com,0,ns-140-c.gandi.net
+VulnWeb-Passive-OSINT,2026-02-24 07:26:13,AFFILIATE_INTERNET_NAME,sfp_dnsraw,vulnweb.com,0,ns-140-c.gandi.net
+VulnWeb-Passive-OSINT,2026-02-24 07:32:55,AFFILIATE_INTERNET_NAME,sfp_dnsresolve,217.70.187.141,0,ns-140-c.gandi.net
+VulnWeb-Passive-OSINT,2026-02-24 07:32:51,AFFILIATE_INTERNET_NAME,sfp_dnsresolve,2604:3400:aaac::8d,0,ns-140-c.gandi.net
+VulnWeb-Passive-OSINT,2026-02-24 07:34:22,AFFILIATE_INTERNET_NAME,sfp_dnsresolve,2600:9000:5306:8600::1,0,ns-1670.awsdns-16.co.uk
+VulnWeb-Passive-OSINT,2026-02-24 07:26:18,PROVIDER_DNS,sfp_dnsraw,amazonaws.com,0,ns-1670.awsdns-16.co.uk
+VulnWeb-Passive-OSINT,2026-02-24 07:26:19,AFFILIATE_INTERNET_NAME,sfp_dnsraw,amazonaws.com,0,ns-1670.awsdns-16.co.uk
+VulnWeb-Passive-OSINT,2026-02-24 07:34:22,AFFILIATE_INTERNET_NAME,sfp_dnsresolve,205.251.198.134,0,ns-1670.awsdns-16.co.uk
+VulnWeb-Passive-OSINT,2026-02-24 07:34:20,AFFILIATE_INTERNET_NAME,sfp_dnsresolve,205.251.192.27,0,ns-27.awsdns-03.com
+VulnWeb-Passive-OSINT,2026-02-24 07:26:18,PROVIDER_DNS,sfp_dnsraw,amazonaws.com,0,ns-27.awsdns-03.com
+VulnWeb-Passive-OSINT,2026-02-24 07:26:19,AFFILIATE_INTERNET_NAME,sfp_dnsraw,amazonaws.com,0,ns-27.awsdns-03.com
+VulnWeb-Passive-OSINT,2026-02-24 07:34:21,AFFILIATE_INTERNET_NAME,sfp_dnsresolve,2600:9000:5300:1b00::1,0,ns-27.awsdns-03.com
+VulnWeb-Passive-OSINT,2026-02-24 07:33:58,AFFILIATE_INTERNET_NAME,sfp_dnsresolve,2600:9000:5303:c700::1,0,ns-967.awsdns-56.net
+VulnWeb-Passive-OSINT,2026-02-24 07:33:53,AFFILIATE_INTERNET_NAME,sfp_dnsresolve,205.251.195.199,0,ns-967.awsdns-56.net
+VulnWeb-Passive-OSINT,2026-02-24 07:26:18,PROVIDER_DNS,sfp_dnsraw,amazonaws.com,0,ns-967.awsdns-56.net
+VulnWeb-Passive-OSINT,2026-02-24 07:26:18,AFFILIATE_INTERNET_NAME,sfp_dnsraw,amazonaws.com,0,ns-967.awsdns-56.net
+VulnWeb-Passive-OSINT,2026-02-24 07:26:18,DNS_TEXT,sfp_dnsraw,amazonaws.com,0,pf2vv39dfkf9tszsg5lggfs6tp6bkjn4
+VulnWeb-Passive-OSINT,2026-02-24 07:34:10,AFFILIATE_INTERNET_NAME,sfp_dnsresolve,3.222.250.144,0,smtp03.us-east-1.mail-perimeter.amazon.com
+VulnWeb-Passive-OSINT,2026-02-24 07:26:18,DNS_TEXT,sfp_dnsraw,amazonaws.com,0,spf2.0/pra include:amazon.com ~all
+VulnWeb-Passive-OSINT,2026-02-24 07:26:18,DNS_SPF,sfp_dnsraw,amazonaws.com,0,spf2.0/pra include:amazon.com ~all
+VulnWeb-Passive-OSINT,2026-02-24 07:26:57,CO_HOSTED_SITE,sfp_robtex,44.228.249.3,0,testhtml5.vulnweb.com
+VulnWeb-Passive-OSINT,2026-02-24 07:26:19,INTERNET_NAME,sfp_urlscan,ec2-44-228-249-3.us-west-2.compute.amazonaws.com,0,testphp.vulnweb.com
+VulnWeb-Passive-OSINT,2026-02-24 07:26:10,INTERNET_NAME,SpiderFoot UI,testphp.vulnweb.com,0,testphp.vulnweb.com
+VulnWeb-Passive-OSINT,2026-02-24 07:26:36,INTERNET_NAME,sfp_urlscan,vulnweb.com,0,testphp.vulnweb.com
+VulnWeb-Passive-OSINT,2026-02-24 07:26:11,RAW_DNS_RECORDS,sfp_dnsraw,testphp.vulnweb.com,0,"testphp.vulnweb.com. 10800 IN TXT ""google-site-verification:toEctYsulNIxgraKk7H3z58PCyz2IOCc36pIupEPmYQ"""
+VulnWeb-Passive-OSINT,2026-02-24 07:34:04,AFFILIATE_EMAILADDR,sfp_email,"{'address': '1918 8th Ave', 'as_name': 'AS16509 Amazon Data Services Nova', 'as_number': '16509', 'asn_cidr': '205.251.198.0/24', 'asn_country_code': 'US', 'asn_date': '2010-08-27 00:00:00', 'asn_registry': 'arin', 'blacklist': [{'count': 1, 'description': 'Mail Spammer', 'first_seen': '2023-06-20 18:03:11', 'last_seen': '2023-06-20 18:03:11', 'source': 'Abuseat.org'}], 'cidr': ['205.251.192.0/18'], 'city': 'Ashburn', 'classification': 'whitelist', 'country_code': 'US', 'creation_time': '2023-06-20 18:03:11', 'email': ['amzn-noc-contact@amazon.com', 'aws-rpki-routing-poc@amazon.com', 'aws-routing-poc@amazon.com', 'trustandsafety@support.aws.com', 'ipmanagement@amazon.com'], 'ip_addr': '205.251.198.134', 'ip_version': 4, 'is_cdn': False, 'is_cnc': False, 'is_distributing_malware': False, 'is_hosting': True, 'is_iot_threat': False, 'is_known_attacker': False, 'is_known_scanner': False, 'is_mining_pool': False, 'is_open_proxy': False, 'is_sinkhole': False, 'is_tor_node': False, 'is_vpn_node': False, 'last_update",0,trustandsafety@support.aws.com
+VulnWeb-Passive-OSINT,2026-02-24 07:33:42,AFFILIATE_EMAILADDR,sfp_email,"{'address': '1918 8th Ave', 'as_name': 'AS16509 Amazon Data Services Nova', 'as_number': '16509', 'asn_cidr': '205.251.197.0/24', 'asn_country_code': 'US', 'asn_date': '2010-08-27 00:00:00', 'asn_registry': 'arin', 'blacklist': [{'count': 1, 'description': 'Mail Spammer', 'first_seen': '2023-06-20 18:03:16', 'last_seen': '2023-06-20 18:03:16', 'source': 'Abuseat.org'}], 'cidr': ['205.251.192.0/18'], 'city': 'Seattle', 'classification': 'whitelist', 'country_code': 'US', 'creation_time': '2023-06-20 18:03:15', 'email': ['amzn-noc-contact@amazon.com', 'trustandsafety@support.aws.com', 'aws-routing-poc@amazon.com', 'aws-rpki-routing-poc@amazon.com', 'ipmanagement@amazon.com'], 'ip_addr': '205.251.197.41', 'ip_version': 4, 'is_cdn': False, 'is_cnc': False, 'is_distributing_malware': False, 'is_hosting': True, 'is_iot_threat': False, 'is_known_attacker': False, 'is_known_scanner': False, 'is_mining_pool': False, 'is_open_proxy': False, 'is_sinkhole': False, 'is_tor_node': False, 'is_vpn_node': False, 'last_updated",0,trustandsafety@support.aws.com
+VulnWeb-Passive-OSINT,2026-02-24 07:33:39,AFFILIATE_EMAILADDR,sfp_email,"{'address': '1918 8th Ave', 'as_name': 'AS16509 Amazon Data Services Nova', 'as_number': '16509', 'asn_cidr': '205.251.195.0/24', 'asn_country_code': 'US', 'asn_date': '2010-08-27 00:00:00', 'asn_registry': 'arin', 'blacklist': [{'count': 1, 'description': 'Mail Spammer', 'first_seen': '2023-06-20 18:03:04', 'last_seen': '2023-06-20 18:03:04', 'source': 'Abuseat.org'}], 'cidr': ['205.251.192.0/18'], 'city': 'Ashburn', 'classification': 'whitelist', 'country_code': 'US', 'creation_time': '2023-06-20 18:03:04', 'email': ['aws-routing-poc@amazon.com', 'amzn-noc-contact@amazon.com', 'trustandsafety@support.aws.com', 'aws-rpki-routing-poc@amazon.com', 'ipmanagement@amazon.com'], 'ip_addr': '205.251.195.199', 'ip_version': 4, 'is_cdn': False, 'is_cnc': False, 'is_distributing_malware': False, 'is_hosting': True, 'is_iot_threat': False, 'is_known_attacker': False, 'is_known_scanner': False, 'is_mining_pool': False, 'is_open_proxy': False, 'is_sinkhole': False, 'is_tor_node': False, 'is_vpn_node': False, 'last_update",0,trustandsafety@support.aws.com
+VulnWeb-Passive-OSINT,2026-02-24 07:33:57,AFFILIATE_EMAILADDR,sfp_email,"{'address': '1918 8th Ave', 'as_name': 'AS16509 Amazon Data Services Nova', 'as_number': '16509', 'asn_cidr': '205.251.192.0/24', 'asn_country_code': 'US', 'asn_date': '2010-08-27 00:00:00', 'asn_registry': 'arin', 'blacklist': [{'count': 1, 'description': 'Mail Spammer', 'first_seen': '2023-06-20 18:02:33', 'last_seen': '2023-06-20 18:02:33', 'source': 'Abuseat.org'}], 'cidr': ['205.251.192.0/18'], 'city': 'Ashburn', 'classification': 'whitelist', 'country_code': 'US', 'creation_time': '2023-06-20 18:02:33', 'email': ['trustandsafety@support.aws.com', 'aws-rpki-routing-poc@amazon.com', 'amzn-noc-contact@amazon.com', 'aws-routing-poc@amazon.com', 'ipmanagement@amazon.com'], 'ip_addr': '205.251.192.27', 'ip_version': 4, 'is_cdn': False, 'is_cnc': False, 'is_distributing_malware': False, 'is_hosting': True, 'is_iot_threat': False, 'is_known_attacker': False, 'is_known_scanner': False, 'is_mining_pool': False, 'is_open_proxy': False, 'is_sinkhole': False, 'is_tor_node': False, 'is_vpn_node': False, 'last_updated",0,trustandsafety@support.aws.com
+VulnWeb-Passive-OSINT,2026-02-24 07:32:47,AFFILIATE_EMAILADDR,sfp_email,"{'address': 'Amazon Web Services, Inc. P.O. Box 81226', 'as_name': 'AS16509 Amazon.com, Inc.', 'as_number': '16509', 'asn_cidr': '44.224.0.0/11', 'asn_country_code': 'US', 'asn_date': '2019-07-18 00:00:00', 'asn_registry': 'arin', 'blacklist': [{'count': 1, 'description': 'Mail Spammer', 'first_seen': '2023-06-20 15:13:56', 'last_seen': '2023-06-20 15:13:56', 'source': 'Abuseat.org'}], 'cidr': ['44.192.0.0/10'], 'city': 'Boardman', 'classification': 'whitelist', 'country_code': 'US', 'creation_time': '2023-06-20 15:13:56', 'email': ['aws-routing-poc@amazon.com', 'aws-rpki-routing-poc@amazon.com', 'trustandsafety@support.aws.com', 'amzn-noc-contact@amazon.com'], 'ip_addr': '44.228.249.3', 'ip_version': 4, 'is_cdn': False, 'is_cnc': False, 'is_distributing_malware': False, 'is_hosting': True, 'is_iot_threat': False, 'is_known_attacker': False, 'is_known_scanner': False, 'is_mining_pool': False, 'is_open_proxy': False, 'is_sinkhole': False, 'is_tor_node': False, 'is_vpn_node': False, 'last_updated': '2019-07-18 ",0,trustandsafety@support.aws.com
+VulnWeb-Passive-OSINT,2026-02-24 07:32:46,AFFILIATE_INTERNET_NAME,sfp_dnsresolve,142.250.98.27,0,uh-in-f27.1e100.net
+VulnWeb-Passive-OSINT,2026-02-24 07:26:18,DNS_TEXT,sfp_dnsraw,amazonaws.com,0,v=spf1 include:amazon.com ~all
+VulnWeb-Passive-OSINT,2026-02-24 07:26:18,DNS_SPF,sfp_dnsraw,amazonaws.com,0,v=spf1 include:amazon.com ~all
+VulnWeb-Passive-OSINT,2026-02-24 07:26:13,DNS_TEXT,sfp_dnsraw,vulnweb.com,0,v=spf1 ~all
+VulnWeb-Passive-OSINT,2026-02-24 07:26:13,DNS_SPF,sfp_dnsraw,vulnweb.com,0,v=spf1 ~all
+VulnWeb-Passive-OSINT,2026-02-24 07:28:15,USERNAME,sfp_accounts,vulnweb.com,0,vulnweb
+VulnWeb-Passive-OSINT,2026-02-24 07:26:19,INTERNET_NAME,sfp_urlscan,ec2-44-228-249-3.us-west-2.compute.amazonaws.com,0,vulnweb.com
+VulnWeb-Passive-OSINT,2026-02-24 07:26:19,DOMAIN_NAME,sfp_urlscan,ec2-44-228-249-3.us-west-2.compute.amazonaws.com,0,vulnweb.com
+VulnWeb-Passive-OSINT,2026-02-24 07:33:37,CO_HOSTED_SITE_DOMAIN,sfp_dnsresolve,testhtml5.vulnweb.com,0,vulnweb.com
+VulnWeb-Passive-OSINT,2026-02-24 07:26:11,DOMAIN_NAME_PARENT,sfp_dnsresolve,testphp.vulnweb.com,0,vulnweb.com
+VulnWeb-Passive-OSINT,2026-02-24 07:33:28,CO_HOSTED_SITE_DOMAIN,sfp_dnsresolve,www.vulnweb.com,0,vulnweb.com
+VulnWeb-Passive-OSINT,2026-02-24 07:26:12,RAW_DNS_RECORDS,sfp_dnsraw,vulnweb.com,0,"vulnweb.com. 10800 IN MX 10 alt4.aspmx.l.google.com.
+vulnweb.com. 10800 IN MX 10 aspmx.l.google.com.
+vulnweb.com. 10800 IN MX 10 alt2.aspmx.l.google.com.
+vulnweb.com. 10800 IN MX 10 alt1.aspmx.l.google.com.
+vulnweb.com. 10800 IN MX 10 alt3.aspmx.l.google.com."
+VulnWeb-Passive-OSINT,2026-02-24 07:26:13,RAW_DNS_RECORDS,sfp_dnsraw,vulnweb.com,0,"vulnweb.com. 10800 IN NS ns-140-c.gandi.net.
+vulnweb.com. 10800 IN NS ns-11-b.gandi.net.
+vulnweb.com. 10800 IN NS ns-105-a.gandi.net."
+VulnWeb-Passive-OSINT,2026-02-24 07:26:13,RAW_DNS_RECORDS,sfp_dnsraw,vulnweb.com,0,"vulnweb.com. 10800 IN TXT ""v=spf1 ~all""
+vulnweb.com. 10800 IN TXT ""google-site-verification=4LQORV-lTi-d4GPxtBEQWmFnwff7UAazQc9gZvHukbw"""
+VulnWeb-Passive-OSINT,2026-02-24 07:32:49,AFFILIATE_INTERNET_NAME,sfp_dnsresolve,2607:f8b0:400c:c13::1b,0,vw-in-x1b.1e100.net
+VulnWeb-Passive-OSINT,2026-02-24 07:33:08,AFFILIATE_EMAILADDR,sfp_email,"   Domain Name: GOOGLE.COM
+   Registry Domain ID: 2138514_DOMAIN_COM-VRSN
+   Registrar WHOIS Server: whois.markmonitor.com
+   Registrar URL: http://www.markmonitor.com
+   Updated Date: 2019-09-09T15:39:04Z
+   Creation Date: 1997-09-15T04:00:00Z
+   Registry Expiry Date: 2028-09-14T04:00:00Z
+   Registrar: MarkMonitor Inc.
+   Registrar IANA ID: 292
+   Registrar Abuse Contact Email: abusecomplaints@markmonitor.com
+   Registrar Abuse Contact Phone: +1.2086851750
+   Domain Status: clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited
+   Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+   Domain Status: clientUpdateProhibited https://icann.org/epp#clientUpdateProhibited
+   Domain Status: serverDeleteProhibited https://icann.org/epp#serverDeleteProhibited
+   Domain Status: serverTransferProhibited https://icann.org/epp#serverTransferProhibited
+   Domain Status: serverUpdateProhibited https://icann.org/epp#serverUpdateProhibited
+   Name Server: NS1.G",0,whoisrequest@markmonitor.com
+VulnWeb-Passive-OSINT,2026-02-24 07:34:16,AFFILIATE_EMAILADDR,sfp_email,"   Domain Name: 1E100.NET
+   Registry Domain ID: 1570253561_DOMAIN_NET-VRSN
+   Registrar WHOIS Server: whois.markmonitor.com
+   Registrar URL: http://www.markmonitor.com
+   Updated Date: 2025-08-24T10:14:44Z
+   Creation Date: 2009-09-25T05:40:03Z
+   Registry Expiry Date: 2026-09-25T05:40:03Z
+   Registrar: MarkMonitor Inc.
+   Registrar IANA ID: 292
+   Registrar Abuse Contact Email: abusecomplaints@markmonitor.com
+   Registrar Abuse Contact Phone: +1.2086851750
+   Domain Status: clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited
+   Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+   Domain Status: clientUpdateProhibited https://icann.org/epp#clientUpdateProhibited
+   Domain Status: serverDeleteProhibited https://icann.org/epp#serverDeleteProhibited
+   Domain Status: serverTransferProhibited https://icann.org/epp#serverTransferProhibited
+   Domain Status: serverUpdateProhibited https://icann.org/epp#serverUpdateProhibited
+   Name Server: NS1",0,whoisrequest@markmonitor.com
+VulnWeb-Passive-OSINT,2026-02-24 07:33:48,AFFILIATE_EMAILADDR,sfp_email,"   Domain Name: AWSDNS-56.NET
+   Registry Domain ID: 1621573084_DOMAIN_NET-VRSN
+   Registrar WHOIS Server: whois.markmonitor.com
+   Registrar URL: http://www.markmonitor.com
+   Updated Date: 2025-07-31T17:48:26Z
+   Creation Date: 2010-10-21T21:02:57Z
+   Registry Expiry Date: 2026-10-21T21:02:57Z
+   Registrar: MarkMonitor Inc.
+   Registrar IANA ID: 292
+   Registrar Abuse Contact Email: abusecomplaints@markmonitor.com
+   Registrar Abuse Contact Phone: +1.2086851750
+   Domain Status: clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited
+   Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+   Domain Status: clientUpdateProhibited https://icann.org/epp#clientUpdateProhibited
+   Domain Status: serverDeleteProhibited https://icann.org/epp#serverDeleteProhibited
+   Domain Status: serverTransferProhibited https://icann.org/epp#serverTransferProhibited
+   Domain Status: serverUpdateProhibited https://icann.org/epp#serverUpdateProhibited
+   Name Server:",0,whoisrequest@markmonitor.com
+VulnWeb-Passive-OSINT,2026-02-24 07:33:54,AFFILIATE_EMAILADDR,sfp_email,"   Domain Name: AMAZON.COM
+   Registry Domain ID: 281209_DOMAIN_COM-VRSN
+   Registrar WHOIS Server: whois.markmonitor.com
+   Registrar URL: http://www.markmonitor.com
+   Updated Date: 2025-07-31T17:49:55Z
+   Creation Date: 1994-11-01T05:00:00Z
+   Registry Expiry Date: 2026-10-31T04:00:00Z
+   Registrar: MarkMonitor Inc.
+   Registrar IANA ID: 292
+   Registrar Abuse Contact Email: abusecomplaints@markmonitor.com
+   Registrar Abuse Contact Phone: +1.2086851750
+   Domain Status: clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited
+   Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+   Domain Status: clientUpdateProhibited https://icann.org/epp#clientUpdateProhibited
+   Domain Status: serverDeleteProhibited https://icann.org/epp#serverDeleteProhibited
+   Domain Status: serverTransferProhibited https://icann.org/epp#serverTransferProhibited
+   Domain Status: serverUpdateProhibited https://icann.org/epp#serverUpdateProhibited
+   Name Server: NS1.AM",0,whoisrequest@markmonitor.com
+VulnWeb-Passive-OSINT,2026-02-24 07:33:03,AFFILIATE_EMAILADDR,sfp_email,"   Domain Name: AMAZONAWS.COM
+   Registry Domain ID: 197784869_DOMAIN_COM-VRSN
+   Registrar WHOIS Server: whois.markmonitor.com
+   Registrar URL: http://www.markmonitor.com
+   Updated Date: 2024-01-29T18:09:26Z
+   Creation Date: 2005-08-18T02:10:45Z
+   Registry Expiry Date: 2027-01-16T04:59:59Z
+   Registrar: MarkMonitor Inc.
+   Registrar IANA ID: 292
+   Registrar Abuse Contact Email: abusecomplaints@markmonitor.com
+   Registrar Abuse Contact Phone: +1.2086851750
+   Domain Status: clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited
+   Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+   Domain Status: clientUpdateProhibited https://icann.org/epp#clientUpdateProhibited
+   Domain Status: serverDeleteProhibited https://icann.org/epp#serverDeleteProhibited
+   Domain Status: serverTransferProhibited https://icann.org/epp#serverTransferProhibited
+   Domain Status: serverUpdateProhibited https://icann.org/epp#serverUpdateProhibited
+   Name Server: ",0,whoisrequest@markmonitor.com
+VulnWeb-Passive-OSINT,2026-02-24 07:34:10,AFFILIATE_EMAILADDR,sfp_email,"   Domain Name: AWSDNS-03.COM
+   Registry Domain ID: 1621572989_DOMAIN_COM-VRSN
+   Registrar WHOIS Server: whois.markmonitor.com
+   Registrar URL: http://www.markmonitor.com
+   Updated Date: 2025-07-31T17:31:13Z
+   Creation Date: 2010-10-21T21:02:44Z
+   Registry Expiry Date: 2026-10-21T21:02:44Z
+   Registrar: MarkMonitor Inc.
+   Registrar IANA ID: 292
+   Registrar Abuse Contact Email: abusecomplaints@markmonitor.com
+   Registrar Abuse Contact Phone: +1.2086851750
+   Domain Status: clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited
+   Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+   Domain Status: clientUpdateProhibited https://icann.org/epp#clientUpdateProhibited
+   Domain Status: serverDeleteProhibited https://icann.org/epp#serverDeleteProhibited
+   Domain Status: serverTransferProhibited https://icann.org/epp#serverTransferProhibited
+   Domain Status: serverUpdateProhibited https://icann.org/epp#serverUpdateProhibited
+   Name Server:",0,whoisrequest@markmonitor.com
+VulnWeb-Passive-OSINT,2026-02-24 07:26:57,CO_HOSTED_SITE,sfp_robtex,44.228.249.3,0,www.vulnweb.com
+VulnWeb-Passive-OSINT,2026-02-24 07:32:45,AFFILIATE_INTERNET_NAME,sfp_dnsresolve,192.178.223.27,0,yulhrs-in-f27.1e100.net
+VulnWeb-Passive-OSINT,2026-02-24 07:32:45,AFFILIATE_INTERNET_NAME,sfp_dnsresolve,2a00:1450:4009:c0f::1b,0,yulhrs-in-f27.1e100.net
+VulnWeb-Passive-OSINT,2026-02-24 07:26:57,RAW_RIR_DATA,sfp_robtex,44.228.249.3,0,"{""status"": ""ok"", ""city"": ""Boardman"", ""country"": ""US"", ""as"": 16509, ""bgproute"": ""44.224.0.0/11"", ""asname"": ""Amazon"", ""asdesc"": ""AMAZON-02"", ""whoisdesc"": ""Amazon.com"", ""pas"": [{""o"": ""www.vulnweb.com"", ""t"": 1771936016}, {""o"": ""ec2-44-228-249-3.us-west-2.compute.amazonaws.com"", ""t"": 1771936016}, {""o"": ""vulnweb.com"", ""t"": 1771936016}, {""o"": ""testphp.vulnweb.com"", ""t"": 1771936016}, {""o"": ""testhtml5.vulnweb.com"", ""t"": 1771936016}]}"
+VulnWeb-Passive-OSINT,2026-02-24 07:27:09,RAW_RIR_DATA,sfp_maltiverse,172.253.116.27,0,"{'address': '1600 Amphitheatre Parkway', 'as_name': 'AS15169 Google LLC', 'as_number': '15169', 'asn_cidr': '172.253.116.0/24', 'asn_country_code': 'US', 'asn_date': '2013-04-04 00:00:00', 'asn_registry': 'arin', 'blacklist': [{'count': 1, 'description': 'Generic.Malware', 'first_seen': '2019-10-15 15:30:12', 'last_seen': '2019-10-15 15:30:12', 'source': 'Hybrid-Analysis'}, {'count': 1, 'description': 'Anonymizer', 'first_seen': '2021-01-01 15:42:55', 'last_seen': '2021-03-06 17:48:07', 'source': 'Maltiverse'}, {'count': 1, 'description': 'Anonymizer', 'first_seen': '2021-01-02 16:49:38', 'labels': ['anonymizer'], 'last_seen': '2021-05-19 12:24:30', 'source': 'Maltiverse Research Team'}, {'count': 56, 'description': 'Proxy', 'first_seen': '2023-01-02 07:49:08', 'labels': ['anonymization'], 'last_seen': '2025-10-06 20:10:06', 'ref': [1, 21745], 'source': 'FireHOL'}, {'count': 4, 'description': 'Proxy', 'first_seen': '2025-05-02 23:31:31', 'labels': ['anonymization'], 'last_seen': '2025-10-08 17:18:17', 'source"
+VulnWeb-Passive-OSINT,2026-02-24 07:33:13,RAW_RIR_DATA,sfp_maltiverse,205.251.192.27,0,"{'address': '1918 8th Ave', 'as_name': 'AS16509 Amazon Data Services Nova', 'as_number': '16509', 'asn_cidr': '205.251.192.0/24', 'asn_country_code': 'US', 'asn_date': '2010-08-27 00:00:00', 'asn_registry': 'arin', 'blacklist': [{'count': 1, 'description': 'Mail Spammer', 'first_seen': '2023-06-20 18:02:33', 'last_seen': '2023-06-20 18:02:33', 'source': 'Abuseat.org'}], 'cidr': ['205.251.192.0/18'], 'city': 'Ashburn', 'classification': 'whitelist', 'country_code': 'US', 'creation_time': '2023-06-20 18:02:33', 'email': ['trustandsafety@support.aws.com', 'aws-rpki-routing-poc@amazon.com', 'amzn-noc-contact@amazon.com', 'aws-routing-poc@amazon.com', 'ipmanagement@amazon.com'], 'ip_addr': '205.251.192.27', 'ip_version': 4, 'is_cdn': False, 'is_cnc': False, 'is_distributing_malware': False, 'is_hosting': True, 'is_iot_threat': False, 'is_known_attacker': False, 'is_known_scanner': False, 'is_mining_pool': False, 'is_open_proxy': False, 'is_sinkhole': False, 'is_tor_node': False, 'is_vpn_node': False, 'last_updated"
+VulnWeb-Passive-OSINT,2026-02-24 07:32:28,RAW_RIR_DATA,sfp_maltiverse,205.251.195.199,0,"{'address': '1918 8th Ave', 'as_name': 'AS16509 Amazon Data Services Nova', 'as_number': '16509', 'asn_cidr': '205.251.195.0/24', 'asn_country_code': 'US', 'asn_date': '2010-08-27 00:00:00', 'asn_registry': 'arin', 'blacklist': [{'count': 1, 'description': 'Mail Spammer', 'first_seen': '2023-06-20 18:03:04', 'last_seen': '2023-06-20 18:03:04', 'source': 'Abuseat.org'}], 'cidr': ['205.251.192.0/18'], 'city': 'Ashburn', 'classification': 'whitelist', 'country_code': 'US', 'creation_time': '2023-06-20 18:03:04', 'email': ['aws-routing-poc@amazon.com', 'amzn-noc-contact@amazon.com', 'trustandsafety@support.aws.com', 'aws-rpki-routing-poc@amazon.com', 'ipmanagement@amazon.com'], 'ip_addr': '205.251.195.199', 'ip_version': 4, 'is_cdn': False, 'is_cnc': False, 'is_distributing_malware': False, 'is_hosting': True, 'is_iot_threat': False, 'is_known_attacker': False, 'is_known_scanner': False, 'is_mining_pool': False, 'is_open_proxy': False, 'is_sinkhole': False, 'is_tor_node': False, 'is_vpn_node': False, 'last_update"
+VulnWeb-Passive-OSINT,2026-02-24 07:32:47,RAW_RIR_DATA,sfp_maltiverse,205.251.197.41,0,"{'address': '1918 8th Ave', 'as_name': 'AS16509 Amazon Data Services Nova', 'as_number': '16509', 'asn_cidr': '205.251.197.0/24', 'asn_country_code': 'US', 'asn_date': '2010-08-27 00:00:00', 'asn_registry': 'arin', 'blacklist': [{'count': 1, 'description': 'Mail Spammer', 'first_seen': '2023-06-20 18:03:16', 'last_seen': '2023-06-20 18:03:16', 'source': 'Abuseat.org'}], 'cidr': ['205.251.192.0/18'], 'city': 'Seattle', 'classification': 'whitelist', 'country_code': 'US', 'creation_time': '2023-06-20 18:03:15', 'email': ['amzn-noc-contact@amazon.com', 'trustandsafety@support.aws.com', 'aws-routing-poc@amazon.com', 'aws-rpki-routing-poc@amazon.com', 'ipmanagement@amazon.com'], 'ip_addr': '205.251.197.41', 'ip_version': 4, 'is_cdn': False, 'is_cnc': False, 'is_distributing_malware': False, 'is_hosting': True, 'is_iot_threat': False, 'is_known_attacker': False, 'is_known_scanner': False, 'is_mining_pool': False, 'is_open_proxy': False, 'is_sinkhole': False, 'is_tor_node': False, 'is_vpn_node': False, 'last_updated"
+VulnWeb-Passive-OSINT,2026-02-24 07:33:17,RAW_RIR_DATA,sfp_maltiverse,205.251.198.134,0,"{'address': '1918 8th Ave', 'as_name': 'AS16509 Amazon Data Services Nova', 'as_number': '16509', 'asn_cidr': '205.251.198.0/24', 'asn_country_code': 'US', 'asn_date': '2010-08-27 00:00:00', 'asn_registry': 'arin', 'blacklist': [{'count': 1, 'description': 'Mail Spammer', 'first_seen': '2023-06-20 18:03:11', 'last_seen': '2023-06-20 18:03:11', 'source': 'Abuseat.org'}], 'cidr': ['205.251.192.0/18'], 'city': 'Ashburn', 'classification': 'whitelist', 'country_code': 'US', 'creation_time': '2023-06-20 18:03:11', 'email': ['amzn-noc-contact@amazon.com', 'aws-rpki-routing-poc@amazon.com', 'aws-routing-poc@amazon.com', 'trustandsafety@support.aws.com', 'ipmanagement@amazon.com'], 'ip_addr': '205.251.198.134', 'ip_version': 4, 'is_cdn': False, 'is_cnc': False, 'is_distributing_malware': False, 'is_hosting': True, 'is_iot_threat': False, 'is_known_attacker': False, 'is_known_scanner': False, 'is_mining_pool': False, 'is_open_proxy': False, 'is_sinkhole': False, 'is_tor_node': False, 'is_vpn_node': False, 'last_update"
+VulnWeb-Passive-OSINT,2026-02-24 07:32:43,RAW_RIR_DATA,sfp_maltiverse,3.222.250.144,0,"{'address': '410 Terry Ave N.', 'as_name': 'AS14618 Amazon Data Services Nova', 'as_number': '14618', 'asn_cidr': '3.208.0.0/12', 'asn_country_code': 'US', 'asn_date': '2018-06-25 00:00:00', 'asn_registry': 'arin', 'blacklist': [{'count': 1, 'description': 'Mail Spammer', 'first_seen': '2024-03-12 03:33:04', 'last_seen': '2024-03-12 03:33:04', 'source': 'Abuseat.org'}], 'cidr': ['3.128.0.0/9'], 'city': 'Ashburn', 'classification': 'suspicious', 'country_code': 'US', 'creation_time': '2024-03-12 03:33:02', 'email': ['abuse@amazonaws.com', 'aws-rpki-routing-poc@amazon.com', 'amzn-noc-contact@amazon.com', 'aws-routing-poc@amazon.com'], 'ip_addr': '3.222.250.144', 'ip_version': 4, 'is_cdn': False, 'is_cnc': False, 'is_distributing_malware': False, 'is_hosting': False, 'is_iot_threat': False, 'is_known_attacker': False, 'is_known_scanner': False, 'is_mining_pool': False, 'is_open_proxy': False, 'is_sinkhole': False, 'is_tor_node': False, 'is_vpn_node': False, 'last_updated': '2018-09-13 00:00:00', 'location': {'la"
+VulnWeb-Passive-OSINT,2026-02-24 07:26:57,RAW_RIR_DATA,sfp_maltiverse,44.228.249.3,0,"{'address': 'Amazon Web Services, Inc. P.O. Box 81226', 'as_name': 'AS16509 Amazon.com, Inc.', 'as_number': '16509', 'asn_cidr': '44.224.0.0/11', 'asn_country_code': 'US', 'asn_date': '2019-07-18 00:00:00', 'asn_registry': 'arin', 'blacklist': [{'count': 1, 'description': 'Mail Spammer', 'first_seen': '2023-06-20 15:13:56', 'last_seen': '2023-06-20 15:13:56', 'source': 'Abuseat.org'}], 'cidr': ['44.192.0.0/10'], 'city': 'Boardman', 'classification': 'whitelist', 'country_code': 'US', 'creation_time': '2023-06-20 15:13:56', 'email': ['aws-routing-poc@amazon.com', 'aws-rpki-routing-poc@amazon.com', 'trustandsafety@support.aws.com', 'amzn-noc-contact@amazon.com'], 'ip_addr': '44.228.249.3', 'ip_version': 4, 'is_cdn': False, 'is_cnc': False, 'is_distributing_malware': False, 'is_hosting': True, 'is_iot_threat': False, 'is_known_attacker': False, 'is_known_scanner': False, 'is_mining_pool': False, 'is_open_proxy': False, 'is_sinkhole': False, 'is_tor_node': False, 'is_vpn_node': False, 'last_updated': '2019-07-18 "
