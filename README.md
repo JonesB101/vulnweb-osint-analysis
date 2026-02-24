@@ -20,4 +20,4 @@ This graph visualizes the relationship between the target domain, its hosted IP 
 ---
 
 ## 📂 Data Exports
-- [Full CSV Report](./spiderfoot_results.csv)
+- [Full CSV Report](./VulnWeb-Passive-OSINT-SpiderFoot.csv)
