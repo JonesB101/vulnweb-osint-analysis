@@ -1,42 +1,23 @@
-OSINT Analysis: testphp.vulnweb.com
-Objective
+# OSINT Reconnaissance Report: vulnweb.com
+**Target:** `testphp.vulnweb.com`  
+**Tooling:** SpiderFoot (Passive Scan)  
+**Analyst:** Brandon Jones
 
-Conduct passive OSINT reconnaissance on an intentionally vulnerable test domain to identify exposed infrastructure, metadata, and public-facing assets.
+---
 
-Tools Used
+## 📊 Scan Visualizations
 
-SpiderFoot
+### Executive Summary
+Below is the high-level data distribution captured during the passive reconnaissance phase. This highlights the diversity of data points retrieved, including DNS records and web content metadata.
 
-Parrot OS
+![Scan Summary](./screenshots/summary_view.png)
 
-Python 3.11 virtual environment
+### Entity Correlation Graph
+This graph visualizes the relationship between the target domain, its hosted IP addresses, and associated network infrastructure.
 
-Scope
+![Network Graph](./screenshots/network_graph.png)
 
-Target: testphp.vulnweb.com
-Scan Type: Passive / Footprint only
-No active exploitation performed.
+---
 
-Key Findings
-
-Identified hosting IP address
-
-Enumerated DNS records
-
-Collected SSL certificate data
-
-Identified related infrastructure metadata
-
-Ethical Considerations
-
-This domain is intentionally vulnerable and designed for security testing by Acunetix.
-
-Lessons Learned
-
-Proper environment setup (Python version control)
-
-Dependency troubleshooting (lxml build issue)
-
-Passive reconnaissance methodology
-
-Ethical OSINT boundaries
+## 📂 Data Exports
+- [Full CSV Report](./spiderfoot_results.csv)
